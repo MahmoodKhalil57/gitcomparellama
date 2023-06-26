@@ -1,0 +1,322 @@
+[
+  {
+    "branchName": "5edma",
+    "commitHashes": [
+      "b4f8b4a"
+    ]
+  },
+  {
+    "branchName": "DEPRECATED_DO_NOT_USE_OKhorshid/issue35",
+    "commitHashes": [
+      "39fd991"
+    ]
+  },
+  {
+    "branchName": "HEAD",
+    "commitHashes": [
+      "0b87d9b",
+      "27b3c9b",
+      "5d33fe7",
+      "8fa8fa6"
+    ]
+  },
+  {
+    "branchName": "Hotfix/v1.0.1",
+    "commitHashes": [
+      "73d85c9"
+    ]
+  },
+  {
+    "branchName": "Hotfix_v0.0.1",
+    "commitHashes": [
+      "c8c5850"
+    ]
+  },
+  {
+    "branchName": "MahmoodKhalil57/_issue3",
+    "commitHashes": [
+      "7c769a7"
+    ]
+  },
+  {
+    "branchName": "MahmoodKhalil57/_issue4",
+    "commitHashes": [
+      "055cafa"
+    ]
+  },
+  {
+    "branchName": "MahmoodKhalil57/_issue5",
+    "commitHashes": [
+      "cd20ef2"
+    ]
+  },
+  {
+    "branchName": "MahmoodKhalil57/issue1",
+    "commitHashes": [
+      "e9ff489"
+    ]
+  },
+  {
+    "branchName": "MahmoodKhalil57/issue10",
+    "commitHashes": [
+      "80a4a6c"
+    ]
+  },
+  {
+    "branchName": "MahmoodKhalil57/issue16",
+    "commitHashes": [
+      "f95e691"
+    ]
+  },
+  {
+    "branchName": "MahmoodKhalil57/issue17",
+    "commitHashes": [
+      "380910b"
+    ]
+  },
+  {
+    "branchName": "MahmoodKhalil57/issue18",
+    "commitHashes": [
+      "3f8e012"
+    ]
+  },
+  {
+    "branchName": "MahmoodKhalil57/issue19",
+    "commitHashes": [
+      "58ff6df"
+    ]
+  },
+  {
+    "branchName": "MahmoodKhalil57/issue2",
+    "commitHashes": [
+      "805c16a"
+    ]
+  },
+  {
+    "branchName": "MahmoodKhalil57/issue22",
+    "commitHashes": [
+      "c8c4453"
+    ]
+  },
+  {
+    "branchName": "MahmoodKhalil57/issue24",
+    "commitHashes": [
+      "fbcd8d1"
+    ]
+  },
+  {
+    "branchName": "MahmoodKhalil57/issue27",
+    "commitHashes": [
+      "a526f20"
+    ]
+  },
+  {
+    "branchName": "MahmoodKhalil57/issue29",
+    "commitHashes": [
+      "b68e053"
+    ]
+  },
+  {
+    "branchName": "MahmoodKhalil57/issue3",
+    "commitHashes": [
+      "d3e0696"
+    ]
+  },
+  {
+    "branchName": "MahmoodKhalil57/issue33",
+    "commitHashes": [
+      "d6e689e"
+    ]
+  },
+  {
+    "branchName": "MahmoodKhalil57/issue34",
+    "commitHashes": [
+      "dd1c3df"
+    ]
+  },
+  {
+    "branchName": "MahmoodKhalil57/issue4",
+    "commitHashes": [
+      "682eb1d"
+    ]
+  },
+  {
+    "branchName": "MahmoodKhalil57/issue5",
+    "commitHashes": [
+      "562905f"
+    ]
+  },
+  {
+    "branchName": "MahmoodKhalil57/issue6",
+    "commitHashes": [
+      "40ea584"
+    ]
+  },
+  {
+    "branchName": "MahmoodKhalil57/issue7",
+    "commitHashes": [
+      "4accdbc"
+    ]
+  },
+  {
+    "branchName": "MahmoodKhalil57/issue8",
+    "commitHashes": [
+      "5d882f9"
+    ]
+  },
+  {
+    "branchName": "MahmoodKhalil57/issue9",
+    "commitHashes": [
+      "5dc3735"
+    ]
+  },
+  {
+    "branchName": "OKhorshid/issue11",
+    "commitHashes": [
+      "2c03617"
+    ]
+  },
+  {
+    "branchName": "OKhorshid/issue13",
+    "commitHashes": [
+      "61a41c0"
+    ]
+  },
+  {
+    "branchName": "OKhorshid/issue14",
+    "commitHashes": [
+      "492a9b5"
+    ]
+  },
+  {
+    "branchName": "OKhorshid/issue15",
+    "commitHashes": [
+      "1663a9f"
+    ]
+  },
+  {
+    "branchName": "OKhorshid/issue21",
+    "commitHashes": [
+      "2b0542d"
+    ]
+  },
+  {
+    "branchName": "OKhorshid/issue23",
+    "commitHashes": [
+      "cf92bfb"
+    ]
+  },
+  {
+    "branchName": "OKhorshid/issue25",
+    "commitHashes": [
+      "d2ea9e1"
+    ]
+  },
+  {
+    "branchName": "OKhorshid/issue28",
+    "commitHashes": [
+      "27ac852"
+    ]
+  },
+  {
+    "branchName": "OKhorshid/issue31",
+    "commitHashes": [
+      "a7db902"
+    ]
+  },
+  {
+    "branchName": "OKhorshid/issue35",
+    "commitHashes": [
+      "3d43d35"
+    ]
+  },
+  {
+    "branchName": "Omegz/issue1",
+    "commitHashes": [
+      "2c0b387"
+    ]
+  },
+  {
+    "branchName": "Omegz/issue2",
+    "commitHashes": [
+      "4fff444",
+      "dc8ca67",
+      "f038018",
+      "b4d07b1",
+      "458b60a",
+      "ff137af",
+      "95ea393",
+      "a3d3c99",
+      "efcdd44",
+      "4b028f5",
+      "a5f61a9",
+      "a017f87",
+      "0fea2dd",
+      "f83b9d4",
+      "3557d10",
+      "9cb9c88",
+      "9216da8",
+      "52721b9",
+      "bd935cc",
+      "36d6cc5"
+    ]
+  },
+  {
+    "branchName": "addDocker",
+    "commitHashes": [
+      "acffe3a"
+    ]
+  },
+  {
+    "branchName": "bugfix-0.0.2",
+    "commitHashes": [
+      "0e24a03"
+    ]
+  },
+  {
+    "branchName": "fix_0.1",
+    "commitHashes": [
+      "7db9224"
+    ]
+  },
+  {
+    "branchName": "hotfix-pnpm-build",
+    "commitHashes": [
+      "ccf783f"
+    ]
+  },
+  {
+    "branchName": "mahmoodKhalil/issue30",
+    "commitHashes": [
+      "95b17ae"
+    ]
+  },
+  {
+    "branchName": "master",
+    "commitHashes": []
+  },
+  {
+    "branchName": "pnpm_update",
+    "commitHashes": [
+      "880adbf"
+    ]
+  },
+  {
+    "branchName": "production_V1.0.0",
+    "commitHashes": [
+      "9afa61a"
+    ]
+  },
+  {
+    "branchName": "production_V1.0.0_netlify",
+    "commitHashes": [
+      "fd27848"
+    ]
+  },
+  {
+    "branchName": "restTest",
+    "commitHashes": [
+      "eb090f9"
+    ]
+  }
+]

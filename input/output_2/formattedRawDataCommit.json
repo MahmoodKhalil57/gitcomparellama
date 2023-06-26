@@ -1,0 +1,6806 @@
+{
+  "2648791": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'MahmoodKhalil57/issue41'",
+    "date": "1687305665",
+    "branches": "",
+    "parents": [
+      "6ba3b73",
+      "cea7dfc"
+    ],
+    "files": []
+  },
+  "3350640": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'MahmoodKhalil57/issue27'",
+    "date": "1680392002",
+    "branches": "",
+    "parents": [
+      "4c5395e",
+      "cae620f"
+    ],
+    "files": []
+  },
+  "3479311": {
+    "author": "MahmoodKhalil57",
+    "subject": "(init) Add tailwind Fixes #1",
+    "date": "1676085303",
+    "branches": " (origin/MahmoodKhalil57/issue1)",
+    "parents": [
+      "f342a9f"
+    ],
+    "files": [
+      "package.json",
+      "pnpm-lock.yaml",
+      "postcss.config.cjs",
+      "src/app.css",
+      "src/routes/+layout.svelte",
+      "tailwind.config.cjs"
+    ]
+  },
+  "4393474": {
+    "author": "MahmoodKhalil57",
+    "subject": "prep html for validation #33",
+    "date": "1681082071",
+    "branches": "",
+    "parents": [
+      "f3b0789"
+    ],
+    "files": [
+      "src/routes/(app)/(auth)/login/+page.svelte",
+      "src/routes/(app)/(auth)/signup/+page.svelte",
+      "src/routes/(app)/checkout/contactInfo/+page.svelte",
+      "src/routes/(app)/checkout/payment/+page.svelte"
+    ]
+  },
+  "4946709": {
+    "author": "Omar Khorshid",
+    "subject": "Hotfix branch #4 width-adjustment",
+    "date": "1678019801",
+    "branches": "",
+    "parents": [
+      "087790d"
+    ],
+    "files": [
+      "src/lib/components/layout/DrawerContent.svelte"
+    ]
+  },
+  "5372047": {
+    "author": "MahmoodKhalil57",
+    "subject": "t",
+    "date": "1686364023",
+    "branches": "",
+    "parents": [
+      "d7b89a1"
+    ],
+    "files": [
+      "prisma/dev.db"
+    ]
+  },
+  "5692805": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'MahmoodKhalil57/issue33'",
+    "date": "1683495515",
+    "branches": "",
+    "parents": [
+      "13bceb3",
+      "3cc39ce"
+    ],
+    "files": []
+  },
+  "5865912": {
+    "author": "Omar Khorshid",
+    "subject": "hotfix/v1.0.1 - tailwindcss-debug-screens & tailwindcss-question-mark added",
+    "date": "1681063555",
+    "branches": "",
+    "parents": [
+      "eeda41f"
+    ],
+    "files": [
+      "package.json",
+      "pnpm-lock.yaml",
+      "src/routes/+layout.svelte",
+      "tailwind.config.cjs"
+    ]
+  },
+  "6127676": {
+    "author": "MahmoodKhalil57",
+    "subject": "format all status for other endpoints Replace svelte Auth with Lucia #38",
+    "date": "1686343040",
+    "branches": "",
+    "parents": [
+      "cc106d2"
+    ],
+    "files": [
+      "src/lib/validation/shared.ts",
+      "src/routes/(app)/products/(index)/+page.svelte",
+      "src/routes/(app)/products/[slug]/+page.svelte",
+      "src/routes/(app)/products/[slug]/v3/+page.svelte",
+      "src/trpc/root.server.ts",
+      "src/trpc/router/example.server.ts",
+      "src/trpc/router/shopifyRouter.server.ts",
+      "src/trpc/router/userRouter.server.ts"
+    ]
+  },
+  "6281397": {
+    "author": "MahmoodKhalil57",
+    "subject": "setup optimized env #38",
+    "date": "1685963953",
+    "branches": "",
+    "parents": [
+      "fca44ac"
+    ],
+    "files": [
+      "pnpm-lock.yaml",
+      "src/env.server.ts",
+      "src/trpc/utils/adminQlClient.ts",
+      "src/trpc/utils/luciaClient.server.ts",
+      "svelte.config.js",
+      "tsconfig.json"
+    ]
+  },
+  "6417219": {
+    "author": "Omar Khorshid",
+    "subject": "Integration proof of concept complete",
+    "date": "1676727610",
+    "branches": "",
+    "parents": [
+      "76182d2"
+    ],
+    "files": [
+      "src/lib/server/router/shopifyRouter.ts",
+      "src/lib/server/utils/storeFrontClient.ts"
+    ]
+  },
+  "8137952": {
+    "author": "MahmoodKhalil57",
+    "subject": "Add icon default Create components out of everything #12",
+    "date": "1684461284",
+    "branches": "",
+    "parents": [
+      "6f1f84e"
+    ],
+    "files": [
+      "src/lib/components/layout/Header.svelte",
+      "src/lib/components/ui/iconDefault.svelte",
+      "src/lib/components/utils/DarkModeToggle.svelte",
+      "src/lib/components/utils/DrawerContainer.svelte",
+      "src/routes/(app)/products/(index)/+layout.svelte",
+      "src/routes/(app)/products/[slug]/+page.svelte",
+      "src/routes/(app)/products/[slug]/v3/+page.svelte",
+      "src/routes/(app)/yourCart/+page.svelte"
+    ]
+  },
+  "8909326": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'OKhorshid/issue21'",
+    "date": "1679751509",
+    "branches": "",
+    "parents": [
+      "c683562",
+      "19a2c87"
+    ],
+    "files": []
+  },
+  "9888743": {
+    "author": "Omar Khorshid",
+    "subject": "Init Authjs Fixes #31",
+    "date": "1681050680",
+    "branches": "",
+    "parents": [
+      "cb0ab57"
+    ],
+    "files": [
+      "package.json",
+      "pnpm-lock.yaml",
+      "prisma/schema.prisma",
+      "src/hooks.server.ts"
+    ]
+  },
+  "03c8731": {
+    "author": "Omar Khorshid",
+    "subject": "Merge branch 'production_V1.0.0' into production_V1.0.0_netlify",
+    "date": "1687742198",
+    "branches": " (HEAD -> production_V1.0.0_netlify, origin/production_V1.0.0_netlify)",
+    "parents": [
+      "3e835f1",
+      "9dedc30"
+    ],
+    "files": []
+  },
+  "9dedc30": {
+    "author": "Omar Khorshid",
+    "subject": "Merge branch 'master' into production_V1.0.0",
+    "date": "1687742188",
+    "branches": "",
+    "parents": [
+      "debe67c",
+      "0578534"
+    ],
+    "files": []
+  },
+  "0578534": {
+    "author": "Omar Khorshid",
+    "subject": "Merge branch 'OKhorshid/issue50'",
+    "date": "1687742169",
+    "branches": "",
+    "parents": [
+      "cca27f3",
+      "2fec63f"
+    ],
+    "files": []
+  },
+  "2fec63f": {
+    "author": "Omar Khorshid",
+    "subject": "hotfix for phone",
+    "date": "1687742143",
+    "branches": "",
+    "parents": [
+      "f43d732"
+    ],
+    "files": [
+      "src/routes/(app)/experts/studios/+page.svelte"
+    ]
+  },
+  "3e835f1": {
+    "author": "Omar Khorshid",
+    "subject": "Merge branch 'production_V1.0.0' into production_V1.0.0_netlify",
+    "date": "1687740463",
+    "branches": "",
+    "parents": [
+      "faf850b",
+      "debe67c"
+    ],
+    "files": []
+  },
+  "debe67c": {
+    "author": "Omar Khorshid",
+    "subject": "Merge branch 'master' into production_V1.0.0",
+    "date": "1687740412",
+    "branches": " (origin/production_V1.0.0)",
+    "parents": [
+      "8a66a51",
+      "cca27f3"
+    ],
+    "files": []
+  },
+  "cca27f3": {
+    "author": "Omar Khorshid",
+    "subject": "Merge branch 'OKhorshid/issue50'",
+    "date": "1687740335",
+    "branches": " (origin/master, origin/HEAD)",
+    "parents": [
+      "8840b31",
+      "f43d732"
+    ],
+    "files": []
+  },
+  "f43d732": {
+    "author": "Omar Khorshid",
+    "subject": "shopify data linked to [slug]",
+    "date": "1687739858",
+    "branches": " (origin/OKhorshid/issue50)",
+    "parents": [
+      "2574a70"
+    ],
+    "files": [
+      "src/routes/(app)/experts/(index)/+page.svelte",
+      "src/routes/(app)/experts/[slug]/+page.svelte",
+      "src/routes/(app)/experts/studios/+page.svelte"
+    ]
+  },
+  "faf850b": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'production_V1.0.0' into production_V1.0.0_netlify",
+    "date": "1687710702",
+    "branches": "",
+    "parents": [
+      "df06d89",
+      "8a66a51"
+    ],
+    "files": []
+  },
+  "8a66a51": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'master' into production_V1.0.0",
+    "date": "1687710682",
+    "branches": " (production_V1.0.0)",
+    "parents": [
+      "b400a65",
+      "8840b31"
+    ],
+    "files": []
+  },
+  "8840b31": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'MahmoodKhalil57/issue56'",
+    "date": "1687710667",
+    "branches": " (master)",
+    "parents": [
+      "25eb9e5",
+      "52f3c6f"
+    ],
+    "files": []
+  },
+  "52f3c6f": {
+    "author": "MahmoodKhalil57",
+    "subject": "hotfix mistake",
+    "date": "1687710656",
+    "branches": " (origin/MahmoodKhalil57/issue56, MahmoodKhalil57/issue56)",
+    "parents": [
+      "08484bb"
+    ],
+    "files": [
+      "src/routes/(app)/products/(index)/+page.svelte"
+    ]
+  },
+  "df06d89": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'production_V1.0.0' into production_V1.0.0_netlify",
+    "date": "1687710328",
+    "branches": "",
+    "parents": [
+      "888e84c",
+      "b400a65"
+    ],
+    "files": []
+  },
+  "b400a65": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'master' into production_V1.0.0",
+    "date": "1687710310",
+    "branches": "",
+    "parents": [
+      "f926bd6",
+      "25eb9e5"
+    ],
+    "files": []
+  },
+  "25eb9e5": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'MahmoodKhalil57/issue56'",
+    "date": "1687710297",
+    "branches": "",
+    "parents": [
+      "e66f00f",
+      "08484bb"
+    ],
+    "files": []
+  },
+  "08484bb": {
+    "author": "MahmoodKhalil57",
+    "subject": "fix spinner",
+    "date": "1687710271",
+    "branches": "",
+    "parents": [
+      "dc81617"
+    ],
+    "files": [
+      ".gitignore",
+      "src/routes/(app)/(index)/+page.svelte",
+      "src/routes/(app)/products/(index)/+page.svelte",
+      "src/routes/(app)/products/[slug]/+page.svelte",
+      "src/routes/(app)/products/[slug]/v3/+page.svelte"
+    ]
+  },
+  "888e84c": {
+    "author": "MahmoodKhalil57",
+    "subject": "add .netlify gitignore",
+    "date": "1687707636",
+    "branches": "",
+    "parents": [
+      "087902f"
+    ],
+    "files": [
+      ".gitignore"
+    ]
+  },
+  "087902f": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'production_V1.0.0' into production_V1.0.0_netlify",
+    "date": "1687707139",
+    "branches": "",
+    "parents": [
+      "b4bc004",
+      "f926bd6"
+    ],
+    "files": []
+  },
+  "f926bd6": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'master' into production_V1.0.0",
+    "date": "1687707124",
+    "branches": "",
+    "parents": [
+      "614a7ce",
+      "e66f00f"
+    ],
+    "files": []
+  },
+  "e66f00f": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'MahmoodKhalil57/issue56'",
+    "date": "1687707110",
+    "branches": "",
+    "parents": [
+      "2f9a0c4",
+      "dc81617"
+    ],
+    "files": []
+  },
+  "dc81617": {
+    "author": "MahmoodKhalil57",
+    "subject": "hookup products with shopify products",
+    "date": "1687706333",
+    "branches": "",
+    "parents": [
+      "01610c8"
+    ],
+    "files": [
+      "src/lib/stores/shopStore.ts",
+      "src/routes/(app)/(index)/+page.svelte",
+      "src/routes/(app)/products/(index)/+page.svelte",
+      "src/routes/(app)/products/[slug]/+page.svelte",
+      "src/routes/(app)/products/[slug]/v3/+page.svelte",
+      "src/trpc/router/shopifyRouter.server.ts",
+      "src/trpc/types/shopifyqlMin.types.ts",
+      "src/trpc/utils/adminQlController.ts"
+    ]
+  },
+  "01610c8": {
+    "author": "MahmoodKhalil57",
+    "subject": "make products use stores",
+    "date": "1687697611",
+    "branches": "",
+    "parents": [
+      "2f9a0c4"
+    ],
+    "files": [
+      "src/lib/stores/shopStore.ts",
+      "src/routes/(app)/products/(index)/+page.svelte",
+      "src/routes/(app)/products/[slug]/+page.svelte",
+      "src/routes/(app)/products/[slug]/v3/+page.svelte",
+      "src/trpc/router/shopifyRouter.server.ts"
+    ]
+  },
+  "2574a70": {
+    "author": "MahmoodKhalil57",
+    "subject": "add gitignore",
+    "date": "1687694745",
+    "branches": " (OKhorshid/issue50)",
+    "parents": [
+      "2d1aaa0"
+    ],
+    "files": [
+      ".gitignore"
+    ]
+  },
+  "b4bc004": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'production_V1.0.0' into production_V1.0.0_netlify",
+    "date": "1687693278",
+    "branches": "",
+    "parents": [
+      "02a41d6",
+      "614a7ce"
+    ],
+    "files": []
+  },
+  "614a7ce": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'master' into production_V1.0.0",
+    "date": "1687693268",
+    "branches": "",
+    "parents": [
+      "196bae8",
+      "2f9a0c4"
+    ],
+    "files": []
+  },
+  "2f9a0c4": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'MahmoodKhalil57/issue55'",
+    "date": "1687693257",
+    "branches": "",
+    "parents": [
+      "b2899be",
+      "b487eec"
+    ],
+    "files": []
+  },
+  "b487eec": {
+    "author": "MahmoodKhalil57",
+    "subject": "remove prerender",
+    "date": "1687693242",
+    "branches": " (origin/MahmoodKhalil57/issue55, MahmoodKhalil57/issue55)",
+    "parents": [
+      "bd75820"
+    ],
+    "files": [
+      "src/routes/(app)/products/[slug]/+layout.ts",
+      "src/routes/+layout.ts",
+      "svelte.config.js"
+    ]
+  },
+  "aaaab1e": {
+    "author": "MahmoodKhalil57",
+    "subject": "On master: t",
+    "date": "1687692503",
+    "branches": " (refs/stash)",
+    "parents": [
+      "b2899be",
+      "02b1483",
+      "81a1d9c"
+    ],
+    "files": []
+  },
+  "02b1483": {
+    "author": "MahmoodKhalil57",
+    "subject": "index on master: b2899be Merge branch 'MahmoodKhalil57/issue55'",
+    "date": "1687692503",
+    "branches": "",
+    "parents": [
+      "b2899be"
+    ],
+    "files": []
+  },
+  "81a1d9c": {
+    "author": "MahmoodKhalil57",
+    "subject": "untracked files on master: b2899be Merge branch 'MahmoodKhalil57/issue55'",
+    "date": "1687692503",
+    "branches": "",
+    "parents": [
+      ""
+    ],
+    "files": []
+  },
+  "02a41d6": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'production_V1.0.0' into production_V1.0.0_netlify",
+    "date": "1687691785",
+    "branches": "",
+    "parents": [
+      "a35546c",
+      "196bae8"
+    ],
+    "files": []
+  },
+  "196bae8": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'master' into production_V1.0.0",
+    "date": "1687691766",
+    "branches": "",
+    "parents": [
+      "e55113c",
+      "b2899be"
+    ],
+    "files": []
+  },
+  "b2899be": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'MahmoodKhalil57/issue55'",
+    "date": "1687691747",
+    "branches": "",
+    "parents": [
+      "88e5f4b",
+      "bd75820"
+    ],
+    "files": []
+  },
+  "bd75820": {
+    "author": "MahmoodKhalil57",
+    "subject": "Fix email login/signup Fixes #55",
+    "date": "1687691735",
+    "branches": "",
+    "parents": [
+      "88e5f4b"
+    ],
+    "files": [
+      "src/lib/client/luciaClient.ts",
+      "src/lib/validation/shared.ts",
+      "src/routes/(app)/(auth)/callback/google/+server.ts",
+      "src/routes/(app)/(auth)/login/+page.svelte",
+      "src/routes/(app)/(auth)/signup/+page.svelte",
+      "src/trpc/context.server.ts",
+      "src/trpc/router/authRouter.server.ts"
+    ]
+  },
+  "a35546c": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'production_V1.0.0' into production_V1.0.0_netlify",
+    "date": "1687638810",
+    "branches": "",
+    "parents": [
+      "f189388",
+      "e55113c"
+    ],
+    "files": []
+  },
+  "e55113c": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'master' into production_V1.0.0",
+    "date": "1687638803",
+    "branches": "",
+    "parents": [
+      "ebfcf9d",
+      "88e5f4b"
+    ],
+    "files": []
+  },
+  "88e5f4b": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'MahmoodKhalil57/issue38'",
+    "date": "1687638786",
+    "branches": "",
+    "parents": [
+      "f8b68b2",
+      "4f141db"
+    ],
+    "files": []
+  },
+  "4f141db": {
+    "author": "MahmoodKhalil57",
+    "subject": "hotfix expired email",
+    "date": "1687638761",
+    "branches": " (origin/MahmoodKhalil57/issue38, MahmoodKhalil57/issue38)",
+    "parents": [
+      "632216b"
+    ],
+    "files": [
+      "src/trpc/router/authRouter.server.ts"
+    ]
+  },
+  "f189388": {
+    "author": "MahmoodKhalil57",
+    "subject": "add deploy:gitProd Deploy to Netlify #54",
+    "date": "1687637909",
+    "branches": "",
+    "parents": [
+      "533c19e"
+    ],
+    "files": [
+      "package.json"
+    ]
+  },
+  "533c19e": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'production_V1.0.0' into production_V1.0.0_netlify",
+    "date": "1687637433",
+    "branches": "",
+    "parents": [
+      "47740f2",
+      "ebfcf9d"
+    ],
+    "files": []
+  },
+  "ebfcf9d": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'master' into production_V1.0.0",
+    "date": "1687637420",
+    "branches": "",
+    "parents": [
+      "cd71df1",
+      "f8b68b2"
+    ],
+    "files": []
+  },
+  "f8b68b2": {
+    "author": "MahmoodKhalil57",
+    "subject": "Deploy to Netlify #54",
+    "date": "1687637397",
+    "branches": "",
+    "parents": [
+      "e9a4a0c"
+    ],
+    "files": [
+      ".gitignore"
+    ]
+  },
+  "47740f2": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'production_V1.0.0' into production_V1.0.0_netlify",
+    "date": "1687635404",
+    "branches": "",
+    "parents": [
+      "933a035",
+      "cd71df1"
+    ],
+    "files": []
+  },
+  "cd71df1": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'master' into production_V1.0.0",
+    "date": "1687635394",
+    "branches": "",
+    "parents": [
+      "a8518e6",
+      "e9a4a0c"
+    ],
+    "files": []
+  },
+  "e9a4a0c": {
+    "author": "MahmoodKhalil57",
+    "subject": "Deploy to Netlify #54",
+    "date": "1687635385",
+    "branches": "",
+    "parents": [
+      "db7703b"
+    ],
+    "files": [
+      "package.json",
+      "src/routes/+layout.svelte"
+    ]
+  },
+  "933a035": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'production_V1.0.0' into production_V1.0.0_netlify",
+    "date": "1687634610",
+    "branches": "",
+    "parents": [
+      "b060f44",
+      "a8518e6"
+    ],
+    "files": []
+  },
+  "a8518e6": {
+    "author": "MahmoodKhalil57",
+    "subject": "implement studios on shopify #50",
+    "date": "1687634596",
+    "branches": "",
+    "parents": [
+      "b14153e"
+    ],
+    "files": [
+      "prisma/schema.prisma"
+    ]
+  },
+  "b14153e": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'master' into production_V1.0.0",
+    "date": "1687634569",
+    "branches": "",
+    "parents": [
+      "7d3d60b",
+      "db7703b"
+    ],
+    "files": []
+  },
+  "db7703b": {
+    "author": "MahmoodKhalil57",
+    "subject": "Deploy to Netlify #54",
+    "date": "1687634544",
+    "branches": "",
+    "parents": [
+      "b9c372e"
+    ],
+    "files": [
+      ".npmrc",
+      "prisma/schema.prisma"
+    ]
+  },
+  "b060f44": {
+    "author": "MahmoodKhalil57",
+    "subject": "update netlify adapter",
+    "date": "1687633964",
+    "branches": "",
+    "parents": [
+      "46770e7"
+    ],
+    "files": [
+      "package.json",
+      "pnpm-lock.yaml",
+      "svelte.config.js"
+    ]
+  },
+  "46770e7": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'production_V1.0.0' into production_V1.0.0_netlify",
+    "date": "1687633893",
+    "branches": "",
+    "parents": [
+      "4ed77fe",
+      "7d3d60b"
+    ],
+    "files": []
+  },
+  "7d3d60b": {
+    "author": "MahmoodKhalil57",
+    "subject": "change db schema Deploy to Netlify #54",
+    "date": "1687633785",
+    "branches": "",
+    "parents": [
+      "72e56f0"
+    ],
+    "files": [
+      "pnpm-lock.yaml",
+      "prisma/schema.prisma"
+    ]
+  },
+  "72e56f0": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'master' into production_V1.0.0",
+    "date": "1687633689",
+    "branches": "",
+    "parents": [
+      "de2798d",
+      "b9c372e"
+    ],
+    "files": []
+  },
+  "2d1aaa0": {
+    "author": "MahmoodKhalil57",
+    "subject": "refactor upsertStudioStore, make handle optional",
+    "date": "1687632960",
+    "branches": "",
+    "parents": [
+      "c9cb72a"
+    ],
+    "files": [
+      "src/lib/stores/studioStore.ts",
+      "src/lib/validation/shared.ts",
+      "src/trpc/router/shopifyRouter.server.ts"
+    ]
+  },
+  "c9cb72a": {
+    "author": "MahmoodKhalil57",
+    "subject": "refactor get to upsert",
+    "date": "1687631820",
+    "branches": "",
+    "parents": [
+      "c3632ed"
+    ],
+    "files": [
+      "src/lib/stores/studioStore.ts",
+      "src/routes/(app)/experts/[slug]/+page.svelte"
+    ]
+  },
+  "c3632ed": {
+    "author": "MahmoodKhalil57",
+    "subject": "add studios store",
+    "date": "1687628732",
+    "branches": "",
+    "parents": [
+      "4bae8cd"
+    ],
+    "files": [
+      "src/lib/stores/studioStore.ts",
+      "src/routes/(app)/experts/[slug]/+page.svelte"
+    ]
+  },
+  "4bae8cd": {
+    "author": "MahmoodKhalil57",
+    "subject": "add handle support",
+    "date": "1687627862",
+    "branches": "",
+    "parents": [
+      "6adb9b1"
+    ],
+    "files": [
+      "src/lib/validation/shared.ts",
+      "src/routes/(app)/experts/[slug]/+page.svelte",
+      "src/trpc/router/shopifyRouter.server.ts",
+      "src/trpc/utils/adminQlController.ts"
+    ]
+  },
+  "6adb9b1": {
+    "author": "MahmoodKhalil57",
+    "subject": "connect trpc Studio and hardcode types",
+    "date": "1687626381",
+    "branches": "",
+    "parents": [
+      "cb13f5a"
+    ],
+    "files": [
+      "src/routes/(app)/experts/[slug]/+page.svelte",
+      "src/trpc/router/shopifyRouter.server.ts",
+      "src/trpc/utils/adminQlController.ts"
+    ]
+  },
+  "cb13f5a": {
+    "author": "MahmoodKhalil57",
+    "subject": "init shopify studio query",
+    "date": "1687622680",
+    "branches": "",
+    "parents": [
+      "1d69c90"
+    ],
+    "files": [
+      "src/trpc/router/shopifyRouter.server.ts",
+      "src/trpc/utils/adminQlController.ts"
+    ]
+  },
+  "1d69c90": {
+    "author": "MahmoodKhalil57",
+    "subject": "add trpc route",
+    "date": "1687612214",
+    "branches": "",
+    "parents": [
+      "e00c1b1"
+    ],
+    "files": [
+      "src/lib/validation/shared.ts",
+      "src/routes/(app)/experts/(index)/+page.svelte",
+      "src/routes/(app)/experts/+layout.svelte",
+      "src/routes/(app)/experts/[slug]/+page.svelte",
+      "src/routes/(app)/experts/slug/+page.svelte",
+      "src/routes/(app)/experts/studios/+page.svelte",
+      "src/trpc/router/shopifyRouter.server.ts"
+    ]
+  },
+  "e00c1b1": {
+    "author": "MahmoodKhalil57",
+    "subject": "add studios page",
+    "date": "1687602849",
+    "branches": "",
+    "parents": [
+      "2d6e2a2"
+    ],
+    "files": [
+      "src/routes/(app)/experts/studios/+page.svelte"
+    ]
+  },
+  "2d6e2a2": {
+    "author": "Omar Khorshid",
+    "subject": "studio slug +page.svelte first version",
+    "date": "1687578912",
+    "branches": "",
+    "parents": [
+      "3c2f3e5"
+    ],
+    "files": [
+      "src/routes/(app)/experts/[slug]/+page.svelte",
+      "src/routes/(app)/experts/slug/+page.svelte"
+    ]
+  },
+  "3c2f3e5": {
+    "author": "Omar Khorshid",
+    "subject": "experts +page.svelte  init demo",
+    "date": "1687574775",
+    "branches": "",
+    "parents": [
+      "63fc0e4"
+    ],
+    "files": [
+      "src/routes/(app)/experts/(index)/+page.svelte"
+    ]
+  },
+  "63fc0e4": {
+    "author": "Omar Khorshid",
+    "subject": "temp commit",
+    "date": "1687572926",
+    "branches": "",
+    "parents": [
+      "2c53470"
+    ],
+    "files": [
+      "pnpm-lock.yaml",
+      "src/routes/(app)/experts/(index)/+page.svelte",
+      "src/routes/(app)/experts/[slug]/+page.svelte",
+      "src/routes/(app)/experts/studios/+page.svelte",
+      "src/trpc/utils/adminQlController.ts"
+    ]
+  },
+  "2c53470": {
+    "author": "Omar Khorshid",
+    "subject": "adding experts to nav bar - implement studios on shopify Fixes  #50",
+    "date": "1687571521",
+    "branches": "",
+    "parents": [
+      "b9c372e"
+    ],
+    "files": [
+      "src/lib/components/curlture/navigation.svelte"
+    ]
+  },
+  "b9c372e": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'MahmoodKhalil57/issue41'",
+    "date": "1687307232",
+    "branches": " (origin/OKhorshid/issue52)",
+    "parents": [
+      "2648791",
+      "044f7a4"
+    ],
+    "files": []
+  },
+  "044f7a4": {
+    "author": "MahmoodKhalil57",
+    "subject": "less is more",
+    "date": "1687307211",
+    "branches": " (origin/MahmoodKhalil57/issue41, MahmoodKhalil57/issue41)",
+    "parents": [
+      "3d323a3"
+    ],
+    "files": [
+      "src/lib/client/luciaClient.ts",
+      "src/lib/stores/userStore.ts",
+      "src/routes/(app)/(auth)/login/+page.ts",
+      "src/routes/(app)/(auth)/signup/+page.ts",
+      "src/routes/+layout.ts"
+    ]
+  },
+  "3d323a3": {
+    "author": "MahmoodKhalil57",
+    "subject": "HOTFIX",
+    "date": "1687307198",
+    "branches": "",
+    "parents": [
+      "cea7dfc"
+    ],
+    "files": [
+      "src/lib/components/layout/Header.svelte",
+      "src/routes/(app)/+layout.svelte"
+    ]
+  },
+  "cea7dfc": {
+    "author": "MahmoodKhalil57",
+    "subject": "Make private pages check for user info before load (auth) Fixes #41",
+    "date": "1687305608",
+    "branches": "",
+    "parents": [
+      "6ba3b73"
+    ],
+    "files": [
+      "src/lib/client/luciaClient.ts",
+      "src/lib/components/curlture/navigation.svelte",
+      "src/lib/stores/userStore.ts",
+      "src/routes/(app)/(auth)/login/+page.server.ts",
+      "src/routes/(app)/(auth)/login/+page.svelte",
+      "src/routes/(app)/(auth)/login/+page.ts",
+      "src/routes/(app)/(auth)/signup/+page.server.ts",
+      "src/routes/(app)/(auth)/signup/+page.svelte",
+      "src/routes/(app)/(auth)/signup/+page.ts",
+      "src/routes/(app)/+layout.svelte",
+      "src/routes/+layout.server.ts",
+      "src/routes/+layout.svelte",
+      "src/routes/+layout.ts"
+    ]
+  },
+  "6ba3b73": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'MahmoodKhalil57/issue40'",
+    "date": "1686833797",
+    "branches": "",
+    "parents": [
+      "60c5097",
+      "948548e"
+    ],
+    "files": []
+  },
+  "948548e": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'MahmoodKhalil57/issue38' into MahmoodKhalil57/issue40",
+    "date": "1686833773",
+    "branches": " (origin/MahmoodKhalil57/issue40)",
+    "parents": [
+      "f83fc75",
+      "632216b"
+    ],
+    "files": []
+  },
+  "60c5097": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'MahmoodKhalil57/issue38'",
+    "date": "1686833749",
+    "branches": "",
+    "parents": [
+      "75d0627",
+      "632216b"
+    ],
+    "files": []
+  },
+  "632216b": {
+    "author": "MahmoodKhalil57",
+    "subject": "pnpm i nanoid",
+    "date": "1686833723",
+    "branches": "",
+    "parents": [
+      "36e6fa3"
+    ],
+    "files": [
+      "package.json",
+      "pnpm-lock.yaml"
+    ]
+  },
+  "75d0627": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'MahmoodKhalil57/issue40'",
+    "date": "1686490889",
+    "branches": "",
+    "parents": [
+      "31913a0",
+      "f83fc75"
+    ],
+    "files": []
+  },
+  "f83fc75": {
+    "author": "MahmoodKhalil57",
+    "subject": "Update Sign up page to look like figma #40",
+    "date": "1686490618",
+    "branches": " (MahmoodKhalil57/issue40)",
+    "parents": [
+      "31913a0"
+    ],
+    "files": [
+      "src/routes/(app)/(index)/+page.svelte",
+      "static/landing/hair1.png",
+      "static/landing/hair2.png",
+      "svelte.config.js"
+    ]
+  },
+  "31913a0": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'MahmoodKhalil57/issue38'",
+    "date": "1686484513",
+    "branches": " (tag: feature/1.2.0)",
+    "parents": [
+      "b420b74",
+      "36e6fa3"
+    ],
+    "files": []
+  },
+  "36e6fa3": {
+    "author": "MahmoodKhalil57",
+    "subject": "sinup page hotfix",
+    "date": "1686484478",
+    "branches": "",
+    "parents": [
+      "7ca0133"
+    ],
+    "files": [
+      "src/routes/(app)/(auth)/signup/+page.svelte"
+    ]
+  },
+  "7ca0133": {
+    "author": "MahmoodKhalil57",
+    "subject": "t",
+    "date": "1686445617",
+    "branches": "",
+    "parents": [
+      "712b6df"
+    ],
+    "files": [
+      "prisma/dev.db"
+    ]
+  },
+  "712b6df": {
+    "author": "MahmoodKhalil57",
+    "subject": "Integrate auth with website",
+    "date": "1686445606",
+    "branches": "",
+    "parents": [
+      "5372047"
+    ],
+    "files": [
+      "src/lib/client/luciaClient.ts",
+      "src/lib/components/curlture/navigation.svelte",
+      "src/lib/components/curlture/product.svelte",
+      "src/lib/stores/userStore.ts",
+      "src/lib/validation/shared.ts",
+      "src/routes/(app)/(auth)/+layout.ts",
+      "src/routes/(app)/(auth)/callback/google/+server.ts",
+      "src/routes/(app)/(auth)/login/+page.svelte",
+      "src/routes/(app)/(auth)/signup/+page.svelte",
+      "src/routes/(app)/+layout.svelte",
+      "src/routes/(app)/products/(index)/+page.svelte",
+      "src/routes/(app)/products/[slug]/+page.svelte",
+      "src/routes/(app)/products/[slug]/v3/+page.svelte",
+      "src/trpc/middleware.server.ts",
+      "src/trpc/router/authRouter.server.ts",
+      "src/trpc/trpcUtils.server.ts",
+      "src/trpc/utils/luciaClient.server.ts"
+    ]
+  },
+  "d7b89a1": {
+    "author": "MahmoodKhalil57",
+    "subject": "Enhance email signup login pages",
+    "date": "1686363999",
+    "branches": "",
+    "parents": [
+      "6127676"
+    ],
+    "files": [
+      "icones/cachedIcones.json",
+      "icones/icons.json",
+      "package.json",
+      "prisma/schema.prisma",
+      "src/lib/components/ui/buttonDefault.svelte",
+      "src/lib/components/ui/formElementDefault.svelte",
+      "src/lib/components/ui/spinnerTwo.svelte",
+      "src/lib/utils/serverResponse.ts",
+      "src/lib/utils/trpcUtils.ts",
+      "src/lib/validation/shared.ts",
+      "src/routes/(app)/(auth)/login/+page.svelte",
+      "src/routes/(app)/(auth)/signup/+page.svelte",
+      "src/routes/(app)/profileInfo/+page.svelte",
+      "src/trpc/router/authRouter.server.ts",
+      "tailwind.config.cjs"
+    ]
+  },
+  "cc106d2": {
+    "author": "MahmoodKhalil57",
+    "subject": "rename scripts to utils",
+    "date": "1686341838",
+    "branches": "",
+    "parents": [
+      "492e20d"
+    ],
+    "files": [
+      "src/lib/components/ui/formDefault.svelte",
+      "src/lib/components/ui/formElementDefault.svelte",
+      "src/lib/utils/formTypes.d.ts",
+      "src/lib/utils/formUtils.ts",
+      "src/lib/utils/serverResponse.ts",
+      "src/lib/utils/trpcUtils.ts",
+      "src/routes/(app)/(auth)/login/+page.svelte",
+      "src/routes/(app)/checkout/contactInfo/+page.svelte",
+      "src/routes/(app)/checkout/payment/+page.svelte",
+      "src/routes/(app)/products/(index)/+page.svelte",
+      "src/routes/(app)/products/[slug]/+page.svelte",
+      "src/routes/(app)/products/[slug]/v3/+page.svelte"
+    ]
+  },
+  "492e20d": {
+    "author": "MahmoodKhalil57",
+    "subject": "Add server Response",
+    "date": "1686341812",
+    "branches": "",
+    "parents": [
+      "15258e7"
+    ],
+    "files": [
+      "src/lib/stores/userStore.ts",
+      "src/lib/utils/serverResponse.ts",
+      "src/trpc/router/authRouter.server.ts",
+      "src/trpc/trpcUtils.server.ts"
+    ]
+  },
+  "15258e7": {
+    "author": "MahmoodKhalil57",
+    "subject": "add user store Replace svelte Auth with Lucia #38",
+    "date": "1686272213",
+    "branches": "",
+    "parents": [
+      "9307ed0"
+    ],
+    "files": [
+      "src/lib/client/luciaClient.ts",
+      "src/lib/stores/userStore.ts",
+      "src/routes/(app)/(auth)/login/+page.svelte",
+      "src/routes/+layout.svelte"
+    ]
+  },
+  "9307ed0": {
+    "author": "MahmoodKhalil57",
+    "subject": "Temp change Replace svelte Auth with Lucia #38",
+    "date": "1686269698",
+    "branches": "",
+    "parents": [
+      "8a6b78b"
+    ],
+    "files": [
+      "prisma/dev.db",
+      "prisma/schema.prisma"
+    ]
+  },
+  "8a6b78b": {
+    "author": "MahmoodKhalil57",
+    "subject": "cleanup Replace svelte Auth with Lucia #38",
+    "date": "1686269661",
+    "branches": "",
+    "parents": [
+      "dc5161d"
+    ],
+    "files": [
+      "src/trpc/middleware.server.ts"
+    ]
+  },
+  "dc5161d": {
+    "author": "MahmoodKhalil57",
+    "subject": "Add login with email and verification",
+    "date": "1686269622",
+    "branches": "",
+    "parents": [
+      "9f57bbd"
+    ],
+    "files": [
+      "package.json",
+      "pnpm-lock.yaml",
+      "prisma/schema.prisma",
+      "src/app.d.ts",
+      "src/lib/client/luciaClient.ts",
+      "src/lib/validation/shared.ts",
+      "src/routes/(app)/(auth)/callback/google/+server.ts",
+      "src/routes/(app)/(auth)/login/+page.svelte",
+      "src/trpc/router/authRouter.server.ts",
+      "src/trpc/utils/luciaClient.server.ts",
+      "src/trpc/utils/mailerClient.server.ts"
+    ]
+  },
+  "9f57bbd": {
+    "author": "MahmoodKhalil57",
+    "subject": "Clean trpc Auth a little bit",
+    "date": "1686177732",
+    "branches": "",
+    "parents": [
+      "b55fe50"
+    ],
+    "files": [
+      "src/hooks.server.ts",
+      "src/lib/client/trpcClient.ts",
+      "src/lib/stores/userStore.ts",
+      "src/lib/validation/shared.ts",
+      "src/routes/(app)/(auth)/callback/google/+server.ts",
+      "src/routes/(app)/(auth)/login/+page.svelte",
+      "src/routes/(auth)/auth/+server.ts",
+      "src/trpc/context.server.ts",
+      "src/trpc/middleware.server.ts",
+      "src/trpc/root.server.ts",
+      "src/trpc/router/authRouter.server.ts",
+      "src/trpc/router/example.server.ts",
+      "src/trpc/trpcUtils.server.ts",
+      "src/trpc/utils/luciaClient.server.ts"
+    ]
+  },
+  "b55fe50": {
+    "author": "MahmoodKhalil57",
+    "subject": "move lucia to -D",
+    "date": "1686077224",
+    "branches": "",
+    "parents": [
+      "6281397"
+    ],
+    "files": [
+      "package.json",
+      "pnpm-lock.yaml"
+    ]
+  },
+  "e293ec7": {
+    "author": "MahmoodKhalil57",
+    "subject": "Clean trpc Auth a little bit",
+    "date": "1686177732",
+    "branches": " (MahmoodKhalil57/issue38-DEPR)",
+    "parents": [
+      "2cae041"
+    ],
+    "files": [
+      "src/hooks.server.ts",
+      "src/lib/client/trpcClient.ts",
+      "src/lib/stores/userStore.ts",
+      "src/lib/validation/shared.ts",
+      "src/routes/(app)/(auth)/callback/google/+server.ts",
+      "src/routes/(app)/(auth)/login/+page.svelte",
+      "src/routes/(auth)/auth/+server.ts",
+      "src/trpc/context.server.ts",
+      "src/trpc/middleware.server.ts",
+      "src/trpc/root.server.ts",
+      "src/trpc/router/authRouter.server.ts",
+      "src/trpc/router/example.server.ts",
+      "src/trpc/trpcUtils.server.ts",
+      "src/trpc/utils/luciaClient.server.ts"
+    ]
+  },
+  "2cae041": {
+    "author": "MahmoodKhalil57",
+    "subject": "move lucia to -D",
+    "date": "1686077224",
+    "branches": "",
+    "parents": [
+      "b5a3910"
+    ],
+    "files": [
+      "package.json",
+      "pnpm-lock.yaml"
+    ]
+  },
+  "fca44ac": {
+    "author": "MahmoodKhalil57",
+    "subject": "Lucia google auth implemented",
+    "date": "1685924661",
+    "branches": "",
+    "parents": [
+      "62d8b72"
+    ],
+    "files": [
+      "package.json",
+      "prisma/schema.prisma",
+      "src/app.d.ts",
+      "src/hooks.server.ts",
+      "src/routes/(app)/(auth)/+layout.ts",
+      "src/routes/(app)/(auth)/login/+page.svelte",
+      "src/routes/(app)/+layout.svelte",
+      "src/routes/(auth)/auth/+server.ts",
+      "src/routes/(auth)/auth/google/+server.ts",
+      "src/trpc/context.server.ts",
+      "src/trpc/middleware.server.ts",
+      "src/trpc/trpcUtils.server.ts",
+      "src/trpc/utils/luciaClient.server.ts",
+      "src/trpc/utils/prismaClient.server.ts"
+    ]
+  },
+  "62d8b72": {
+    "author": "MahmoodKhalil57",
+    "subject": "remove authJS #38",
+    "date": "1685908254",
+    "branches": "",
+    "parents": [
+      "b420b74"
+    ],
+    "files": [
+      "package.json",
+      "pnpm-lock.yaml",
+      "src/hooks.server.ts",
+      "src/lib/components/curlture/navigation.svelte",
+      "src/routes/(app)/(auth)/login/+page.svelte"
+    ]
+  },
+  "b5a3910": {
+    "author": "MahmoodKhalil57",
+    "subject": "Lucia google auth implemented",
+    "date": "1685924661",
+    "branches": " (origin/MahmoodKhalil57/issue38(DEPRECATED))",
+    "parents": [
+      "c513786"
+    ],
+    "files": [
+      "package.json",
+      "pnpm-lock.yaml",
+      "prisma/schema.prisma",
+      "src/app.d.ts",
+      "src/hooks.server.ts",
+      "src/routes/(app)/(auth)/+layout.ts",
+      "src/routes/(app)/(auth)/login/+page.svelte",
+      "src/routes/(app)/+layout.svelte",
+      "src/routes/(auth)/auth/+server.ts",
+      "src/routes/(auth)/auth/google/+server.ts",
+      "src/trpc/context.server.ts",
+      "src/trpc/middleware.server.ts",
+      "src/trpc/trpcUtils.server.ts",
+      "src/trpc/utils/luciaClient.server.ts",
+      "src/trpc/utils/prismaClient.server.ts"
+    ]
+  },
+  "c513786": {
+    "author": "MahmoodKhalil57",
+    "subject": "remove authJS",
+    "date": "1685908254",
+    "branches": "",
+    "parents": [
+      "cf95a95"
+    ],
+    "files": [
+      "package.json",
+      "pnpm-lock.yaml",
+      "src/hooks.server.ts",
+      "src/lib/components/curlture/navigation.svelte",
+      "src/routes/(app)/(auth)/login/+page.svelte"
+    ]
+  },
+  "b420b74": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'MahmoodKhalil57/issue39'",
+    "date": "1685867172",
+    "branches": "",
+    "parents": [
+      "e49ddb5",
+      "e7fec25"
+    ],
+    "files": []
+  },
+  "e7fec25": {
+    "author": "MahmoodKhalil57",
+    "subject": "Headwind format",
+    "date": "1685867130",
+    "branches": " (origin/MahmoodKhalil57/issue39, MahmoodKhalil57/issue39)",
+    "parents": [
+      "795c426"
+    ],
+    "files": [
+      "src/lib/components/curlture/cartProduct.svelte",
+      "src/lib/components/curlture/priceList.svelte",
+      "src/lib/components/layout/Footer.svelte",
+      "src/lib/components/layout/Header.svelte",
+      "src/lib/components/ui/checkboxDefault.svelte",
+      "src/lib/components/ui/checkboxDefaultReverse.svelte",
+      "src/lib/components/ui/dropdownDefault.svelte",
+      "src/lib/components/ui/imageCarousel.svelte",
+      "src/lib/components/ui/radioButtons.svelte",
+      "src/routes/(app)/(auth)/login/+page.svelte",
+      "src/routes/(app)/(auth)/signup/+page.svelte",
+      "src/routes/(app)/(index)/+page.svelte",
+      "src/routes/(app)/checkout/contactInfo/+page.svelte",
+      "src/routes/(app)/checkout/payment/+page.svelte",
+      "src/routes/(app)/products/(index)/+layout.svelte",
+      "src/routes/(app)/products/(index)/+page.svelte",
+      "src/routes/(app)/products/[slug]/+page.svelte",
+      "src/routes/(app)/products/[slug]/v3/+page.svelte",
+      "src/routes/(app)/showcase/+layout.svelte",
+      "src/routes/(app)/showcase/+page.svelte",
+      "src/routes/(app)/yourCart/+page.svelte",
+      "src/routes/+error.svelte"
+    ]
+  },
+  "795c426": {
+    "author": "MahmoodKhalil57",
+    "subject": "pnpm format -> ctrl + save",
+    "date": "1685866705",
+    "branches": "",
+    "parents": [
+      "e49ddb5"
+    ],
+    "files": [
+      ".vscode/launch.json",
+      "apollo-types.js",
+      "icones/cachedIcones.json",
+      "icones/icons.json",
+      "package.json",
+      "src/app.css",
+      "src/app.d.ts",
+      "src/app.html",
+      "src/hooks.server.ts",
+      "src/lib/client/trpcClient.ts",
+      "src/lib/components/curlture/prodSpecifics.svelte",
+      "src/lib/scripts/formTypes.d.ts",
+      "src/lib/scripts/formUtils.ts",
+      "src/lib/stores/userStore.ts",
+      "src/lib/validation/frontend/login.ts",
+      "src/lib/validation/frontend/signup.ts",
+      "src/lib/validation/frontend/utils.ts",
+      "src/lib/validation/shared/checkout.ts",
+      "src/lib/validation/shared/shopifyRouter.ts",
+      "src/reset.d.ts",
+      "src/routes/(app)/checkout/+page.ts",
+      "src/routes/(app)/products/[slug]/+layout.ts",
+      "src/routes/+layout.ts",
+      "src/service-worker.ts",
+      "src/trpc/context.server.ts",
+      "src/trpc/middleware.server.ts",
+      "src/trpc/prismaClient.server.ts",
+      "src/trpc/root.server.ts",
+      "src/trpc/trpcUtils.server.ts",
+      "src/trpc/types/shopifyqlMin.types.ts",
+      "src/trpc/utils/adminQlClient.ts",
+      "src/trpc/utils/adminQlController.ts",
+      "static/manifest.json",
+      "svelte.config.js",
+      "tailwind.config.cjs",
+      "tsconfig.json"
+    ]
+  },
+  "e49ddb5": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'MahmoodKhalil57/issue36'",
+    "date": "1685866177",
+    "branches": "",
+    "parents": [
+      "cf95a95",
+      "178b99f"
+    ],
+    "files": []
+  },
+  "178b99f": {
+    "author": "MahmoodKhalil57",
+    "subject": "ALOT OF COLORS",
+    "date": "1685866143",
+    "branches": " (origin/MahmoodKhalil57/issue36, MahmoodKhalil57/issue36)",
+    "parents": [
+      "0a5501a"
+    ],
+    "files": [
+      "package.json",
+      "pnpm-lock.yaml",
+      "src/app.css",
+      "src/app.html",
+      "src/lib/components/curlture/cartProduct.svelte",
+      "src/lib/components/curlture/navigation.svelte",
+      "src/lib/components/curlture/product.svelte",
+      "src/lib/components/layout/Footer.svelte",
+      "src/lib/components/layout/Header.svelte",
+      "src/lib/components/ui/checkboxDefault.svelte",
+      "src/lib/components/ui/checkboxDefaultReverse.svelte",
+      "src/lib/components/ui/checkboxToggle.svelte",
+      "src/lib/components/ui/inputGroup.svelte",
+      "src/lib/components/ui/radioButtons.svelte",
+      "src/lib/components/ui/spinnerOne.svelte",
+      "src/lib/components/utils/DarkModeToggle.svelte",
+      "src/lib/components/utils/DrawerContainer.svelte",
+      "src/lib/components/utils/ThemeSwitcher.svelte",
+      "src/lib/styles/colors.css",
+      "src/lib/styles/daisyMain.css",
+      "src/routes/(app)/+layout.svelte",
+      "src/routes/(app)/checkout/contactInfo/+page.svelte",
+      "src/routes/(app)/products/(index)/+layout.svelte",
+      "src/routes/(app)/products/(index)/+page.svelte",
+      "src/routes/(app)/products/[slug]/+page.svelte",
+      "src/routes/(app)/products/[slug]/v3/+page.svelte",
+      "src/routes/(app)/showcase/+page.svelte",
+      "src/routes/(app)/yourCart/+page.svelte",
+      "src/routes/+layout.svelte",
+      "tailwind.config.cjs"
+    ]
+  },
+  "0a5501a": {
+    "author": "MahmoodKhalil57",
+    "subject": "Finish up the rest of colors Centralize ALL colors Fixes #36",
+    "date": "1685844542",
+    "branches": "",
+    "parents": [
+      "c8a9177"
+    ],
+    "files": [
+      "pnpm-lock.yaml",
+      "src/lib/components/layout/Header.svelte",
+      "src/lib/components/ui/formElementDefault.svelte",
+      "src/lib/styles/colors.css",
+      "src/routes/(app)/(auth)/login/+page.svelte",
+      "src/routes/(app)/(auth)/signup/+page.svelte",
+      "src/routes/(app)/checkout/contactInfo/+page.svelte",
+      "src/routes/(app)/checkout/payment/+page.svelte",
+      "src/routes/(app)/products/[slug]/+page.svelte",
+      "src/routes/(app)/products/[slug]/v3/+page.svelte",
+      "src/routes/(app)/showcase/+page.svelte",
+      "src/routes/(app)/yourCart/+page.svelte"
+    ]
+  },
+  "c8a9177": {
+    "author": "MahmoodKhalil57",
+    "subject": "componentize contactInfo #12",
+    "date": "1685399115",
+    "branches": "",
+    "parents": [
+      "68125a8"
+    ],
+    "files": [
+      "src/routes/(app)/checkout/contactInfo/+page.svelte"
+    ]
+  },
+  "68125a8": {
+    "author": "MahmoodKhalil57",
+    "subject": "Batch 2 Centralize ALL colors #36",
+    "date": "1685397873",
+    "branches": "",
+    "parents": [
+      "4ac1191"
+    ],
+    "files": [
+      "src/app.css",
+      "src/lib/components/ui/formElementDefault.svelte",
+      "src/lib/styles/colors.css",
+      "src/routes/(app)/(auth)/login/+page.svelte",
+      "src/routes/(app)/(auth)/signup/+page.svelte",
+      "src/routes/(app)/checkout/contactInfo/+page.svelte",
+      "src/routes/(app)/checkout/payment/+page.svelte",
+      "src/routes/+layout.svelte"
+    ]
+  },
+  "4ac1191": {
+    "author": "MahmoodKhalil57",
+    "subject": "Bulk change 1 Centralize ALL colors #36",
+    "date": "1685397109",
+    "branches": "",
+    "parents": [
+      "0b1b577"
+    ],
+    "files": [
+      "src/app.css",
+      "src/app.html",
+      "src/lib/components/curlture/cartProduct.svelte",
+      "src/lib/components/utils/DrawerContainer.svelte",
+      "src/routes/(app)/(auth)/login/+page.svelte",
+      "src/routes/(app)/(auth)/signup/+page.svelte",
+      "src/routes/(app)/(index)/+page.svelte",
+      "src/routes/(app)/checkout/contactInfo/+page.svelte",
+      "src/routes/(app)/checkout/payment/+page.svelte",
+      "src/routes/(app)/products/(index)/+layout.svelte",
+      "src/routes/(app)/yourCart/+page.svelte",
+      "src/routes/+layout.svelte"
+    ]
+  },
+  "0b1b577": {
+    "author": "MahmoodKhalil57",
+    "subject": "hotix Centralize ALL colors #36",
+    "date": "1685396643",
+    "branches": "",
+    "parents": [
+      "a769d74"
+    ],
+    "files": [
+      "src/app.css"
+    ]
+  },
+  "a769d74": {
+    "author": "MahmoodKhalil57",
+    "subject": "init colors Centralize ALL colors #36",
+    "date": "1685396611",
+    "branches": "",
+    "parents": [
+      "71ac79d"
+    ],
+    "files": [
+      "src/app.css",
+      "src/lib/styles/colors.css",
+      "tailwind.config.cjs"
+    ]
+  },
+  "71ac79d": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'master' into MahmoodKhalil57/issue36",
+    "date": "1685396579",
+    "branches": "",
+    "parents": [
+      "580b5d9",
+      "cf95a95"
+    ],
+    "files": []
+  },
+  "580b5d9": {
+    "author": "MahmoodKhalil57",
+    "subject": "enhance dark toggle Centralize ALL colors Fixes #36",
+    "date": "1685375161",
+    "branches": "",
+    "parents": [
+      "5e0ff49"
+    ],
+    "files": [
+      "src/app.html",
+      "src/lib/components/utils/DarkModeToggle.svelte"
+    ]
+  },
+  "cf95a95": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'MahmoodKhalil57/issue12'",
+    "date": "1685370789",
+    "branches": "",
+    "parents": [
+      "f3d1322",
+      "acbd9cf"
+    ],
+    "files": []
+  },
+  "acbd9cf": {
+    "author": "MahmoodKhalil57",
+    "subject": "add isLoggedIn to nav Fixes #12",
+    "date": "1685370736",
+    "branches": " (origin/MahmoodKhalil57/issue12, MahmoodKhalil57/issue12)",
+    "parents": [
+      "71b7286"
+    ],
+    "files": [
+      "src/lib/components/curlture/navigation.svelte",
+      "src/lib/components/layout/Header.svelte"
+    ]
+  },
+  "f3d1322": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'MahmoodKhalil57/issue12'",
+    "date": "1684465894",
+    "branches": "",
+    "parents": [
+      "684dc7d",
+      "71b7286"
+    ],
+    "files": []
+  },
+  "71b7286": {
+    "author": "MahmoodKhalil57",
+    "subject": "fix icons default #12",
+    "date": "1684465878",
+    "branches": "",
+    "parents": [
+      "9fbd1e8"
+    ],
+    "files": [
+      "src/lib/components/layout/Header.svelte",
+      "src/lib/components/ui/iconDefault.svelte",
+      "src/lib/components/utils/DarkModeToggle.svelte",
+      "src/lib/components/utils/DrawerContainer.svelte",
+      "src/routes/(app)/products/(index)/+layout.svelte",
+      "src/routes/(app)/products/[slug]/+page.svelte",
+      "src/routes/(app)/products/[slug]/v3/+page.svelte",
+      "src/routes/(app)/yourCart/+page.svelte"
+    ]
+  },
+  "9fbd1e8": {
+    "author": "MahmoodKhalil57",
+    "subject": "Create components out of everything Fixes #12",
+    "date": "1684464578",
+    "branches": "",
+    "parents": [
+      "8137952"
+    ],
+    "files": [
+      "src/routes/(app)/products/(index)/+layout.svelte"
+    ]
+  },
+  "684dc7d": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'MahmoodKhalil57/issue12'",
+    "date": "1684463211",
+    "branches": "",
+    "parents": [
+      "ce9c02b",
+      "8137952"
+    ],
+    "files": []
+  },
+  "6f1f84e": {
+    "author": "MahmoodKhalil57",
+    "subject": "images Create components out of everything #12",
+    "date": "1684458999",
+    "branches": "",
+    "parents": [
+      "eea930b"
+    ],
+    "files": [
+      "src/lib/components/curlture/cartProduct.svelte",
+      "src/lib/components/curlture/product.svelte",
+      "src/lib/components/layout/Footer.svelte",
+      "src/lib/components/layout/Header.svelte",
+      "src/lib/components/ui/imageCarousel.svelte",
+      "src/lib/components/ui/imageDefault.svelte",
+      "src/routes/(app)/(index)/+page.svelte",
+      "src/routes/(app)/products/[slug]/+page.svelte",
+      "src/routes/(app)/products/[slug]/v3/+page.svelte"
+    ]
+  },
+  "eea930b": {
+    "author": "MahmoodKhalil57",
+    "subject": "Create components out of everything Fixes #12",
+    "date": "1684457842",
+    "branches": "",
+    "parents": [
+      "dc79d0d"
+    ],
+    "files": [
+      "src/routes/(app)/checkout/payment/+page.svelte"
+    ]
+  },
+  "dc79d0d": {
+    "author": "MahmoodKhalil57",
+    "subject": "FormElementDefault Create components out of everything #12",
+    "date": "1684446166",
+    "branches": "",
+    "parents": [
+      "0e265ff"
+    ],
+    "files": [
+      "pnpm-lock.yaml",
+      "src/lib/components/ui/buttonDefault.svelte",
+      "src/lib/scripts/formTypes.d.ts",
+      "src/routes/(app)/(auth)/login/+page.svelte",
+      "src/routes/(app)/(auth)/signup/+page.svelte",
+      "src/routes/(app)/checkout/payment/+page.svelte"
+    ]
+  },
+  "3316c1d": {
+    "author": "Omar Khorshid",
+    "subject": "signupnew +page.ts deleted and code moved to +page.svelte #35",
+    "date": "1684369177",
+    "branches": " (origin/OKhorshid/issue35(DEPRECATED), origin/OKhorshid/issue35)",
+    "parents": [
+      "27c6f56"
+    ],
+    "files": [
+      "src/routes/(app)/(auth)/signupnew/+page.ts"
+    ]
+  },
+  "27c6f56": {
+    "author": "Omar Khorshid",
+    "subject": "signup +page.ts #35",
+    "date": "1684317794",
+    "branches": "",
+    "parents": [
+      "98ee7b6"
+    ],
+    "files": [
+      "src/routes/(app)/(auth)/signupnew/+page.ts"
+    ]
+  },
+  "98ee7b6": {
+    "author": "Omar Khorshid",
+    "subject": "adding the new signup page, connecting it to the function that sends emails in the backend. #35",
+    "date": "1684277721",
+    "branches": "",
+    "parents": [
+      "22297e2"
+    ],
+    "files": [
+      "src/routes/(app)/(auth)/signupnew/+page.svelte",
+      "src/trpc/router/example.server.ts"
+    ]
+  },
+  "0e265ff": {
+    "author": "MahmoodKhalil57",
+    "subject": "add navbar Create components out of everything #12",
+    "date": "1684181030",
+    "branches": "",
+    "parents": [
+      "3040e07"
+    ],
+    "files": [
+      "src/lib/components/curlture/navigation.svelte",
+      "src/lib/components/layout/DrawerContent.svelte",
+      "src/lib/components/layout/Header.svelte",
+      "src/lib/components/utils/DarkModeToggle.svelte"
+    ]
+  },
+  "3040e07": {
+    "author": "MahmoodKhalil57",
+    "subject": "Button default",
+    "date": "1684108845",
+    "branches": "",
+    "parents": [
+      "f9489cf"
+    ],
+    "files": [
+      "src/lib/components/curlture/cartProduct.svelte",
+      "src/lib/components/curlture/product.svelte",
+      "src/lib/components/ui/buttonDefault.svelte",
+      "src/lib/components/ui/formDefault.svelte",
+      "src/lib/components/ui/inputGroup.svelte",
+      "src/lib/components/utils/DarkModeToggle.svelte",
+      "src/routes/(app)/(auth)/login/+page.svelte",
+      "src/routes/(app)/(auth)/signup/+page.svelte",
+      "src/routes/(app)/(index)/+page.svelte",
+      "src/routes/(app)/checkout/payment/+page.svelte",
+      "src/routes/(app)/products/(index)/+layout.svelte",
+      "src/routes/(app)/products/[slug]/+page.svelte",
+      "src/routes/(app)/products/[slug]/v3/+page.svelte",
+      "src/routes/(app)/showcase/+page.svelte",
+      "src/routes/(app)/yourCart/+page.svelte"
+    ]
+  },
+  "ce9c02b": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'MahmoodKhalil57/issue34'",
+    "date": "1684081151",
+    "branches": "",
+    "parents": [
+      "a5689ed",
+      "8a9cf06"
+    ],
+    "files": []
+  },
+  "22297e2": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'MahmoodKhalil57/issue34' into OKhorshid/issue35",
+    "date": "1684081134",
+    "branches": " (OKhorshid/issue35)",
+    "parents": [
+      "1849c52",
+      "8a9cf06"
+    ],
+    "files": []
+  },
+  "8a9cf06": {
+    "author": "MahmoodKhalil57",
+    "subject": "rename navigation +34",
+    "date": "1684081115",
+    "branches": " (origin/MahmoodKhalil57/issue34, MahmoodKhalil57/issue34)",
+    "parents": [
+      "5b83d72"
+    ],
+    "files": [
+      "src/routes/(app)/(auth)/+layout.ts"
+    ]
+  },
+  "1849c52": {
+    "author": "MahmoodKhalil57",
+    "subject": "new .gitignore #35",
+    "date": "1684071612",
+    "branches": "",
+    "parents": [
+      "8919d1b"
+    ],
+    "files": [
+      ".gitignore"
+    ]
+  },
+  "8919d1b": {
+    "author": "MahmoodKhalil57",
+    "subject": "make example and adminQL use new $e #35",
+    "date": "1684071494",
+    "branches": "",
+    "parents": [
+      "e46958a"
+    ],
+    "files": [
+      "src/trpc/router/example.server.ts",
+      "src/trpc/utils/adminQlClient.ts"
+    ]
+  },
+  "e46958a": {
+    "author": "MahmoodKhalil57",
+    "subject": "cleanup hooks.server.ts #35",
+    "date": "1684071444",
+    "branches": "",
+    "parents": [
+      "e4b4a83"
+    ],
+    "files": [
+      "src/hooks.server.ts"
+    ]
+  },
+  "e4b4a83": {
+    "author": "MahmoodKhalil57",
+    "subject": "add $e #35",
+    "date": "1684071205",
+    "branches": "",
+    "parents": [
+      "ac5f5f4"
+    ],
+    "files": [
+      "src/env.server.ts",
+      "svelte.config.js",
+      "tsconfig.json"
+    ]
+  },
+  "ac5f5f4": {
+    "author": "Omar Khorshid",
+    "subject": "deleted nodemailer from hooks.server.ts & added it to example.server.ts - now greeting procedure can send an email. #35",
+    "date": "1683947014",
+    "branches": "",
+    "parents": [
+      "40a74e5"
+    ],
+    "files": [
+      "package.json",
+      "pnpm-lock.yaml",
+      "src/hooks.server.ts",
+      "src/trpc/router/example.server.ts"
+    ]
+  },
+  "a5689ed": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'pnpm_update'",
+    "date": "1683677441",
+    "branches": "",
+    "parents": [
+      "543a44f",
+      "5a42ee6"
+    ],
+    "files": []
+  },
+  "5a42ee6": {
+    "author": "MahmoodKhalil57",
+    "subject": "add --host",
+    "date": "1683677429",
+    "branches": " (origin/pnpm_update, pnpm_update)",
+    "parents": [
+      "5b7e6b7"
+    ],
+    "files": [
+      "package.json"
+    ]
+  },
+  "543a44f": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'pnpm_update'",
+    "date": "1683677248",
+    "branches": "",
+    "parents": [
+      "b9ee446",
+      "5b7e6b7"
+    ],
+    "files": []
+  },
+  "5b7e6b7": {
+    "author": "MahmoodKhalil57",
+    "subject": "pnpm update",
+    "date": "1683677233",
+    "branches": "",
+    "parents": [
+      "147b81e"
+    ],
+    "files": [
+      "package.json",
+      "pnpm-lock.yaml"
+    ]
+  },
+  "b9ee446": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'MahmoodKhalil57/issue37'",
+    "date": "1683675874",
+    "branches": "",
+    "parents": [
+      "2e1a625",
+      "267aa9a"
+    ],
+    "files": []
+  },
+  "267aa9a": {
+    "author": "MahmoodKhalil57",
+    "subject": "Make sure SPA works #37",
+    "date": "1683675821",
+    "branches": " (origin/MahmoodKhalil57/issue37, MahmoodKhalil57/issue37)",
+    "parents": [
+      "676e32d"
+    ],
+    "files": [
+      "src/app.html",
+      "src/lib/components/layout/Header.svelte"
+    ]
+  },
+  "676e32d": {
+    "author": "MahmoodKhalil57",
+    "subject": "Make sure SPA works Fixes #37",
+    "date": "1683675525",
+    "branches": "",
+    "parents": [
+      "be2cb40"
+    ],
+    "files": [
+      "src/lib/components/layout/Header.svelte"
+    ]
+  },
+  "be2cb40": {
+    "author": "MahmoodKhalil57",
+    "subject": "hotfix footer #37",
+    "date": "1683675304",
+    "branches": "",
+    "parents": [
+      "fbcfcc1"
+    ],
+    "files": [
+      "src/lib/components/layout/Footer.svelte"
+    ]
+  },
+  "fbcfcc1": {
+    "author": "MahmoodKhalil57",
+    "subject": "Make sure SPA works Fixes #37",
+    "date": "1683675301",
+    "branches": "",
+    "parents": [
+      "5e0ff49"
+    ],
+    "files": [
+      "src/lib/components/layout/Header.svelte"
+    ]
+  },
+  "2e1a625": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'MahmoodKhalil57/issue33'",
+    "date": "1683562908",
+    "branches": "",
+    "parents": [
+      "18e3d19",
+      "03b68b3"
+    ],
+    "files": []
+  },
+  "03b68b3": {
+    "author": "MahmoodKhalil57",
+    "subject": "fixes #33",
+    "date": "1683562873",
+    "branches": " (origin/MahmoodKhalil57/issue33, MahmoodKhalil57/issue33)",
+    "parents": [
+      "ecc4220"
+    ],
+    "files": [
+      "src/lib/validation/shared.ts"
+    ]
+  },
+  "40a74e5": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'MahmoodKhalil57/issue34' into OKhorshid/issue35",
+    "date": "1683546440",
+    "branches": "",
+    "parents": [
+      "21f3abe",
+      "5b83d72"
+    ],
+    "files": []
+  },
+  "18e3d19": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'MahmoodKhalil57/issue34'",
+    "date": "1683546330",
+    "branches": "",
+    "parents": [
+      "a9212db",
+      "5b83d72"
+    ],
+    "files": []
+  },
+  "a9212db": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'MahmoodKhalil57/issue33'",
+    "date": "1683546324",
+    "branches": "",
+    "parents": [
+      "84c6dfa",
+      "ecc4220"
+    ],
+    "files": []
+  },
+  "5b83d72": {
+    "author": "MahmoodKhalil57",
+    "subject": "fix #34",
+    "date": "1683546306",
+    "branches": "",
+    "parents": [
+      "94b761f"
+    ],
+    "files": [
+      "src/routes/(app)/(auth)/+layout.ts"
+    ]
+  },
+  "ecc4220": {
+    "author": "MahmoodKhalil57",
+    "subject": "fix #33",
+    "date": "1683546195",
+    "branches": "",
+    "parents": [
+      "2dbaf1e"
+    ],
+    "files": [
+      "src/lib/scripts/trpcUtils.ts",
+      "src/lib/validation/shared.ts",
+      "src/trpc/router/checkoutRouter.server.ts",
+      "src/trpc/router/example.server.ts",
+      "src/trpc/router/shopifyRouter.server.ts",
+      "src/trpc/router/userRouter.server.ts"
+    ]
+  },
+  "2dbaf1e": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'master' into MahmoodKhalil57/issue33",
+    "date": "1683545500",
+    "branches": "",
+    "parents": [
+      "3cc39ce",
+      "84c6dfa"
+    ],
+    "files": []
+  },
+  "21f3abe": {
+    "author": "Omar Khorshid",
+    "subject": "Send email function init & added to endpoint /example.greeting #35",
+    "date": "1683500966",
+    "branches": "",
+    "parents": [
+      "9b1b47d"
+    ],
+    "files": [
+      "src/trpc/router/example.server.ts"
+    ]
+  },
+  "84c6dfa": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'MahmoodKhalil57/issue34'",
+    "date": "1683496768",
+    "branches": "",
+    "parents": [
+      "0638ac7",
+      "94b761f"
+    ],
+    "files": []
+  },
+  "9b1b47d": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'MahmoodKhalil57/issue34' into OKhorshid/issue35",
+    "date": "1683496713",
+    "branches": "",
+    "parents": [
+      "d3e8edc",
+      "94b761f"
+    ],
+    "files": []
+  },
+  "94b761f": {
+    "author": "MahmoodKhalil57",
+    "subject": "hotfix #34",
+    "date": "1683496692",
+    "branches": "",
+    "parents": [
+      "4fe08e4"
+    ],
+    "files": [
+      "src/lib/stores/userStore.ts",
+      "src/routes/(app)/+layout.svelte"
+    ]
+  },
+  "0638ac7": {
+    "author": "MahmoodKhalil57",
+    "subject": "merge conflicts #33",
+    "date": "1683495528",
+    "branches": "",
+    "parents": [
+      "5692805"
+    ],
+    "files": [
+      "src/lib/components/ui/formDefault.svelte",
+      "src/lib/scripts/trpcUtils.ts",
+      "src/lib/stores/userStore.ts",
+      "src/lib/validation/shared.ts",
+      "src/lib/validation/shared/checkout.ts",
+      "src/routes/(app)/checkout/contactInfo/+page.svelte",
+      "src/routes/(app)/checkout/payment/+page.svelte",
+      "src/routes/(app)/yourCart/+page.svelte",
+      "src/trpc/router/checkoutRouter.server.ts",
+      "src/trpc/router/example.server.ts",
+      "src/trpc/router/shopifyRouter.server.ts",
+      "src/trpc/router/userRouter.server.ts"
+    ]
+  },
+  "3cc39ce": {
+    "author": "MahmoodKhalil57",
+    "subject": "remove fancy form",
+    "date": "1683493319",
+    "branches": "",
+    "parents": [
+      "f9489cf"
+    ],
+    "files": [
+      "src/routes/(app)/checkout/contactInfo/+page.svelte"
+    ]
+  },
+  "13bceb3": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'addDocker'",
+    "date": "1683238282",
+    "branches": "",
+    "parents": [
+      "f00512d",
+      "0877ba6"
+    ],
+    "files": []
+  },
+  "0877ba6": {
+    "author": "MahmoodKhalil57",
+    "subject": "add prisma studio port",
+    "date": "1683238266",
+    "branches": " (origin/addDocker, addDocker)",
+    "parents": [
+      "e234b82"
+    ],
+    "files": [
+      "Dockerfile",
+      "makeDocker.sh"
+    ]
+  },
+  "f00512d": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'addDocker'",
+    "date": "1683236968",
+    "branches": "",
+    "parents": [
+      "372d01e",
+      "e234b82"
+    ],
+    "files": []
+  },
+  "f9489cf": {
+    "author": "MahmoodKhalil57",
+    "subject": "sha2awa 2awa 2awa Fixes #33",
+    "date": "1683236889",
+    "branches": "",
+    "parents": [
+      "a0ddfe4"
+    ],
+    "files": [
+      "src/lib/components/ui/formDefault.svelte",
+      "src/lib/components/ui/formElementDefault.svelte",
+      "src/lib/scripts/formTypes.d.ts",
+      "src/lib/scripts/formUtils.ts",
+      "src/lib/scripts/trpcUtils.ts",
+      "src/lib/validation/frontend/utils.ts",
+      "src/lib/validation/shared.ts",
+      "src/routes/(app)/checkout/+layout.svelte",
+      "src/routes/(app)/checkout/contactInfo/+page.svelte",
+      "src/routes/(app)/checkout/payment/+page.svelte",
+      "src/routes/(app)/products/(index)/+page.svelte",
+      "src/routes/(app)/products/[slug]/+page.svelte",
+      "src/routes/(app)/products/[slug]/v3/+page.svelte",
+      "src/trpc/trpcUtils.server.ts",
+      "tsconfig.json"
+    ]
+  },
+  "e234b82": {
+    "author": "MahmoodKhalil57",
+    "subject": "add docker",
+    "date": "1683236544",
+    "branches": "",
+    "parents": [
+      "010ded3"
+    ],
+    "files": [
+      "Dockerfile",
+      "makeDocker.sh"
+    ]
+  },
+  "010ded3": {
+    "author": "MahmoodKhalil57",
+    "subject": "add --host",
+    "date": "1683236541",
+    "branches": "",
+    "parents": [
+      "5e0ff49"
+    ],
+    "files": [
+      "package.json"
+    ]
+  },
+  "372d01e": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'pnpm_update'",
+    "date": "1683146044",
+    "branches": "",
+    "parents": [
+      "9bcccc6",
+      "147b81e"
+    ],
+    "files": []
+  },
+  "147b81e": {
+    "author": "MahmoodKhalil57",
+    "subject": "pnpm update",
+    "date": "1683145903",
+    "branches": "",
+    "parents": [
+      "7a9b762"
+    ],
+    "files": [
+      "package.json",
+      "pnpm-lock.yaml"
+    ]
+  },
+  "7a9b762": {
+    "author": "MahmoodKhalil57",
+    "subject": "FASTER prisma",
+    "date": "1683145733",
+    "branches": "",
+    "parents": [
+      "9b6648b"
+    ],
+    "files": [
+      "prisma/schema.prisma"
+    ]
+  },
+  "9b6648b": {
+    "author": "MahmoodKhalil57",
+    "subject": "pnpm update and move dep locations",
+    "date": "1683145683",
+    "branches": "",
+    "parents": [
+      "5e0ff49"
+    ],
+    "files": [
+      "package.json",
+      "pnpm-lock.yaml"
+    ]
+  },
+  "d3e8edc": {
+    "author": "MahmoodKhalil57",
+    "subject": "fighting - #35",
+    "date": "1681294040",
+    "branches": "",
+    "parents": [
+      "652d312"
+    ],
+    "files": [
+      "package.json",
+      "pnpm-lock.yaml",
+      "src/hooks.server.ts"
+    ]
+  },
+  "652d312": {
+    "author": "Omar Khorshid",
+    "subject": "pnpm add nodemailer - #35",
+    "date": "1681242298",
+    "branches": "",
+    "parents": [
+      "4fe08e4"
+    ],
+    "files": [
+      "package.json",
+      "pnpm-lock.yaml"
+    ]
+  },
+  "9bcccc6": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'MahmoodKhalil57/issue34'",
+    "date": "1681285532",
+    "branches": "",
+    "parents": [
+      "5be906e",
+      "4fe08e4"
+    ],
+    "files": []
+  },
+  "4fe08e4": {
+    "author": "MahmoodKhalil57",
+    "subject": "hotfix Enhance login and signup Fixes #34",
+    "date": "1681285511",
+    "branches": "",
+    "parents": [
+      "347e17d"
+    ],
+    "files": [
+      "prisma/schema.prisma",
+      "src/lib/components/layout/Header.svelte",
+      "src/routes/(app)/(auth)/+layout.ts",
+      "src/routes/(app)/+layout.svelte",
+      "tsconfig.json"
+    ]
+  },
+  "1dea917": {
+    "author": "Omar Khorshid",
+    "subject": "fighting",
+    "date": "1681261280",
+    "branches": " (origin/DEPRECATED_DO_NOT_USE_OKhorshid/issue35)",
+    "parents": [
+      "03054b7"
+    ],
+    "files": [
+      "package.json",
+      "pnpm-lock.yaml",
+      "src/hooks.server.ts"
+    ]
+  },
+  "03054b7": {
+    "author": "Omar Khorshid",
+    "subject": "pnpm add nodemailer - #35",
+    "date": "1681242298",
+    "branches": "",
+    "parents": [
+      "5be906e"
+    ],
+    "files": [
+      "package.json",
+      "pnpm-lock.yaml"
+    ]
+  },
+  "a0ddfe4": {
+    "author": "MahmoodKhalil57",
+    "subject": "format code #33",
+    "date": "1681141130",
+    "branches": "",
+    "parents": [
+      "ff81854"
+    ],
+    "files": [
+      "src/lib/validation/shared/checkout.ts",
+      "src/lib/validation/shared/shopifyRouter.ts",
+      "src/routes/(app)/checkout/contactInfo/+page.svelte",
+      "src/routes/(app)/checkout/payment/+page.svelte",
+      "src/routes/(app)/products/(index)/+page.svelte",
+      "src/routes/(app)/products/[slug]/+page.svelte",
+      "src/routes/(app)/products/[slug]/v3/+page.svelte"
+    ]
+  },
+  "5be906e": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'MahmoodKhalil57/issue33'",
+    "date": "1681125083",
+    "branches": "",
+    "parents": [
+      "951abd2",
+      "ff81854"
+    ],
+    "files": []
+  },
+  "ff81854": {
+    "author": "MahmoodKhalil57",
+    "subject": "use submit Event instead of form data to fix formdata in url Fixes #33",
+    "date": "1681125055",
+    "branches": "",
+    "parents": [
+      "6f0ec2b"
+    ],
+    "files": [
+      "src/lib/components/ui/checkboxDefaultReverse.svelte",
+      "src/lib/validation/frontend/utils.ts",
+      "src/routes/(app)/(auth)/login/+page.svelte",
+      "src/routes/(app)/(auth)/signup/+page.svelte",
+      "src/routes/(app)/checkout/contactInfo/+page.svelte",
+      "src/routes/(app)/checkout/payment/+page.svelte"
+    ]
+  },
+  "951abd2": {
+    "author": "MahmoodKhalil57",
+    "subject": "complete merge",
+    "date": "1681085148",
+    "branches": "",
+    "parents": [
+      "c747226"
+    ],
+    "files": [
+      "src/routes/(app)/checkout/contactInfo/+page.svelte"
+    ]
+  },
+  "c747226": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'MahmoodKhalil57/issue33'",
+    "date": "1681085004",
+    "branches": "",
+    "parents": [
+      "e8c3bff",
+      "6f0ec2b"
+    ],
+    "files": []
+  },
+  "6f0ec2b": {
+    "author": "MahmoodKhalil57",
+    "subject": "minor change Fixes #33",
+    "date": "1681084963",
+    "branches": "",
+    "parents": [
+      "23438a9"
+    ],
+    "files": [
+      "src/routes/(app)/checkout/contactInfo/+page.svelte"
+    ]
+  },
+  "e8c3bff": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'MahmoodKhalil57/issue34'",
+    "date": "1681082613",
+    "branches": "",
+    "parents": [
+      "f13b735",
+      "347e17d"
+    ],
+    "files": []
+  },
+  "347e17d": {
+    "author": "MahmoodKhalil57",
+    "subject": "Checkout Router hotfix Fixes #34",
+    "date": "1681082532",
+    "branches": "",
+    "parents": [
+      "56c2141"
+    ],
+    "files": [
+      "src/routes/(app)/checkout/contactInfo/+page.svelte"
+    ]
+  },
+  "f13b735": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'Hotfix/v1.0.1'",
+    "date": "1681082409",
+    "branches": "",
+    "parents": [
+      "9d573c8",
+      "4bf8e8c"
+    ],
+    "files": []
+  },
+  "4bf8e8c": {
+    "author": "MahmoodKhalil57",
+    "subject": "pnpm update",
+    "date": "1681082392",
+    "branches": " (origin/Hotfix/v1.0.1)",
+    "parents": [
+      "f00aaea"
+    ],
+    "files": [
+      "package.json",
+      "pnpm-lock.yaml"
+    ]
+  },
+  "f00aaea": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'master' into Hotfix/v1.0.1",
+    "date": "1681082277",
+    "branches": "",
+    "parents": [
+      "93ae603",
+      "9d573c8"
+    ],
+    "files": []
+  },
+  "9d573c8": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'MahmoodKhalil57/issue33'",
+    "date": "1681082167",
+    "branches": "",
+    "parents": [
+      "3ac73f8",
+      "23438a9"
+    ],
+    "files": []
+  },
+  "23438a9": {
+    "author": "MahmoodKhalil57",
+    "subject": "add front end validation logic in current pages #33",
+    "date": "1681082101",
+    "branches": "",
+    "parents": [
+      "4393474"
+    ],
+    "files": [
+      "src/routes/(app)/(auth)/login/+page.svelte",
+      "src/routes/(app)/(auth)/signup/+page.svelte",
+      "src/routes/(app)/checkout/contactInfo/+page.svelte",
+      "src/routes/(app)/checkout/payment/+page.svelte"
+    ]
+  },
+  "f3b0789": {
+    "author": "MahmoodKhalil57",
+    "subject": "hotfix  add ID to checkbox field #33",
+    "date": "1681081971",
+    "branches": "",
+    "parents": [
+      "8b5296b"
+    ],
+    "files": [
+      "src/lib/components/ui/checkboxDefaultReverse.svelte"
+    ]
+  },
+  "8b5296b": {
+    "author": "MahmoodKhalil57",
+    "subject": "migrate backend to new validation #33",
+    "date": "1681081887",
+    "branches": "",
+    "parents": [
+      "bdeb01c"
+    ],
+    "files": [
+      "src/trpc/router/checkout.server.ts",
+      "src/trpc/router/shopifyRouter.server.ts"
+    ]
+  },
+  "bdeb01c": {
+    "author": "MahmoodKhalil57",
+    "subject": "create common validations #33",
+    "date": "1681081860",
+    "branches": "",
+    "parents": [
+      "5e0ff49"
+    ],
+    "files": [
+      "src/lib/validation/frontend/login.ts",
+      "src/lib/validation/frontend/signup.ts",
+      "src/lib/validation/frontend/utils.ts",
+      "src/lib/validation/shared/checkout.ts",
+      "src/lib/validation/shared/shopifyRouter.ts"
+    ]
+  },
+  "3ac73f8": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'MahmoodKhalil57/issue34'",
+    "date": "1681081681",
+    "branches": "",
+    "parents": [
+      "5e0ff49",
+      "56c2141"
+    ],
+    "files": []
+  },
+  "56c2141": {
+    "author": "MahmoodKhalil57",
+    "subject": "checkoutRouter hotfix #34",
+    "date": "1681081603",
+    "branches": "",
+    "parents": [
+      "de5b321"
+    ],
+    "files": [
+      "src/routes/(app)/checkout/payment/+page.svelte"
+    ]
+  },
+  "de5b321": {
+    "author": "MahmoodKhalil57",
+    "subject": "pnpm i and git ignore",
+    "date": "1681081580",
+    "branches": "",
+    "parents": [
+      "b125f86"
+    ],
+    "files": [
+      ".gitignore",
+      "pnpm-lock.yaml"
+    ]
+  },
+  "b125f86": {
+    "author": "MahmoodKhalil57",
+    "subject": "Enhance login and signup Fixes #34",
+    "date": "1681080827",
+    "branches": "",
+    "parents": [
+      "5e0ff49"
+    ],
+    "files": [
+      "src/lib/components/layout/Header.svelte",
+      "src/lib/stores/userStore.ts",
+      "src/routes/(app)/(auth)/+layout.ts",
+      "src/routes/(app)/+layout.svelte",
+      "src/routes/+layout.svelte",
+      "src/trpc/root.server.ts",
+      "src/trpc/router/checkoutRouter.server.ts",
+      "src/trpc/router/userRouter.server.ts"
+    ]
+  },
+  "5e0ff49": {
+    "author": "Omar Khorshid",
+    "subject": "Merge branch 'Hotfix/v1.0.1'",
+    "date": "1681064490",
+    "branches": " (tag: feature/1.1.1)",
+    "parents": [
+      "8ae26ca",
+      "93ae603"
+    ],
+    "files": []
+  },
+  "93ae603": {
+    "author": "Omar Khorshid",
+    "subject": "header: login & signup links connected to +page(es)",
+    "date": "1681064382",
+    "branches": "",
+    "parents": [
+      "5865912"
+    ],
+    "files": [
+      "src/lib/components/layout/Header.svelte"
+    ]
+  },
+  "eeda41f": {
+    "author": "Omar Khorshid",
+    "subject": "moved home +page into index and removed unnecessary files/folders (including products/slug/v2) - hotfix/v1.0.1",
+    "date": "1681062691",
+    "branches": "",
+    "parents": [
+      "a67f350"
+    ],
+    "files": [
+      "src/routes/(app)/(index)/+layout.svelte",
+      "src/routes/(app)/(index)/+page.svelte",
+      "src/routes/(app)/home/+layout.svelte",
+      "src/routes/(app)/home/+page.svelte",
+      "src/routes/(app)/products/[slug]/v2/+page.svelte"
+    ]
+  },
+  "a67f350": {
+    "author": "Omar Khorshid",
+    "subject": "Merge branch 'OKhorshid/issue32' into Hotfix/v1.0.1",
+    "date": "1681062333",
+    "branches": "",
+    "parents": [
+      "aa4bbe9",
+      "fcbe358"
+    ],
+    "files": []
+  },
+  "fcbe358": {
+    "author": "Omar Khorshid",
+    "subject": "init add signup & login page UI Fixes #32",
+    "date": "1681058355",
+    "branches": "",
+    "parents": [
+      "8ae26ca"
+    ],
+    "files": [
+      "src/routes/(app)/(auth)/login/+page.svelte",
+      "src/routes/(app)/(auth)/signup/+page.svelte"
+    ]
+  },
+  "8ae26ca": {
+    "author": "Omar Khorshid",
+    "subject": "Merge branch 'OKhorshid/issue31'",
+    "date": "1681056880",
+    "branches": "",
+    "parents": [
+      "cb0ab57",
+      "18bd1b1"
+    ],
+    "files": []
+  },
+  "18bd1b1": {
+    "author": "Omar Khorshid",
+    "subject": "modfying User model to fit MyCurlture db design",
+    "date": "1681056597",
+    "branches": " (origin/OKhorshid/issue31)",
+    "parents": [
+      "bc08378"
+    ],
+    "files": [
+      "prisma/schema.prisma"
+    ]
+  },
+  "bc08378": {
+    "author": "Omar Khorshid",
+    "subject": "(part 2) Init Authjs #31 - (tested)",
+    "date": "1681053360",
+    "branches": "",
+    "parents": [
+      "9888743"
+    ],
+    "files": [
+      "package.json",
+      "pnpm-lock.yaml",
+      "prisma/schema.prisma",
+      "src/hooks.server.ts",
+      "src/trpc/context.server.ts",
+      "src/trpc/middleware.server.ts",
+      "src/trpc/prismaClient.server.ts",
+      "src/trpc/trpcUtils.server.ts"
+    ]
+  },
+  "cb0ab57": {
+    "author": "Omar Khorshid",
+    "subject": "Merge commit 'cb1b8c47ec67a7190371ba4e61b4f39d63cd2ebc'",
+    "date": "1681041387",
+    "branches": " (tag: feature/1.1.0)",
+    "parents": [
+      "014abf1",
+      "cb1b8c4"
+    ],
+    "files": []
+  },
+  "cb1b8c4": {
+    "author": "Omar Khorshid",
+    "subject": "init prisma Fixes #28",
+    "date": "1681041160",
+    "branches": " (origin/OKhorshid/issue28, OKhorshid/issue28)",
+    "parents": [
+      "ad0bbb3"
+    ],
+    "files": [
+      "package.json",
+      "pnpm-lock.yaml",
+      "prisma/schema.prisma"
+    ]
+  },
+  "014abf1": {
+    "author": "Omar Khorshid",
+    "subject": "Merge branch 'Hotfix/v1.0.1'",
+    "date": "1681039046",
+    "branches": "",
+    "parents": [
+      "f744264",
+      "aa4bbe9"
+    ],
+    "files": []
+  },
+  "aa4bbe9": {
+    "author": "Omar Khorshid",
+    "subject": "testing tailwind-icones-plugin",
+    "date": "1681039029",
+    "branches": "",
+    "parents": [
+      "b2bfd9a"
+    ],
+    "files": [
+      "icones/cachedIcones.json",
+      "icones/icons.json",
+      "src/routes/(app)/(index)/+page.svelte"
+    ]
+  },
+  "b2bfd9a": {
+    "author": "Omar Khorshid",
+    "subject": "pnpm update tailwind-icones-plugin",
+    "date": "1681038984",
+    "branches": "",
+    "parents": [
+      "f744264"
+    ],
+    "files": [
+      "package.json",
+      "pnpm-lock.yaml"
+    ]
+  },
+  "f744264": {
+    "author": "Omar Khorshid",
+    "subject": "Merge branch 'MahmoodKhalil57/issue29'",
+    "date": "1681036316",
+    "branches": "",
+    "parents": [
+      "2f268c5",
+      "26b8121"
+    ],
+    "files": []
+  },
+  "26b8121": {
+    "author": "Omar Khorshid",
+    "subject": "migrated trpc server successfully integrated into the project & old server deleted + minor hotfixes  in +pages. - cleanup trpc #29",
+    "date": "1681033060",
+    "branches": " (origin/MahmoodKhalil57/issue29)",
+    "parents": [
+      "74f0d15"
+    ],
+    "files": [
+      "src/hooks.server.ts",
+      "src/lib/client/client.ts",
+      "src/lib/server/context.ts",
+      "src/lib/server/root.ts",
+      "src/lib/server/router/checkout.ts",
+      "src/lib/server/router/example.ts",
+      "src/lib/server/router/shopifyRouter.ts",
+      "src/lib/server/types/shopifyqlMin.types.ts",
+      "src/lib/server/utils/adminQlClient.ts",
+      "src/lib/server/utils/adminQlController.ts",
+      "src/routes/(app)/products/[slug]/v3/+page.svelte",
+      "src/routes/(app)/showcase/+page.svelte"
+    ]
+  },
+  "74f0d15": {
+    "author": "Omar Khorshid",
+    "subject": "compacting query code in v3 - cleanup trpc #29",
+    "date": "1681032577",
+    "branches": "",
+    "parents": [
+      "f9cfb2c"
+    ],
+    "files": [
+      "src/routes/(app)/products/[slug]/v3/+page.svelte"
+    ]
+  },
+  "f9cfb2c": {
+    "author": "Omar Khorshid",
+    "subject": "all webpages now use migrated trpc",
+    "date": "1681032276",
+    "branches": "",
+    "parents": [
+      "7ed270a"
+    ],
+    "files": [
+      "src/routes/(app)/(index)/+page.svelte",
+      "src/routes/(app)/checkout/contactInfo/+page.svelte",
+      "src/routes/(app)/products/(index)/+page.svelte",
+      "src/routes/(app)/products/[slug]/+page.svelte",
+      "src/routes/(app)/products/[slug]/v2/+page.svelte",
+      "src/routes/(app)/products/[slug]/v3/+page.svelte"
+    ]
+  },
+  "2f268c5": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'mahmoodKhalil/issue30'",
+    "date": "1680904569",
+    "branches": "",
+    "parents": [
+      "b8a6d75",
+      "7ab64b2"
+    ],
+    "files": []
+  },
+  "7ab64b2": {
+    "author": "MahmoodKhalil57",
+    "subject": "clean up pnpm #30",
+    "date": "1680902489",
+    "branches": " (origin/mahmoodKhalil/issue30)",
+    "parents": [
+      "667398a"
+    ],
+    "files": [
+      "package.json",
+      "pnpm-lock.yaml"
+    ]
+  },
+  "b8a6d75": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'MahmoodKhalil57/issue27'",
+    "date": "1680900124",
+    "branches": "",
+    "parents": [
+      "ad0bbb3",
+      "667398a"
+    ],
+    "files": []
+  },
+  "667398a": {
+    "author": "MahmoodKhalil57",
+    "subject": "pnpm generate:icones -s",
+    "date": "1680899940",
+    "branches": " (origin/MahmoodKhalil57/issue27)",
+    "parents": [
+      "07f71d6"
+    ],
+    "files": [
+      "icones/icons.json"
+    ]
+  },
+  "07f71d6": {
+    "author": "MahmoodKhalil57",
+    "subject": "pnpm install tailwind-icones-plugin Fixes #27",
+    "date": "1680899925",
+    "branches": "",
+    "parents": [
+      "adfda3c"
+    ],
+    "files": [
+      "icones/generateIcones.cjs",
+      "icones/getIcones.cjs",
+      "package.json",
+      "pnpm-lock.yaml",
+      "tailwind.config.cjs"
+    ]
+  },
+  "7ed270a": {
+    "author": "Omar Khorshid",
+    "subject": "payment +page uses migrated trpc  - cleanup trpc #29",
+    "date": "1680882711",
+    "branches": "",
+    "parents": [
+      "a2486e4"
+    ],
+    "files": [
+      "src/routes/(app)/checkout/payment/+page.svelte"
+    ]
+  },
+  "a2486e4": {
+    "author": "Omar Khorshid",
+    "subject": "migrate curlture trpc into new trpc folder (cleanup trpc #29)",
+    "date": "1680881918",
+    "branches": "",
+    "parents": [
+      "9be2dad"
+    ],
+    "files": [
+      "pnpm-lock.yaml",
+      "src/trpc/context.server.ts",
+      "src/trpc/middleware.server.ts",
+      "src/trpc/prismaClient.server.ts",
+      "src/trpc/root.server.ts",
+      "src/trpc/router/checkout.server.ts",
+      "src/trpc/router/contact.server.ts",
+      "src/trpc/router/example.server.ts",
+      "src/trpc/router/product.server.ts",
+      "src/trpc/router/shopifyRouter.server.ts",
+      "src/trpc/router/user.server.ts",
+      "src/trpc/trpcUtils.server.ts",
+      "src/trpc/types/shopifyqlMin.types.ts",
+      "src/trpc/utils/adminQlClient.ts",
+      "src/trpc/utils/adminQlController.ts",
+      "tsconfig.json"
+    ]
+  },
+  "9be2dad": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'master' into MahmoodKhalil57/issue29",
+    "date": "1680731273",
+    "branches": "",
+    "parents": [
+      "dfd87a5",
+      "ad0bbb3"
+    ],
+    "files": []
+  },
+  "ad0bbb3": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'OKhorshid/issue25'",
+    "date": "1680729275",
+    "branches": " (tag: release/1.0.0)",
+    "parents": [
+      "a959c8f",
+      "20d16d3"
+    ],
+    "files": []
+  },
+  "a959c8f": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'MahmoodKhalil57/issue22'",
+    "date": "1680456251",
+    "branches": "",
+    "parents": [
+      "34f86d4",
+      "7b4156a"
+    ],
+    "files": []
+  },
+  "7b4156a": {
+    "author": "MahmoodKhalil57",
+    "subject": "use svg as bg in home Fixes #22",
+    "date": "1680456232",
+    "branches": " (origin/MahmoodKhalil57/issue22)",
+    "parents": [
+      "6aa4129"
+    ],
+    "files": [
+      "src/routes/(app)/home/+page.svelte"
+    ]
+  },
+  "20d16d3": {
+    "author": "MahmoodKhalil57",
+    "subject": "delete unused",
+    "date": "1680455995",
+    "branches": " (origin/OKhorshid/issue25, OKhorshid/issue25)",
+    "parents": [
+      "7db61c0"
+    ],
+    "files": [
+      "src/routes/(app)/Landing Page/+page.svelte"
+    ]
+  },
+  "dfd87a5": {
+    "author": "MahmoodKhalil57",
+    "subject": "cleanup trpc types #29",
+    "date": "1680455712",
+    "branches": "",
+    "parents": [
+      "18d1777"
+    ],
+    "files": [
+      "src/trpc/trpcUtils.server.ts"
+    ]
+  },
+  "18d1777": {
+    "author": "MahmoodKhalil57",
+    "subject": "add svelte farmweb trpc #29",
+    "date": "1680454003",
+    "branches": "",
+    "parents": [
+      "b1de55a"
+    ],
+    "files": [
+      "src/lib/client/trpcClient.ts"
+    ]
+  },
+  "7db61c0": {
+    "author": "Omar Khorshid",
+    "subject": "responisveness on the way",
+    "date": "1680451725",
+    "branches": "",
+    "parents": [
+      "4d89d02"
+    ],
+    "files": [
+      "src/lib/components/ui/imageCarousel.svelte",
+      "src/routes/(app)/products/[slug]/v3/+page.svelte"
+    ]
+  },
+  "b1de55a": {
+    "author": "MahmoodKhalil57",
+    "subject": "add svelte farmweb trpc #29",
+    "date": "1680447284",
+    "branches": "",
+    "parents": [
+      "34f86d4"
+    ],
+    "files": [
+      "src/trpc/context.server.ts",
+      "src/trpc/middleware.server.ts",
+      "src/trpc/prismaClient.server.ts",
+      "src/trpc/root.server.ts",
+      "src/trpc/router/contact.server.ts",
+      "src/trpc/router/example.server.ts",
+      "src/trpc/router/product.server.ts",
+      "src/trpc/router/user.server.ts",
+      "src/trpc/trpcUtils.server.ts"
+    ]
+  },
+  "34f86d4": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'MahmoodKhalil57/issue27'",
+    "date": "1680439749",
+    "branches": "",
+    "parents": [
+      "4108e7f",
+      "adfda3c"
+    ],
+    "files": []
+  },
+  "adfda3c": {
+    "author": "MahmoodKhalil57",
+    "subject": "finalize tailwind icones plugin #27",
+    "date": "1680439718",
+    "branches": "",
+    "parents": [
+      "f5b7045"
+    ],
+    "files": [
+      "icones/cachedIcones.json",
+      "icones/generateIcones.cjs",
+      "icones/icons.json"
+    ]
+  },
+  "4d89d02": {
+    "author": "Omar Khorshid",
+    "subject": "phone layout added (not responsive yet)",
+    "date": "1680438900",
+    "branches": "",
+    "parents": [
+      "48f8056"
+    ],
+    "files": [
+      "src/routes/(app)/products/[slug]/v3/+page.svelte"
+    ]
+  },
+  "f5b7045": {
+    "author": "MahmoodKhalil57",
+    "subject": "add new icones module Fixes #27",
+    "date": "1680437364",
+    "branches": "",
+    "parents": [
+      "f3d0c20"
+    ],
+    "files": [
+      "icones/cachedIcones.json",
+      "icones/generateIcones.cjs",
+      "icones/getIcones.cjs",
+      "icones/icons.json",
+      "icones/setup.json",
+      "package.json",
+      "tailwind.config.cjs"
+    ]
+  },
+  "4108e7f": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'MahmoodKhalil57/issue27'",
+    "date": "1680400482",
+    "branches": "",
+    "parents": [
+      "22636c3",
+      "f3d0c20"
+    ],
+    "files": []
+  },
+  "f3d0c20": {
+    "author": "MahmoodKhalil57",
+    "subject": "cleanup",
+    "date": "1680400467",
+    "branches": "",
+    "parents": [
+      "dc78c2f"
+    ],
+    "files": [
+      "icones/generateIcone.js"
+    ]
+  },
+  "dc78c2f": {
+    "author": "MahmoodKhalil57",
+    "subject": "remove useless icon",
+    "date": "1680399418",
+    "branches": "",
+    "parents": [
+      "67ff691"
+    ],
+    "files": [
+      "icones/cachedIcones.json",
+      "icones/icons.json"
+    ]
+  },
+  "22636c3": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'MahmoodKhalil57/issue27'",
+    "date": "1680399359",
+    "branches": "",
+    "parents": [
+      "3350640",
+      "67ff691"
+    ],
+    "files": []
+  },
+  "67ff691": {
+    "author": "MahmoodKhalil57",
+    "subject": "add new icones module Fixes #27",
+    "date": "1680399347",
+    "branches": "",
+    "parents": [
+      "cae620f"
+    ],
+    "files": [
+      "icones/cachedIcones.json",
+      "icones/generateIcone.js",
+      "icones/icons.json"
+    ]
+  },
+  "cae620f": {
+    "author": "MahmoodKhalil57",
+    "subject": "remove apple",
+    "date": "1680391988",
+    "branches": "",
+    "parents": [
+      "fad095a"
+    ],
+    "files": [
+      "icones/icons.json"
+    ]
+  },
+  "4c5395e": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'MahmoodKhalil57/issue27'",
+    "date": "1680391814",
+    "branches": "",
+    "parents": [
+      "176afc4",
+      "fad095a"
+    ],
+    "files": []
+  },
+  "fad095a": {
+    "author": "MahmoodKhalil57",
+    "subject": "add new icones module Fixes #27",
+    "date": "1680391789",
+    "branches": "",
+    "parents": [
+      "176afc4"
+    ],
+    "files": [
+      "icones/generateIcone.js",
+      "icones/icons.json",
+      "icones/setup.json",
+      "package.json",
+      "src/routes/(app)/products/(index)/+layout.svelte",
+      "tailwind.config.cjs"
+    ]
+  },
+  "176afc4": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'MahmoodKhalil57/issue7'",
+    "date": "1680387336",
+    "branches": "",
+    "parents": [
+      "cece0f5",
+      "a776a5b"
+    ],
+    "files": []
+  },
+  "a776a5b": {
+    "author": "MahmoodKhalil57",
+    "subject": "(init) cleanup configs Fixes #7",
+    "date": "1680387302",
+    "branches": " (origin/MahmoodKhalil57/issue7)",
+    "parents": [
+      "cece0f5"
+    ],
+    "files": [
+      "package.json",
+      "pnpm-lock.yaml",
+      "src/app.html",
+      "src/lib/ReloadPrompt.svelte",
+      "src/prompt-sw.ts",
+      "src/reset.d.ts",
+      "src/routes/+layout.svelte",
+      "src/service-worker.ts",
+      "static/manifest.json",
+      "svelte.config.js",
+      "vite.config.ts"
+    ]
+  },
+  "cece0f5": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'MahmoodKhalil57/issue24'",
+    "date": "1680385983",
+    "branches": "",
+    "parents": [
+      "5fc3ae3",
+      "4f21ff8"
+    ],
+    "files": []
+  },
+  "4f21ff8": {
+    "author": "MahmoodKhalil57",
+    "subject": "fix product page UI Fixes #24",
+    "date": "1680385959",
+    "branches": " (origin/MahmoodKhalil57/issue24)",
+    "parents": [
+      "700d602"
+    ],
+    "files": [
+      "src/lib/components/utils/DrawerContainer.svelte",
+      "src/routes/(app)/products/(index)/+layout.svelte"
+    ]
+  },
+  "5fc3ae3": {
+    "author": "Omar Khorshid",
+    "subject": "hotfix #15",
+    "date": "1680384680",
+    "branches": "",
+    "parents": [
+      "700d602"
+    ],
+    "files": [
+      "src/routes/(app)/yourCart/+page.svelte"
+    ]
+  },
+  "48f8056": {
+    "author": "Omar Khorshid",
+    "subject": "Merge branch 'OKhorshid/issue25' of https://github.com/MyCurlture/svelteCurlture into OKhorshid/issue25",
+    "date": "1680383255",
+    "branches": "",
+    "parents": [
+      "3b270c6",
+      "05178b0"
+    ],
+    "files": []
+  },
+  "3b270c6": {
+    "author": "Omar Khorshid",
+    "subject": "v3 responiveness for phone [WIP]",
+    "date": "1680383232",
+    "branches": "",
+    "parents": [
+      "6e1374f"
+    ],
+    "files": [
+      "src/app.css",
+      "src/routes/(app)/products/[slug]/v3/+page.svelte",
+      "src/routes/(app)/products/[slug]/v3/test.svelte"
+    ]
+  },
+  "05178b0": {
+    "author": "MahmoodKhalil57",
+    "subject": "delete test",
+    "date": "1680383230",
+    "branches": "",
+    "parents": [
+      "6e1374f"
+    ],
+    "files": [
+      "src/routes/(app)/products/[slug]/v3/test.svelte"
+    ]
+  },
+  "700d602": {
+    "author": "MahmoodKhalil57",
+    "subject": "Revert \"init through grid & test page\"",
+    "date": "1680383162",
+    "branches": "",
+    "parents": [
+      "9c2294d"
+    ],
+    "files": [
+      "src/routes/(app)/products/[slug]/v3/+page.svelte",
+      "src/routes/(app)/products/[slug]/v3/test.svelte"
+    ]
+  },
+  "9c2294d": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge remote-tracking branch 'origin/OKhorshid/issue21'",
+    "date": "1680383022",
+    "branches": "",
+    "parents": [
+      "11966c8",
+      "2bc241b"
+    ],
+    "files": []
+  },
+  "11966c8": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'OKhorshid/issue15'",
+    "date": "1680383010",
+    "branches": "",
+    "parents": [
+      "9142fea",
+      "d6b7d80"
+    ],
+    "files": []
+  },
+  "9142fea": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge remote-tracking branch 'origin/MahmoodKhalil57/issue22'",
+    "date": "1680383002",
+    "branches": "",
+    "parents": [
+      "d694d43",
+      "6aa4129"
+    ],
+    "files": []
+  },
+  "d6b7d80": {
+    "author": "MahmoodKhalil57",
+    "subject": "Add myCart page #15",
+    "date": "1680382979",
+    "branches": " (origin/OKhorshid/issue15)",
+    "parents": [
+      "0726d19"
+    ],
+    "files": [
+      "src/lib/components/curlture/cartProduct.svelte",
+      "src/routes/(app)/yourCart/+page.svelte"
+    ]
+  },
+  "6aa4129": {
+    "author": "Omar Khorshid",
+    "subject": "add CurltureArt.svg to public #22",
+    "date": "1680300068",
+    "branches": "",
+    "parents": [
+      "cf2c87f"
+    ],
+    "files": [
+      "static/CurltureArt.svg"
+    ]
+  },
+  "2bc241b": {
+    "author": "Omar Khorshid",
+    "subject": "init header & footer Fixes #21 landing page link removed",
+    "date": "1680296402",
+    "branches": " (origin/OKhorshid/issue21)",
+    "parents": [
+      "19a2c87"
+    ],
+    "files": [
+      "src/routes/(app)/Landing Page/+page.svelte"
+    ]
+  },
+  "6e1374f": {
+    "author": "Omar Khorshid",
+    "subject": "prodSpecifics moved to curlture components & max-h added to prodSpecifics in v3",
+    "date": "1679996180",
+    "branches": "",
+    "parents": [
+      "d0f0869"
+    ],
+    "files": [
+      "src/lib/components/curlture/prodSpecifics.svelte",
+      "src/routes/(app)/products/[slug]/v3/+page.svelte"
+    ]
+  },
+  "d0f0869": {
+    "author": "Omar Khorshid",
+    "subject": "prodSpecifics made as a UI component, small addition to app.css & played with padding of last item to reach the best UX per frame(WIP)",
+    "date": "1679953293",
+    "branches": "",
+    "parents": [
+      "8dac903"
+    ],
+    "files": [
+      "src/app.css",
+      "src/lib/components/ui/prodSpecifics.svelte",
+      "src/routes/(app)/products/[slug]/v3/+page.svelte"
+    ]
+  },
+  "8dac903": {
+    "author": "Omar Khorshid",
+    "subject": "auto-rows added and grid-template-rows removed & pt",
+    "date": "1679932457",
+    "branches": "",
+    "parents": [
+      "10cd3b3"
+    ],
+    "files": [
+      "src/routes/(app)/products/[slug]/v3/+page.svelte"
+    ]
+  },
+  "d694d43": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'OKhorshid/issue15'",
+    "date": "1679843630",
+    "branches": "",
+    "parents": [
+      "0621eeb",
+      "0726d19"
+    ],
+    "files": []
+  },
+  "0726d19": {
+    "author": "MahmoodKhalil57",
+    "subject": " Add myCart page #15",
+    "date": "1679843613",
+    "branches": "",
+    "parents": [
+      "10ac428"
+    ],
+    "files": [
+      "src/lib/components/curlture/cartProduct.svelte",
+      "src/lib/components/utils/FiveStars.svelte",
+      "src/routes/(app)/yourCart/+page.svelte"
+    ]
+  },
+  "0621eeb": {
+    "author": "Omar Khorshid",
+    "subject": "Merge branch 'OKhorshid/issue15'",
+    "date": "1679843412",
+    "branches": "",
+    "parents": [
+      "6bce0c0",
+      "10ac428"
+    ],
+    "files": []
+  },
+  "6bce0c0": {
+    "author": "Omar Khorshid",
+    "subject": "Merge branch 'OKhorshid/issue25'",
+    "date": "1679843054",
+    "branches": "",
+    "parents": [
+      "8909326",
+      "10cd3b3"
+    ],
+    "files": []
+  },
+  "10cd3b3": {
+    "author": "Omar Khorshid",
+    "subject": "init through grid & test page",
+    "date": "1679842896",
+    "branches": "",
+    "parents": [
+      "41f489e"
+    ],
+    "files": [
+      "src/routes/(app)/products/[slug]/v3/+page.svelte",
+      "src/routes/(app)/products/[slug]/v3/test.svelte"
+    ]
+  },
+  "19a2c87": {
+    "author": "MahmoodKhalil57",
+    "subject": "links",
+    "date": "1679751491",
+    "branches": "",
+    "parents": [
+      "c5e6dc0"
+    ],
+    "files": [
+      "src/lib/components/layout/Header.svelte"
+    ]
+  },
+  "c683562": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'MahmoodKhalil57/issue22'",
+    "date": "1679751099",
+    "branches": "",
+    "parents": [
+      "41f489e",
+      "cf2c87f"
+    ],
+    "files": []
+  },
+  "cf2c87f": {
+    "author": "MahmoodKhalil57",
+    "subject": "init Landing Page (cherrypick from 5edma) fixes #22",
+    "date": "1679751035",
+    "branches": "",
+    "parents": [
+      "1f8b7af"
+    ],
+    "files": [
+      "src/routes/(app)/home/+page.svelte"
+    ]
+  },
+  "1f8b7af": {
+    "author": "Omar Khorshid",
+    "subject": "\"alt\" attribute added to every <img> in landing page",
+    "date": "1679231118",
+    "branches": "",
+    "parents": [
+      "ddb5362"
+    ],
+    "files": [
+      "src/routes/(app)/home/+page.svelte"
+    ]
+  },
+  "ddb5362": {
+    "author": "Omar Khorshid",
+    "subject": "app css gradient and fonts, home +page marginfpor 2nd section, footer optimized for xl screen (missing anchors)",
+    "date": "1679152857",
+    "branches": "",
+    "parents": [
+      "b7e2302"
+    ],
+    "files": [
+      "src/routes/(app)/home/+page.svelte"
+    ]
+  },
+  "b7e2302": {
+    "author": "Omar Khorshid",
+    "subject": "Hero image made responsive & btn color added",
+    "date": "1678575974",
+    "branches": "",
+    "parents": [
+      "c15098d"
+    ],
+    "files": [
+      "src/routes/(app)/home/+page.svelte"
+    ]
+  },
+  "c15098d": {
+    "author": "Omar Khorshid",
+    "subject": "header(done), landing(nearly done)",
+    "date": "1678565097",
+    "branches": "",
+    "parents": [
+      "83fb536"
+    ],
+    "files": [
+      "src/routes/(app)/home/+page.svelte"
+    ]
+  },
+  "83fb536": {
+    "author": "MahmoodKhalil57",
+    "subject": "init landing page",
+    "date": "1678546311",
+    "branches": "",
+    "parents": [
+      "41f489e"
+    ],
+    "files": [
+      "src/routes/(app)/home/+layout.svelte",
+      "src/routes/(app)/home/+page.svelte"
+    ]
+  },
+  "41f489e": {
+    "author": "Omar Khorshid",
+    "subject": "Merge branch 'Hotfix_v0.0.1'",
+    "date": "1679736224",
+    "branches": "",
+    "parents": [
+      "02e592e",
+      "796386f"
+    ],
+    "files": []
+  },
+  "796386f": {
+    "author": "Omar Khorshid",
+    "subject": "fixing text sizes in footer for responsiveness",
+    "date": "1679736159",
+    "branches": " (origin/Hotfix_v0.0.1)",
+    "parents": [
+      "872bcbd"
+    ],
+    "files": [
+      "src/lib/components/layout/Footer.svelte"
+    ]
+  },
+  "872bcbd": {
+    "author": "Omar Khorshid",
+    "subject": "Merge commit '02e592e810b60390abbbb7cb588ae8fd75e241fc' into Hotfix_v0.0.1",
+    "date": "1679734929",
+    "branches": "",
+    "parents": [
+      "e5ebc29",
+      "02e592e"
+    ],
+    "files": []
+  },
+  "02e592e": {
+    "author": "Omar Khorshid",
+    "subject": "Merge branch 'OKhorshid/issue23'",
+    "date": "1679734510",
+    "branches": "",
+    "parents": [
+      "c919ecc",
+      "cc7ce45"
+    ],
+    "files": []
+  },
+  "cc7ce45": {
+    "author": "Omar Khorshid",
+    "subject": "Fix payment checkout/payment page Fixes #23",
+    "date": "1679734466",
+    "branches": " (origin/OKhorshid/issue23)",
+    "parents": [
+      "c22b422"
+    ],
+    "files": [
+      "src/routes/(app)/checkout/payment/+page.svelte"
+    ]
+  },
+  "c919ecc": {
+    "author": "Omar Khorshid",
+    "subject": "Fixing font size in /checkout for mobile",
+    "date": "1679578569",
+    "branches": "",
+    "parents": [
+      "1a275ef"
+    ],
+    "files": [
+      "src/routes/(app)/checkout/contactInfo/+page.svelte",
+      "src/routes/(app)/checkout/payment/+page.svelte"
+    ]
+  },
+  "e5ebc29": {
+    "author": "Omar Khorshid",
+    "subject": "Fixing font size in /checkout for mobile",
+    "date": "1679578569",
+    "branches": "",
+    "parents": [
+      "ea000cd"
+    ],
+    "files": [
+      "src/routes/(app)/checkout/contactInfo/+page.svelte",
+      "src/routes/(app)/checkout/payment/+page.svelte"
+    ]
+  },
+  "ea000cd": {
+    "author": "Omar Khorshid",
+    "subject": "Merge commit '1a275ef300b0eed5f0d97557052ec8a1bad049f5' into Hotfix_v0.0.1",
+    "date": "1679577584",
+    "branches": "",
+    "parents": [
+      "1fc8e64",
+      "1a275ef"
+    ],
+    "files": []
+  },
+  "1a275ef": {
+    "author": "Omar Khorshid",
+    "subject": "Merge branch 'OKhorshid/issue23'",
+    "date": "1679577449",
+    "branches": "",
+    "parents": [
+      "ebe84a8",
+      "c22b422"
+    ],
+    "files": []
+  },
+  "c22b422": {
+    "author": "Omar Khorshid",
+    "subject": "Fix payment checkout/payment page Fixes #23",
+    "date": "1679577409",
+    "branches": "",
+    "parents": [
+      "ebe84a8"
+    ],
+    "files": [
+      "src/routes/(app)/checkout/payment/+page.svelte"
+    ]
+  },
+  "10ac428": {
+    "author": "Omar Khorshid",
+    "subject": "priceList fonts optimized & button w adjusted",
+    "date": "1679482655",
+    "branches": "",
+    "parents": [
+      "c7ebd98"
+    ],
+    "files": [
+      "src/lib/components/curlture/priceList.svelte",
+      "src/routes/(app)/yourCart/+page.svelte"
+    ]
+  },
+  "ebe84a8": {
+    "author": "Omar Khorshid",
+    "subject": "Merge branch 'OKhorshid/issue21'",
+    "date": "1679359916",
+    "branches": "",
+    "parents": [
+      "0ed7717",
+      "c5e6dc0"
+    ],
+    "files": []
+  },
+  "c5e6dc0": {
+    "author": "Omar Khorshid",
+    "subject": "hotfix",
+    "date": "1679243944",
+    "branches": "",
+    "parents": [
+      "3da7d49"
+    ],
+    "files": [
+      "src/lib/components/layout/Footer.svelte"
+    ]
+  },
+  "3da7d49": {
+    "author": "Omar Khorshid",
+    "subject": "footer final (responsive) draft",
+    "date": "1679243655",
+    "branches": "",
+    "parents": [
+      "f9b008a"
+    ],
+    "files": [
+      "src/lib/components/layout/Footer.svelte"
+    ]
+  },
+  "f9b008a": {
+    "author": "Omar Khorshid",
+    "subject": "hover_underline animation added to app.css & footer final for xl screen",
+    "date": "1679230839",
+    "branches": "",
+    "parents": [
+      "2de1fea"
+    ],
+    "files": [
+      "src/app.css",
+      "src/lib/components/layout/Footer.svelte"
+    ]
+  },
+  "2de1fea": {
+    "author": "Omar Khorshid",
+    "subject": "app css gradient and fonts, home +page marginfpor 2nd section, footer optimized for xl screen (missing anchors) [landing page omitted]",
+    "date": "1679152857",
+    "branches": "",
+    "parents": [
+      "afb9138"
+    ],
+    "files": [
+      "src/app.css",
+      "src/lib/components/layout/Footer.svelte"
+    ]
+  },
+  "afb9138": {
+    "author": "Omar Khorshid",
+    "subject": "Footer init",
+    "date": "1678577177",
+    "branches": "",
+    "parents": [
+      "cb04299"
+    ],
+    "files": [
+      "src/lib/components/layout/Footer.svelte"
+    ]
+  },
+  "cb04299": {
+    "author": "Omar Khorshid",
+    "subject": "header(done), landing(nearly done) [PS. landing was not cherry picked]",
+    "date": "1679359141",
+    "branches": "",
+    "parents": [
+      "51185f0"
+    ],
+    "files": [
+      "src/app.css",
+      "src/lib/components/layout/Header.svelte",
+      "static/CurltureArt.jpeg"
+    ]
+  },
+  "51185f0": {
+    "author": "Omar Khorshid",
+    "subject": "le3b w sha2labazat",
+    "date": "1678546611",
+    "branches": "",
+    "parents": [
+      "80664ab"
+    ],
+    "files": [
+      "src/app.css",
+      "src/lib/components/layout/Header.svelte",
+      "src/routes/(app)/checkout/+layout.svelte"
+    ]
+  },
+  "80664ab": {
+    "author": "MahmoodKhalil57",
+    "subject": "minor refactoring",
+    "date": "1678546341",
+    "branches": "",
+    "parents": [
+      "4492a11"
+    ],
+    "files": [
+      "src/app.html",
+      "src/lib/components/utils/DarkModeToggle.svelte"
+    ]
+  },
+  "4492a11": {
+    "author": "Omar Khorshid",
+    "subject": "WIP; remaining: text(size/color) in middle section",
+    "date": "1678285272",
+    "branches": "",
+    "parents": [
+      "af0b7db"
+    ],
+    "files": [
+      "src/lib/components/layout/Header.svelte",
+      "static/CurltureLogo1.png",
+      "static/CurltureLogoW.png",
+      "tailwind.config.cjs"
+    ]
+  },
+  "af0b7db": {
+    "author": "Omar Khorshid",
+    "subject": "more images added",
+    "date": "1678270692",
+    "branches": "",
+    "parents": [
+      "b405c32"
+    ],
+    "files": [
+      "static/CurltureLogo1.png",
+      "static/CurltureLogoB.png",
+      "static/CurltureLogoW.png"
+    ]
+  },
+  "b405c32": {
+    "author": "MahmoodKhalil57",
+    "subject": "5edma",
+    "date": "1678236630",
+    "branches": "",
+    "parents": [
+      "66c337c"
+    ],
+    "files": [
+      "src/lib/components/layout/Header.svelte",
+      "src/lib/components/utils/DarkModeToggle.svelte"
+    ]
+  },
+  "c7ebd98": {
+    "author": "Omar Khorshid",
+    "subject": "hotfix & component made responsive  in +page",
+    "date": "1679357765",
+    "branches": "",
+    "parents": [
+      "e0fd2d0"
+    ],
+    "files": [
+      "src/lib/components/curlture/priceList.svelte",
+      "src/routes/(app)/yourCart/+page.svelte"
+    ]
+  },
+  "e0fd2d0": {
+    "author": "Omar Khorshid",
+    "subject": "types added to priceList",
+    "date": "1679341594",
+    "branches": "",
+    "parents": [
+      "a5a79d6"
+    ],
+    "files": [
+      "src/lib/components/curlture/priceList.svelte"
+    ]
+  },
+  "02b84ca": {
+    "author": "Omar Khorshid",
+    "subject": "hotfix",
+    "date": "1679243944",
+    "branches": " (origin/5edma)",
+    "parents": [
+      "9e04929"
+    ],
+    "files": [
+      "src/lib/components/layout/Footer.svelte"
+    ]
+  },
+  "9e04929": {
+    "author": "Omar Khorshid",
+    "subject": "footer final (responsive) draft",
+    "date": "1679243655",
+    "branches": "",
+    "parents": [
+      "511847f"
+    ],
+    "files": [
+      "src/lib/components/layout/Footer.svelte"
+    ]
+  },
+  "511847f": {
+    "author": "Omar Khorshid",
+    "subject": "\"alt\" attribute added to every <img> in landing page",
+    "date": "1679231118",
+    "branches": "",
+    "parents": [
+      "ce482b3"
+    ],
+    "files": [
+      "src/routes/(app)/home/+page.svelte"
+    ]
+  },
+  "ce482b3": {
+    "author": "Omar Khorshid",
+    "subject": "hover_underline animation added to app.css & footer final for xl screen",
+    "date": "1679230839",
+    "branches": "",
+    "parents": [
+      "46bd6d9"
+    ],
+    "files": [
+      "src/app.css",
+      "src/lib/components/layout/Footer.svelte"
+    ]
+  },
+  "46bd6d9": {
+    "author": "Omar Khorshid",
+    "subject": "app css gradient and fonts, home +page marginfpor 2nd section, footer optimized for xl screen (missing anchors)",
+    "date": "1679152857",
+    "branches": "",
+    "parents": [
+      "b8219aa"
+    ],
+    "files": [
+      "src/app.css",
+      "src/lib/components/layout/Footer.svelte",
+      "src/routes/(app)/home/+page.svelte"
+    ]
+  },
+  "de2798d": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'production_V1.0.0_netlify' into production_V1.0.0",
+    "date": "1678971899",
+    "branches": "",
+    "parents": [
+      "563e41f",
+      "4ed77fe"
+    ],
+    "files": []
+  },
+  "4ed77fe": {
+    "author": "MahmoodKhalil57",
+    "subject": "import @sveltejs/adapter-netlify",
+    "date": "1678971832",
+    "branches": "",
+    "parents": [
+      "7b12ea3"
+    ],
+    "files": [
+      "package.json",
+      "pnpm-lock.yaml"
+    ]
+  },
+  "563e41f": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'production_V1.0.0_netlify' into production_V1.0.0",
+    "date": "1678922178",
+    "branches": "",
+    "parents": [
+      "0ed7717",
+      "7b12ea3"
+    ],
+    "files": []
+  },
+  "7b12ea3": {
+    "author": "MahmoodKhalil57",
+    "subject": "add netlify support",
+    "date": "1678922154",
+    "branches": "",
+    "parents": [
+      "0ed7717"
+    ],
+    "files": [
+      "svelte.config.js"
+    ]
+  },
+  "b8219aa": {
+    "author": "Omar Khorshid",
+    "subject": "Footer init",
+    "date": "1678577177",
+    "branches": "",
+    "parents": [
+      "23420b7"
+    ],
+    "files": [
+      "src/lib/components/layout/Footer.svelte"
+    ]
+  },
+  "23420b7": {
+    "author": "Omar Khorshid",
+    "subject": "Hero image made responsive & btn color added",
+    "date": "1678575974",
+    "branches": "",
+    "parents": [
+      "5c16860"
+    ],
+    "files": [
+      "src/routes/(app)/home/+page.svelte"
+    ]
+  },
+  "5c16860": {
+    "author": "Omar Khorshid",
+    "subject": "header(done), landing(nearly done)",
+    "date": "1678565097",
+    "branches": "",
+    "parents": [
+      "8a40937"
+    ],
+    "files": [
+      "src/app.css",
+      "src/lib/components/layout/Header.svelte",
+      "src/routes/(app)/home/+page.svelte",
+      "static/CurltureArt.jpeg"
+    ]
+  },
+  "0ed7717": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'hotfix-pnpm-build'",
+    "date": "1678550482",
+    "branches": "",
+    "parents": [
+      "0a0fd24",
+      "49a0395"
+    ],
+    "files": []
+  },
+  "49a0395": {
+    "author": "MahmoodKhalil57",
+    "subject": "hotfix pnpm build",
+    "date": "1678550466",
+    "branches": " (origin/hotfix-pnpm-build)",
+    "parents": [
+      "0a0fd24"
+    ],
+    "files": [
+      "src/routes/(app)/products/[slug]/+layout.ts",
+      "svelte.config.js"
+    ]
+  },
+  "8a40937": {
+    "author": "Omar Khorshid",
+    "subject": "Merge branch '5edma' of https://github.com/MyCurlture/svelteCurlture into 5edma",
+    "date": "1678546616",
+    "branches": "",
+    "parents": [
+      "db5fefc",
+      "424db71"
+    ],
+    "files": []
+  },
+  "db5fefc": {
+    "author": "Omar Khorshid",
+    "subject": "le3b w sha2labazat",
+    "date": "1678546611",
+    "branches": "",
+    "parents": [
+      "8104e5e"
+    ],
+    "files": [
+      "src/app.css",
+      "src/lib/components/layout/Header.svelte",
+      "src/routes/(app)/checkout/+layout.svelte"
+    ]
+  },
+  "424db71": {
+    "author": "MahmoodKhalil57",
+    "subject": "minor refactoring",
+    "date": "1678546341",
+    "branches": "",
+    "parents": [
+      "8d97b4f"
+    ],
+    "files": [
+      "src/app.html",
+      "src/lib/components/utils/DarkModeToggle.svelte"
+    ]
+  },
+  "8d97b4f": {
+    "author": "MahmoodKhalil57",
+    "subject": "init landing page",
+    "date": "1678546311",
+    "branches": "",
+    "parents": [
+      "8104e5e"
+    ],
+    "files": [
+      "src/routes/(app)/home/+layout.svelte",
+      "src/routes/(app)/home/+page.svelte"
+    ]
+  },
+  "8104e5e": {
+    "author": "Omar Khorshid",
+    "subject": "WIP; remaining: text(size/color) in middle section",
+    "date": "1678285272",
+    "branches": "",
+    "parents": [
+      "02964f2"
+    ],
+    "files": [
+      "src/lib/components/layout/Header.svelte",
+      "static/CurltureLogo1.png",
+      "static/CurltureLogoW.png",
+      "tailwind.config.cjs"
+    ]
+  },
+  "02964f2": {
+    "author": "Omar Khorshid",
+    "subject": "more images added",
+    "date": "1678270692",
+    "branches": "",
+    "parents": [
+      "c23f3f0"
+    ],
+    "files": [
+      "static/CurltureLogo1.png",
+      "static/CurltureLogoB.png",
+      "static/CurltureLogoW.png"
+    ]
+  },
+  "c23f3f0": {
+    "author": "MahmoodKhalil57",
+    "subject": "5edma",
+    "date": "1678236630",
+    "branches": "",
+    "parents": [
+      "66c337c"
+    ],
+    "files": [
+      "src/lib/components/layout/Header.svelte",
+      "src/lib/components/utils/DarkModeToggle.svelte"
+    ]
+  },
+  "66c337c": {
+    "author": "Omar Khorshid",
+    "subject": "header (phone to sm:) added #21",
+    "date": "1678231454",
+    "branches": "",
+    "parents": [
+      "e538ed3"
+    ],
+    "files": [
+      "src/lib/components/layout/Header.svelte",
+      "src/lib/components/utils/DarkModeToggle.svelte"
+    ]
+  },
+  "e538ed3": {
+    "author": "Omar Khorshid",
+    "subject": "brand Images, and bar icon added to tailwind config #21",
+    "date": "1678227555",
+    "branches": "",
+    "parents": [
+      "3d525a9"
+    ],
+    "files": [
+      "static/CurltureArt.jpeg",
+      "static/CurltureCurls.jpeg",
+      "static/CurltureLogo.png",
+      "tailwind.config.cjs"
+    ]
+  },
+  "3d525a9": {
+    "author": "Omar Khorshid",
+    "subject": "Merge branch 'OKhorshid/issue21' of https://github.com/MyCurlture/svelteCurlture into OKhorshid/issue21",
+    "date": "1678223983",
+    "branches": "",
+    "parents": [
+      "9c0fcb7",
+      "e0d865b"
+    ],
+    "files": []
+  },
+  "9c0fcb7": {
+    "author": "Omar Khorshid",
+    "subject": "Init +page #21",
+    "date": "1678223974",
+    "branches": "",
+    "parents": [
+      "25c2911"
+    ],
+    "files": [
+      "src/routes/(app)/Landing Page/+page.svelte"
+    ]
+  },
+  "e0d865b": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'master' into OKhorshid/issue21",
+    "date": "1678218257",
+    "branches": "",
+    "parents": [
+      "25c2911",
+      "0a0fd24"
+    ],
+    "files": []
+  },
+  "0a0fd24": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'MahmoodKhalil57/issue19'",
+    "date": "1678142342",
+    "branches": "",
+    "parents": [
+      "54e3be4",
+      "90f925f"
+    ],
+    "files": []
+  },
+  "54e3be4": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'MahmoodKhalil57/issue10'",
+    "date": "1678142337",
+    "branches": "",
+    "parents": [
+      "b9f9b42",
+      "e60aa16"
+    ],
+    "files": []
+  },
+  "90f925f": {
+    "author": "MahmoodKhalil57",
+    "subject": "dark theme stars and fix types on slug product fixes #19",
+    "date": "1678142217",
+    "branches": " (origin/MahmoodKhalil57/issue19)",
+    "parents": [
+      "335e983"
+    ],
+    "files": [
+      "src/routes/(app)/products/[slug]/v2/+page.svelte"
+    ]
+  },
+  "e60aa16": {
+    "author": "MahmoodKhalil57",
+    "subject": "dark theme stars and fix types on slug product fixes #10",
+    "date": "1678142207",
+    "branches": " (origin/MahmoodKhalil57/issue10)",
+    "parents": [
+      "2cca211"
+    ],
+    "files": [
+      "src/routes/(app)/products/[slug]/+page.svelte"
+    ]
+  },
+  "8b67ed8": {
+    "author": "MahmoodKhalil57",
+    "subject": "dark theme stars and fix types on slug product fixes #19",
+    "date": "1678142217",
+    "branches": " (origin/bugfix-0.0.2)",
+    "parents": [
+      "f2a50dc"
+    ],
+    "files": [
+      "src/routes/(app)/products/[slug]/v2/+page.svelte"
+    ]
+  },
+  "f2a50dc": {
+    "author": "MahmoodKhalil57",
+    "subject": "dark theme stars and fix types on slug product fixes #10",
+    "date": "1678142207",
+    "branches": "",
+    "parents": [
+      "b9f9b42"
+    ],
+    "files": [
+      "src/routes/(app)/products/[slug]/+page.svelte"
+    ]
+  },
+  "b9f9b42": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'MahmoodKhalil57/issue19'",
+    "date": "1678137795",
+    "branches": "",
+    "parents": [
+      "1e0e98a",
+      "335e983"
+    ],
+    "files": []
+  },
+  "1e0e98a": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'MahmoodKhalil57/issue9'",
+    "date": "1678137790",
+    "branches": "",
+    "parents": [
+      "7adcf8c",
+      "90ff92a"
+    ],
+    "files": []
+  },
+  "90ff92a": {
+    "author": "MahmoodKhalil57",
+    "subject": "fix carousel grid #9",
+    "date": "1678137718",
+    "branches": " (origin/MahmoodKhalil57/issue9)",
+    "parents": [
+      "36625b3"
+    ],
+    "files": [
+      "src/lib/components/ui/imageCarousel.svelte"
+    ]
+  },
+  "335e983": {
+    "author": "MahmoodKhalil57",
+    "subject": "Add products slug v2 Fixes #19",
+    "date": "1678137645",
+    "branches": "",
+    "parents": [
+      "882fe82"
+    ],
+    "files": [
+      "src/routes/(app)/products/[slug]/v2/+page.svelte"
+    ]
+  },
+  "25c2911": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'master' into OKhorshid/issue21",
+    "date": "1678101175",
+    "branches": "",
+    "parents": [
+      "868c5eb",
+      "7adcf8c"
+    ],
+    "files": []
+  },
+  "7adcf8c": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'OKhorshid/issue14'",
+    "date": "1678057996",
+    "branches": "",
+    "parents": [
+      "bce4208",
+      "62fa135"
+    ],
+    "files": []
+  },
+  "62fa135": {
+    "author": "MahmoodKhalil57",
+    "subject": "test #14",
+    "date": "1678057972",
+    "branches": " (origin/OKhorshid/issue14)",
+    "parents": [
+      "da4363a"
+    ],
+    "files": [
+      "src/routes/(app)/checkout/contactInfo/+page.svelte"
+    ]
+  },
+  "bce4208": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'MahmoodKhalil57/issue16'",
+    "date": "1678057427",
+    "branches": "",
+    "parents": [
+      "5d169ed",
+      "2623ddd"
+    ],
+    "files": []
+  },
+  "5d169ed": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'MahmoodKhalil57/issue18'",
+    "date": "1678057421",
+    "branches": "",
+    "parents": [
+      "269333c",
+      "191ddc5"
+    ],
+    "files": []
+  },
+  "269333c": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'MahmoodKhalil57/issue19'",
+    "date": "1678057414",
+    "branches": "",
+    "parents": [
+      "20bd1d6",
+      "882fe82"
+    ],
+    "files": []
+  },
+  "da4363a": {
+    "author": "MahmoodKhalil57",
+    "subject": "Change queries to mutations Fixes #18 Fixes #14",
+    "date": "1678057399",
+    "branches": "",
+    "parents": [
+      "856ecda"
+    ],
+    "files": [
+      "src/lib/server/router/checkout.ts",
+      "src/routes/(app)/checkout/contactInfo/+page.svelte"
+    ]
+  },
+  "2623ddd": {
+    "author": "MahmoodKhalil57",
+    "subject": "Change queries to mutations Fixes #18 Add checkout/payments Fixes #16",
+    "date": "1678057325",
+    "branches": " (origin/MahmoodKhalil57/issue16)",
+    "parents": [
+      "8458f1c"
+    ],
+    "files": [
+      "src/lib/server/router/checkout.ts",
+      "src/routes/(app)/checkout/contactInfo/+page.svelte"
+    ]
+  },
+  "856ecda": {
+    "author": "MahmoodKhalil57",
+    "subject": "Change queries to mutations Fixes #18 fixes #14",
+    "date": "1678057090",
+    "branches": "",
+    "parents": [
+      "08b9351"
+    ],
+    "files": [
+      "src/routes/(app)/checkout/contactInfo/+page.svelte"
+    ]
+  },
+  "08b9351": {
+    "author": "MahmoodKhalil57",
+    "subject": "Add checkout/payments Fixes #16 fixes #14",
+    "date": "1678056792",
+    "branches": "",
+    "parents": [
+      "94dd9a7"
+    ],
+    "files": [
+      "src/lib/server/router/checkout.ts"
+    ]
+  },
+  "8458f1c": {
+    "author": "MahmoodKhalil57",
+    "subject": "Change queries to mutations Fixes #18 fixes #16",
+    "date": "1678056785",
+    "branches": "",
+    "parents": [
+      "b557c00"
+    ],
+    "files": [
+      "src/routes/(app)/checkout/contactInfo/+page.svelte",
+      "src/routes/(app)/checkout/payment/+page.svelte"
+    ]
+  },
+  "191ddc5": {
+    "author": "MahmoodKhalil57",
+    "subject": "Revert \"Change queries to mutations\"",
+    "date": "1678056893",
+    "branches": " (origin/MahmoodKhalil57/issue18)",
+    "parents": [
+      "8c7a7f4"
+    ],
+    "files": [
+      "src/lib/server/root.ts"
+    ]
+  },
+  "8c7a7f4": {
+    "author": "MahmoodKhalil57",
+    "subject": "Change queries to mutations Fixes #18 fixes #14",
+    "date": "1678056792",
+    "branches": "",
+    "parents": [
+      "8d251ab"
+    ],
+    "files": [
+      "src/lib/server/router/checkout.ts"
+    ]
+  },
+  "8d251ab": {
+    "author": "MahmoodKhalil57",
+    "subject": "Change queries to mutations Fixes #18 fixes #16",
+    "date": "1678056785",
+    "branches": "",
+    "parents": [
+      "c82b548"
+    ],
+    "files": [
+      "src/routes/(app)/checkout/contactInfo/+page.svelte",
+      "src/routes/(app)/checkout/payment/+page.svelte"
+    ]
+  },
+  "c82b548": {
+    "author": "MahmoodKhalil57",
+    "subject": "Change queries to mutations Fixes #18 fixes #10",
+    "date": "1678056680",
+    "branches": "",
+    "parents": [
+      "20bd1d6"
+    ],
+    "files": [
+      "src/lib/server/root.ts"
+    ]
+  },
+  "882fe82": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'master' into MahmoodKhalil57/issue19",
+    "date": "1678056328",
+    "branches": "",
+    "parents": [
+      "553065b",
+      "20bd1d6"
+    ],
+    "files": []
+  },
+  "20bd1d6": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'MahmoodKhalil57/issue9'",
+    "date": "1678056314",
+    "branches": "",
+    "parents": [
+      "b5ea5f8",
+      "36625b3"
+    ],
+    "files": []
+  },
+  "36625b3": {
+    "author": "MahmoodKhalil57",
+    "subject": "add hidden order div #9",
+    "date": "1678056300",
+    "branches": "",
+    "parents": [
+      "2caa652"
+    ],
+    "files": [
+      "src/lib/components/ui/imageCarousel.svelte"
+    ]
+  },
+  "553065b": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'master' into MahmoodKhalil57/issue19",
+    "date": "1678055925",
+    "branches": "",
+    "parents": [
+      "b84d7e4",
+      "b5ea5f8"
+    ],
+    "files": []
+  },
+  "b5ea5f8": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'MahmoodKhalil57/issue9'",
+    "date": "1678055912",
+    "branches": "",
+    "parents": [
+      "a77fee2",
+      "2caa652"
+    ],
+    "files": []
+  },
+  "2caa652": {
+    "author": "MahmoodKhalil57",
+    "subject": "add hardlimit on image carousel #9",
+    "date": "1678055898",
+    "branches": "",
+    "parents": [
+      "f9cdb0a"
+    ],
+    "files": [
+      "src/lib/components/ui/imageCarousel.svelte"
+    ]
+  },
+  "b84d7e4": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'master' into MahmoodKhalil57/issue19",
+    "date": "1678055604",
+    "branches": "",
+    "parents": [
+      "37a0112",
+      "a77fee2"
+    ],
+    "files": []
+  },
+  "a77fee2": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'MahmoodKhalil57/issue9'",
+    "date": "1678055580",
+    "branches": "",
+    "parents": [
+      "d7fdb5a",
+      "f9cdb0a"
+    ],
+    "files": []
+  },
+  "f9cdb0a": {
+    "author": "MahmoodKhalil57",
+    "subject": "optimize image Carousel #9",
+    "date": "1678055563",
+    "branches": "",
+    "parents": [
+      "90be68e"
+    ],
+    "files": [
+      "src/lib/components/ui/imageCarousel.svelte"
+    ]
+  },
+  "d7fdb5a": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'MahmoodKhalil57/issue19'",
+    "date": "1678051246",
+    "branches": "",
+    "parents": [
+      "b3be7da",
+      "37a0112"
+    ],
+    "files": []
+  },
+  "37a0112": {
+    "author": "MahmoodKhalil57",
+    "subject": "Add products slug v2 Fixes #19",
+    "date": "1678051233",
+    "branches": "",
+    "parents": [
+      "ccf97e5"
+    ],
+    "files": [
+      "src/routes/(app)/products/[slug]/v2/+page.svelte"
+    ]
+  },
+  "ccf97e5": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'master' into MahmoodKhalil57/issue19",
+    "date": "1678050410",
+    "branches": "",
+    "parents": [
+      "e13bd5d",
+      "b3be7da"
+    ],
+    "files": []
+  },
+  "a5a79d6": {
+    "author": "Omar Khorshid",
+    "subject": "head icon changed, yourCart page to be finalized",
+    "date": "1678047928",
+    "branches": "",
+    "parents": [
+      "20df29c"
+    ],
+    "files": [
+      "src/app.css",
+      "src/app.html",
+      "src/lib/components/curlture/priceList.svelte",
+      "src/lib/components/ui/inputGroup.svelte",
+      "src/routes/(app)/yourCart/+page.svelte"
+    ]
+  },
+  "20df29c": {
+    "author": "Omar Khorshid",
+    "subject": "priceList & inputGroup finalization, public sans imported from google fonts and added to app layout",
+    "date": "1678041517",
+    "branches": "",
+    "parents": [
+      "e13bd5d"
+    ],
+    "files": [
+      "src/app.css",
+      "src/lib/components/curlture/priceList.svelte",
+      "src/lib/components/ui/inputGroup.svelte",
+      "src/routes/(app)/+layout.svelte",
+      "src/routes/(app)/yourCart/+page.svelte",
+      "tailwind.config.cjs"
+    ]
+  },
+  "b3be7da": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'MahmoodKhalil57/issue10'",
+    "date": "1678040616",
+    "branches": "",
+    "parents": [
+      "cd19891",
+      "2cca211"
+    ],
+    "files": []
+  },
+  "2cca211": {
+    "author": "MahmoodKhalil57",
+    "subject": "spinner component #10",
+    "date": "1678040579",
+    "branches": "",
+    "parents": [
+      "583dbcb"
+    ],
+    "files": [
+      "src/lib/components/ui/spinnerOne.svelte",
+      "src/routes/(app)/products/(index)/+page.svelte",
+      "src/routes/(app)/products/[slug]/+page.svelte"
+    ]
+  },
+  "cd19891": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'OKhorshid/issue15'",
+    "date": "1678039659",
+    "branches": "",
+    "parents": [
+      "ea7e2f0",
+      "e13bd5d"
+    ],
+    "files": []
+  },
+  "ea7e2f0": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'OKhorshid/issue14'",
+    "date": "1678039651",
+    "branches": "",
+    "parents": [
+      "2f83ffe",
+      "94dd9a7"
+    ],
+    "files": []
+  },
+  "2f83ffe": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'MahmoodKhalil57/issue9'",
+    "date": "1678039637",
+    "branches": "",
+    "parents": [
+      "40cff36",
+      "90be68e"
+    ],
+    "files": []
+  },
+  "e13bd5d": {
+    "author": "MahmoodKhalil57",
+    "subject": "Add myCart page #15",
+    "date": "1678039571",
+    "branches": "",
+    "parents": [
+      "087790d"
+    ],
+    "files": [
+      "src/routes/(app)/yourCart/+layout.svelte"
+    ]
+  },
+  "94dd9a7": {
+    "author": "MahmoodKhalil57",
+    "subject": "add checkout layout",
+    "date": "1678039525",
+    "branches": "",
+    "parents": [
+      "db6cafd"
+    ],
+    "files": [
+      "src/routes/(app)/checkout/+layout.svelte"
+    ]
+  },
+  "90be68e": {
+    "author": "MahmoodKhalil57",
+    "subject": "fix showcase layout #fixes 4",
+    "date": "1678038834",
+    "branches": "",
+    "parents": [
+      "029dfec"
+    ],
+    "files": [
+      "src/routes/(app)/showcase/+layout.svelte"
+    ]
+  },
+  "40cff36": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'OKhorshid/issue13'",
+    "date": "1678038685",
+    "branches": "",
+    "parents": [
+      "34734a8",
+      "6bbdf75"
+    ],
+    "files": []
+  },
+  "34734a8": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'MahmoodKhalil57/issue9'",
+    "date": "1678031511",
+    "branches": "",
+    "parents": [
+      "a76456a",
+      "029dfec"
+    ],
+    "files": []
+  },
+  "a76456a": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'MahmoodKhalil57/issue10'",
+    "date": "1678031506",
+    "branches": "",
+    "parents": [
+      "d55043f",
+      "583dbcb"
+    ],
+    "files": []
+  },
+  "d55043f": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'MahmoodKhalil57/issue4'",
+    "date": "1678031501",
+    "branches": "",
+    "parents": [
+      "cee506e",
+      "9b2cde9"
+    ],
+    "files": []
+  },
+  "cee506e": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'MahmoodKhalil57/issue17'",
+    "date": "1678031476",
+    "branches": "",
+    "parents": [
+      "868c5eb",
+      "ba31fec"
+    ],
+    "files": []
+  },
+  "029dfec": {
+    "author": "MahmoodKhalil57",
+    "subject": "fix layout showcase fixes #9",
+    "date": "1678031459",
+    "branches": "",
+    "parents": [
+      "72216c0"
+    ],
+    "files": [
+      "src/routes/(app)/showcase/+layout.svelte"
+    ]
+  },
+  "583dbcb": {
+    "author": "MahmoodKhalil57",
+    "subject": "fix product layout fixes #10",
+    "date": "1678031421",
+    "branches": "",
+    "parents": [
+      "3fdba47"
+    ],
+    "files": [
+      "src/routes/(app)/products/[slug]/+layout.svelte",
+      "src/routes/(app)/products/[slug]/+page.svelte"
+    ]
+  },
+  "9b2cde9": {
+    "author": "MahmoodKhalil57",
+    "subject": "setup basic pages hotfx #4",
+    "date": "1678031343",
+    "branches": " (origin/MahmoodKhalil57/issue4)",
+    "parents": [
+      "6e70446"
+    ],
+    "files": [
+      "src/routes/(app)/(index)/+layout.svelte",
+      "src/routes/(app)/+layout.svelte"
+    ]
+  },
+  "ba31fec": {
+    "author": "MahmoodKhalil57",
+    "subject": "Add Pwa Fixes #17",
+    "date": "1678031139",
+    "branches": " (origin/MahmoodKhalil57/issue17)",
+    "parents": [
+      "0179a99"
+    ],
+    "files": [
+      "src/lib/ReloadPrompt.svelte"
+    ]
+  },
+  "868c5eb": {
+    "author": "Omar Khorshid",
+    "subject": "Merge branch 'MahmoodKhalil57/issue4'",
+    "date": "1678021787",
+    "branches": "",
+    "parents": [
+      "ce2cdb6",
+      "6e70446"
+    ],
+    "files": []
+  },
+  "ce2cdb6": {
+    "author": "Omar Khorshid",
+    "subject": "Merge branch 'MahmoodKhalil57/issue10'",
+    "date": "1678021740",
+    "branches": "",
+    "parents": [
+      "0179a99",
+      "3fdba47"
+    ],
+    "files": []
+  },
+  "3fdba47": {
+    "author": "Omar Khorshid",
+    "subject": "Merge branch 'MahmoodKhalil57/issue9' into MahmoodKhalil57/issue10 (fix scroll)",
+    "date": "1678021672",
+    "branches": "",
+    "parents": [
+      "0bd4be6",
+      "72216c0"
+    ],
+    "files": []
+  },
+  "0bd4be6": {
+    "author": "Omar Khorshid",
+    "subject": "HotFix branch #10 overflow-scroll removed",
+    "date": "1678019932",
+    "branches": "",
+    "parents": [
+      "ce4e982"
+    ],
+    "files": [
+      "src/routes/(app)/products/(index)/+layout.svelte",
+      "src/routes/(app)/products/(index)/+page.svelte",
+      "src/routes/(app)/products/[slug]/+page.svelte"
+    ]
+  },
+  "72216c0": {
+    "author": "Omar Khorshid",
+    "subject": "HotFix branch #9 overflow-scroll removed",
+    "date": "1678019885",
+    "branches": "",
+    "parents": [
+      "a1b7149"
+    ],
+    "files": [
+      "src/lib/components/utils/DrawerContainer.svelte"
+    ]
+  },
+  "6e70446": {
+    "author": "Omar Khorshid",
+    "subject": "Hotfix branch #4 width-adjustment",
+    "date": "1678019801",
+    "branches": "",
+    "parents": [
+      "7ee211e"
+    ],
+    "files": [
+      "src/lib/components/layout/DrawerContent.svelte"
+    ]
+  },
+  "1fc8e64": {
+    "author": "Omar Khorshid",
+    "subject": "HotFix branch #10 overflow-scroll removed",
+    "date": "1678019932",
+    "branches": "",
+    "parents": [
+      "afb542d"
+    ],
+    "files": [
+      "src/routes/(app)/products/(index)/+layout.svelte",
+      "src/routes/(app)/products/(index)/+page.svelte",
+      "src/routes/(app)/products/[slug]/+page.svelte"
+    ]
+  },
+  "afb542d": {
+    "author": "Omar Khorshid",
+    "subject": "HotFix branch #9 overflow-scroll removed",
+    "date": "1678019885",
+    "branches": "",
+    "parents": [
+      "4946709"
+    ],
+    "files": [
+      "src/lib/components/utils/DrawerContainer.svelte"
+    ]
+  },
+  "0179a99": {
+    "author": "MahmoodKhalil57",
+    "subject": "Add Pwa Fixes #17",
+    "date": "1677990694",
+    "branches": "",
+    "parents": [
+      "bfefdff"
+    ],
+    "files": [
+      "package.json",
+      "pnpm-lock.yaml",
+      "src/app.d.ts",
+      "src/app.html",
+      "src/lib/ReloadPrompt.svelte",
+      "src/prompt-sw.ts",
+      "src/routes/+layout.svelte",
+      "src/routes/+layout.ts",
+      "src/service-worker.ts",
+      "static/apple-touch-icon.png",
+      "static/favicon.ico",
+      "static/favicon.svg",
+      "static/pwa-192x192.png",
+      "static/pwa-512x512.png",
+      "static/robots.txt",
+      "svelte.config.js",
+      "tsconfig.json",
+      "vite.config.ts"
+    ]
+  },
+  "bfefdff": {
+    "author": "MahmoodKhalil57",
+    "subject": "Revert \"Revert \"Revert \"(init) add PWA\"\"\"",
+    "date": "1677986389",
+    "branches": "",
+    "parents": [
+      "52fa77a"
+    ],
+    "files": [
+      "127.0.0.1_2023-02-11_06-32-12.report.html",
+      "package.json",
+      "pnpm-lock.yaml",
+      "src/app.html",
+      "src/lib/server/router/example.ts",
+      "static/logo_512.png",
+      "static/manifest.json",
+      "static/robots.txt",
+      "svelte.config.js",
+      "tsconfig.json"
+    ]
+  },
+  "52fa77a": {
+    "author": "MahmoodKhalil57",
+    "subject": "Revert \"Revert \"(init) add PWA\"\"",
+    "date": "1677944106",
+    "branches": "",
+    "parents": [
+      "84b38dc"
+    ],
+    "files": [
+      "127.0.0.1_2023-02-11_06-32-12.report.html",
+      "package.json",
+      "pnpm-lock.yaml",
+      "src/app.html",
+      "src/lib/server/router/example.ts",
+      "static/logo_512.png",
+      "static/manifest.json",
+      "static/robots.txt",
+      "svelte.config.js",
+      "tsconfig.json"
+    ]
+  },
+  "84b38dc": {
+    "author": "MahmoodKhalil57",
+    "subject": "Revert \"(init) add PWA\"",
+    "date": "1677943538",
+    "branches": "",
+    "parents": [
+      "acc9cff"
+    ],
+    "files": [
+      "127.0.0.1_2023-02-11_06-32-12.report.html",
+      "package.json",
+      "pnpm-lock.yaml",
+      "src/app.html",
+      "src/lib/server/router/example.ts",
+      "src/service-worker.ts",
+      "static/logo_512.png",
+      "static/manifest.json",
+      "static/robots.txt",
+      "svelte.config.js",
+      "tsconfig.json"
+    ]
+  },
+  "acc9cff": {
+    "author": "MahmoodKhalil57",
+    "subject": "Revert \"sourcemap #8\"",
+    "date": "1677943472",
+    "branches": "",
+    "parents": [
+      "02251b6"
+    ],
+    "files": [
+      "package.json",
+      "pnpm-lock.yaml",
+      "svelte.config.js",
+      "vite.config.ts"
+    ]
+  },
+  "02251b6": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'MahmoodKhalil57/issue16'",
+    "date": "1677943425",
+    "branches": "",
+    "parents": [
+      "41a7c32",
+      "b557c00"
+    ],
+    "files": []
+  },
+  "b557c00": {
+    "author": "MahmoodKhalil57",
+    "subject": "init checkout payments",
+    "date": "1677943384",
+    "branches": "",
+    "parents": [
+      "03b9896"
+    ],
+    "files": [
+      "src/lib/server/router/checkout.ts",
+      "src/routes/(app)/checkout/payment/+page.svelte"
+    ]
+  },
+  "03b9896": {
+    "author": "MahmoodKhalil57",
+    "subject": "Add checkout/payments",
+    "date": "1677936957",
+    "branches": "",
+    "parents": [
+      "b9f8e09"
+    ],
+    "files": [
+      "src/lib/components/ui/radioButtons.svelte",
+      "src/lib/server/router/checkout.ts",
+      "src/lib/styles/daisyMain.css",
+      "src/routes/(app)/+layout.svelte",
+      "src/routes/(app)/checkout/contactInfo/+page.svelte",
+      "src/routes/(app)/checkout/payment/+page.svelte",
+      "src/routes/(app)/products/(index)/+layout.svelte"
+    ]
+  },
+  "41a7c32": {
+    "author": "Omar Khorshid",
+    "subject": "Merge branch 'OKhorshid/issue15'",
+    "date": "1677932835",
+    "branches": "",
+    "parents": [
+      "b9f8e09",
+      "087790d"
+    ],
+    "files": []
+  },
+  "087790d": {
+    "author": "Omar Khorshid",
+    "subject": " Curlture components folder",
+    "date": "1677932715",
+    "branches": "",
+    "parents": [
+      "4b2debf"
+    ],
+    "files": [
+      "src/lib/components/curlture/cartProduct.svelte",
+      "src/lib/components/curlture/priceList.svelte",
+      "src/lib/components/curlture/product.svelte",
+      "src/routes/(app)/products/(index)/+page.svelte",
+      "src/routes/(app)/showcase/+page.svelte"
+    ]
+  },
+  "4b2debf": {
+    "author": "Omar Khorshid",
+    "subject": "input group WIP",
+    "date": "1677932403",
+    "branches": "",
+    "parents": [
+      "9485c94"
+    ],
+    "files": [
+      "src/lib/components/ui/inputGroup.svelte",
+      "src/routes/(app)/yourCart/+page.svelte"
+    ]
+  },
+  "9485c94": {
+    "author": "Omar Khorshid",
+    "subject": "myCart added to drawerContent",
+    "date": "1677925944",
+    "branches": "",
+    "parents": [
+      "fe6e316"
+    ],
+    "files": [
+      "src/lib/components/layout/DrawerContent.svelte"
+    ]
+  },
+  "fe6e316": {
+    "author": "Omar Khorshid",
+    "subject": "Merge remote-tracking branch 'origin/master' into OKhorshid/issue15",
+    "date": "1677925425",
+    "branches": "",
+    "parents": [
+      "e0e2426",
+      "b9f8e09"
+    ],
+    "files": []
+  },
+  "e0e2426": {
+    "author": "Omar Khorshid",
+    "subject": "InputGroup WIP",
+    "date": "1677925393",
+    "branches": "",
+    "parents": [
+      "b9d4020"
+    ],
+    "files": [
+      "src/lib/components/ui/inputGroup.svelte"
+    ]
+  },
+  "b9f8e09": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'OKhorshid/issue14'",
+    "date": "1677923868",
+    "branches": "",
+    "parents": [
+      "6eeecf1",
+      "db6cafd"
+    ],
+    "files": []
+  },
+  "db6cafd": {
+    "author": "MahmoodKhalil57",
+    "subject": "add redirect",
+    "date": "1677923845",
+    "branches": "",
+    "parents": [
+      "4d6e361"
+    ],
+    "files": [
+      "src/routes/(app)/checkout/+page.ts"
+    ]
+  },
+  "6eeecf1": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'OKhorshid/issue14'",
+    "date": "1677923495",
+    "branches": "",
+    "parents": [
+      "96a489d",
+      "4d6e361"
+    ],
+    "files": []
+  },
+  "4d6e361": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'MahmoodKhalil57/issue10' into OKhorshid/issue14",
+    "date": "1677923445",
+    "branches": "",
+    "parents": [
+      "955e6f0",
+      "ce4e982"
+    ],
+    "files": []
+  },
+  "ce4e982": {
+    "author": "MahmoodKhalil57",
+    "subject": "fix khorshid classes",
+    "date": "1677923330",
+    "branches": "",
+    "parents": [
+      "82a8190"
+    ],
+    "files": [
+      "src/lib/components/utils/DrawerContainer.svelte"
+    ]
+  },
+  "82a8190": {
+    "author": "MahmoodKhalil57",
+    "subject": "fix khorshid classes",
+    "date": "1677923232",
+    "branches": "",
+    "parents": [
+      "f4b136a"
+    ],
+    "files": [
+      "src/lib/components/utils/DrawerContainer.svelte"
+    ]
+  },
+  "96a489d": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'MahmoodKhalil57/issue9'",
+    "date": "1677923007",
+    "branches": "",
+    "parents": [
+      "6ed1d43",
+      "a1b7149"
+    ],
+    "files": []
+  },
+  "6ed1d43": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'OKhorshid/issue14'",
+    "date": "1677922998",
+    "branches": "",
+    "parents": [
+      "65d259d",
+      "955e6f0"
+    ],
+    "files": []
+  },
+  "a1b7149": {
+    "author": "MahmoodKhalil57",
+    "subject": "use khorshid classes",
+    "date": "1677922964",
+    "branches": "",
+    "parents": [
+      "06522ac"
+    ],
+    "files": [
+      "src/lib/components/ui/buttonDefault.svelte",
+      "src/lib/components/ui/cartProduct.svelte",
+      "src/lib/components/ui/checkboxDefault.svelte",
+      "src/lib/components/ui/checkboxToggle.svelte",
+      "src/lib/components/ui/dropdownDefault.svelte",
+      "src/lib/components/ui/dropdownTwo.svelte",
+      "src/lib/components/ui/imageCarousel.svelte",
+      "src/lib/components/ui/product.svelte",
+      "src/lib/components/ui/radioButtons.svelte"
+    ]
+  },
+  "955e6f0": {
+    "author": "MahmoodKhalil57",
+    "subject": "move checkout contactInfo",
+    "date": "1677921965",
+    "branches": "",
+    "parents": [
+      "3a2be26"
+    ],
+    "files": [
+      "src/routes/(app)/checkout/contactInfo/+page.svelte"
+    ]
+  },
+  "3a2be26": {
+    "author": "MahmoodKhalil57",
+    "subject": "remove tsIgnore",
+    "date": "1677921808",
+    "branches": "",
+    "parents": [
+      "43b4c27"
+    ],
+    "files": [
+      "src/routes/(app)/checkout/+page.svelte"
+    ]
+  },
+  "b9d4020": {
+    "author": "Omar Khorshid",
+    "subject": "InputGroup/page + .button (app.css)",
+    "date": "1677785931",
+    "branches": "",
+    "parents": [
+      "65d259d"
+    ],
+    "files": [
+      "src/app.css",
+      "src/lib/components/ui/inputGroup.svelte",
+      "src/routes/(app)/yourCart/+page.svelte"
+    ]
+  },
+  "65d259d": {
+    "author": "Omar Khorshid",
+    "subject": "Merge remote-tracking branch 'origin/OKhorshid/issue14'",
+    "date": "1677626676",
+    "branches": "",
+    "parents": [
+      "8fd47cd",
+      "43b4c27"
+    ],
+    "files": []
+  },
+  "43b4c27": {
+    "author": "Omar Khorshid",
+    "subject": "hotfix",
+    "date": "1677626530",
+    "branches": "",
+    "parents": [
+      "ff9ec77"
+    ],
+    "files": [
+      "src/routes/(app)/checkout/+page.svelte"
+    ]
+  },
+  "ff9ec77": {
+    "author": "Omar Khorshid",
+    "subject": "add checkoutPage Fixes #14",
+    "date": "1677626000",
+    "branches": "",
+    "parents": [
+      "4cfaca5"
+    ],
+    "files": [
+      "src/lib/components/layout/DrawerContent.svelte",
+      "src/lib/components/layout/Footer.svelte",
+      "src/lib/components/utils/DrawerContainer.svelte",
+      "src/lib/server/router/checkout.ts",
+      "src/lib/server/router/shopifyRouter.ts",
+      "src/routes/(app)/+layout.svelte",
+      "src/routes/(app)/checkout/+page.svelte",
+      "src/routes/+error.svelte"
+    ]
+  },
+  "6bbdf75": {
+    "author": "MahmoodKhalil57",
+    "subject": "fix errors fixes #13",
+    "date": "1677338564",
+    "branches": " (origin/OKhorshid/issue13)",
+    "parents": [
+      "e115b4a"
+    ],
+    "files": [
+      "src/lib/server/utils/adminQlClient.ts",
+      "src/lib/server/utils/adminQlController.ts",
+      "src/routes/(app)/checkout/+page.svelte",
+      "svelte.config.js",
+      "tsconfig.json"
+    ]
+  },
+  "e115b4a": {
+    "author": "MahmoodKhalil57",
+    "subject": "Add Shopify fetch function #13: refactored previous storefrontclient file into controller & client files",
+    "date": "1677334533",
+    "branches": "",
+    "parents": [
+      "dbd9f58"
+    ],
+    "files": [
+      "src/lib/server/router/shopifyRouter.ts",
+      "src/lib/server/utils/adminQlClient.ts",
+      "src/lib/server/utils/adminQlController.ts",
+      "src/lib/server/utils/storeFrontClient.ts",
+      "tsconfig.json"
+    ]
+  },
+  "8fd47cd": {
+    "author": "MahmoodKhalil57",
+    "subject": "Revert \"Add Shopify fetch function #13:\"",
+    "date": "1677334498",
+    "branches": "",
+    "parents": [
+      "18b2305"
+    ],
+    "files": [
+      "src/lib/server/router/shopifyRouter.ts",
+      "src/lib/server/utils/adminQlClient.ts",
+      "src/lib/server/utils/adminQlController.ts",
+      "src/lib/server/utils/storeFrontClient.ts",
+      "tsconfig.json"
+    ]
+  },
+  "18b2305": {
+    "author": "Omar Khorshid",
+    "subject": "Add Shopify fetch function #13: refactored previous storefrontclient file into controller & client files",
+    "date": "1677334291",
+    "branches": "",
+    "parents": [
+      "c8be3a5"
+    ],
+    "files": [
+      "src/lib/server/router/shopifyRouter.ts",
+      "src/lib/server/utils/adminQlClient.ts",
+      "src/lib/server/utils/adminQlController.ts",
+      "src/lib/server/utils/storeFrontClient.ts",
+      "tsconfig.json"
+    ]
+  },
+  "4cfaca5": {
+    "author": "Omar Khorshid",
+    "subject": "front to backend integ. using checkout router file +checkbutton hotfix",
+    "date": "1677185929",
+    "branches": "",
+    "parents": [
+      "b626f2f"
+    ],
+    "files": [
+      "src/lib/components/ui/checkboxDefaultReverse.svelte",
+      "src/lib/server/root.ts",
+      "src/lib/server/router/checkout.ts",
+      "src/routes/(app)/checkout/+page.svelte"
+    ]
+  },
+  "b626f2f": {
+    "author": "Omar Khorshid",
+    "subject": "further UI integration + 1 other file modified",
+    "date": "1677177913",
+    "branches": "",
+    "parents": [
+      "a9e06a2"
+    ],
+    "files": [
+      "src/routes/(app)/checkout/+page.svelte",
+      "src/routes/+layout.svelte"
+    ]
+  },
+  "a9e06a2": {
+    "author": "Omar Khorshid",
+    "subject": "merging main to: add checkoutPage #14",
+    "date": "1677166704",
+    "branches": "",
+    "parents": [
+      "db1fdac",
+      "c8be3a5"
+    ],
+    "files": []
+  },
+  "c8be3a5": {
+    "author": "Omar Khorshid",
+    "subject": "Merge remote-tracking branch 'origin/OKhorshid/issue13'",
+    "date": "1677165684",
+    "branches": "",
+    "parents": [
+      "02435a5",
+      "dbd9f58"
+    ],
+    "files": []
+  },
+  "db1fdac": {
+    "author": "Omar Khorshid",
+    "subject": "checkboxdefault reverse + WIP #14",
+    "date": "1677148737",
+    "branches": "",
+    "parents": [
+      "786e562"
+    ],
+    "files": [
+      "src/lib/components/ui/checkboxDefaultReverse.svelte",
+      "src/routes/(app)/checkout/+page.svelte"
+    ]
+  },
+  "dbd9f58": {
+    "author": "Omar Khorshid",
+    "subject": "Merge branch 'OKhorshid/issue13' of https://github.com/MyCurlture/svelteCurlture into OKhorshid/issue13",
+    "date": "1677137076",
+    "branches": "",
+    "parents": [
+      "beceb2e",
+      "981d9c3"
+    ],
+    "files": []
+  },
+  "beceb2e": {
+    "author": "Omar Khorshid",
+    "subject": "checkout +page, folder & outline created",
+    "date": "1677079758",
+    "branches": "",
+    "parents": [
+      "6417219"
+    ],
+    "files": [
+      "src/routes/(app)/checkout/+page.svelte"
+    ]
+  },
+  "981d9c3": {
+    "author": "MahmoodKhalil57",
+    "subject": "add export mutation",
+    "date": "1676841488",
+    "branches": "",
+    "parents": [
+      "4f94ddc"
+    ],
+    "files": [
+      "apollo-types.js",
+      "src/lib/server/types/shopifyqlMin.types.ts",
+      "src/lib/server/utils/storeFrontClient.ts"
+    ]
+  },
+  "4f94ddc": {
+    "author": "MahmoodKhalil57",
+    "subject": "Some touches",
+    "date": "1676825387",
+    "branches": "",
+    "parents": [
+      "5bb6012"
+    ],
+    "files": [
+      "apollo-types.js",
+      "src/lib/server/types/shopifyqlMin.types.ts",
+      "src/lib/server/utils/storeFrontClient.ts"
+    ]
+  },
+  "5bb6012": {
+    "author": "MahmoodKhalil57",
+    "subject": "clean up types",
+    "date": "1676823261",
+    "branches": "",
+    "parents": [
+      "f0e6f54"
+    ],
+    "files": [
+      "apollo-types.js",
+      "package.json",
+      "schema.json",
+      "src/lib/server/types/shopifyqlMin.types.ts",
+      "src/lib/server/utils/storeFrontClient.ts"
+    ]
+  },
+  "f0e6f54": {
+    "author": "MahmoodKhalil57",
+    "subject": "minifyTypes",
+    "date": "1676821045",
+    "branches": "",
+    "parents": [
+      "4583ee1"
+    ],
+    "files": [
+      "src/lib/server/types/shopifyqlMin.types.ts",
+      "src/lib/server/utils/storeFrontClient.ts"
+    ]
+  },
+  "4583ee1": {
+    "author": "MahmoodKhalil57",
+    "subject": "finalize type generation",
+    "date": "1676820684",
+    "branches": "",
+    "parents": [
+      "4c0504f"
+    ],
+    "files": [
+      "apollo-types.js",
+      "package.json",
+      "pnpm-lock.yaml",
+      "src/lib/server/router/shopifyRouter.ts",
+      "src/lib/server/types/shopifyql.types.ts",
+      "src/lib/server/utils/allGraphql.types.ts",
+      "src/lib/server/utils/graphql.types.ts",
+      "src/lib/server/utils/storeFrontClient.ts"
+    ]
+  },
+  "4c0504f": {
+    "author": "MahmoodKhalil57",
+    "subject": "use graphql types and cleanup",
+    "date": "1676774154",
+    "branches": "",
+    "parents": [
+      "2bc2480"
+    ],
+    "files": [
+      "src/lib/server/router/shopifyRouter.ts",
+      "src/lib/server/utils/storeFrontClient.ts",
+      "src/routes/(app)/products/(index)/+page.svelte"
+    ]
+  },
+  "2bc2480": {
+    "author": "MahmoodKhalil57",
+    "subject": "add graphql types",
+    "date": "1676774141",
+    "branches": "",
+    "parents": [
+      "6417219"
+    ],
+    "files": [
+      "apollo-types.js",
+      "package.json",
+      "pnpm-lock.yaml",
+      "schema.json",
+      "src/lib/server/utils/allGraphql.types.ts",
+      "src/lib/server/utils/graphql.types.ts"
+    ]
+  },
+  "02435a5": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'MahmoodKhalil57/issue8'",
+    "date": "1676747885",
+    "branches": "",
+    "parents": [
+      "5e3f63c",
+      "68bb7f6"
+    ],
+    "files": []
+  },
+  "68bb7f6": {
+    "author": "MahmoodKhalil57",
+    "subject": "sourcemap #8",
+    "date": "1676747836",
+    "branches": " (origin/MahmoodKhalil57/issue8, MahmoodKhalil57/issue8)",
+    "parents": [
+      "a3e61ce"
+    ],
+    "files": [
+      "package.json",
+      "pnpm-lock.yaml",
+      "svelte.config.js",
+      "vite.config.ts"
+    ]
+  },
+  "76182d2": {
+    "author": "MahmoodKhalil57",
+    "subject": "add type definition",
+    "date": "1676692234",
+    "branches": "",
+    "parents": [
+      "cf8c464"
+    ],
+    "files": [
+      "src/lib/server/router/shopifyRouter.ts",
+      "src/lib/server/utils/storeFrontClient.ts"
+    ]
+  },
+  "3c94a75": {
+    "author": "MahmoodKhalil57",
+    "subject": "add rest",
+    "date": "1676689451",
+    "branches": " (origin/restTest)",
+    "parents": [
+      "cf8c464"
+    ],
+    "files": [
+      "src/lib/server/router/shopifyRouter.ts",
+      "src/lib/server/utils/storeFrontClient.ts"
+    ]
+  },
+  "cf8c464": {
+    "author": "MahmoodKhalil57",
+    "subject": "cleanup",
+    "date": "1676687121",
+    "branches": "",
+    "parents": [
+      "47f9e09"
+    ],
+    "files": [
+      "src/lib/server/utils/storeFrontClient.ts"
+    ]
+  },
+  "47f9e09": {
+    "author": "MahmoodKhalil57",
+    "subject": "Got the bitch",
+    "date": "1676679971",
+    "branches": "",
+    "parents": [
+      "b2884ff"
+    ],
+    "files": [
+      "src/lib/server/router/shopifyRouter.ts",
+      "src/lib/server/utils/storeFrontClient.ts"
+    ]
+  },
+  "b2884ff": {
+    "author": "MahmoodKhalil57",
+    "subject": "back to 406 error",
+    "date": "1676678701",
+    "branches": "",
+    "parents": [
+      "8ee0800"
+    ],
+    "files": [
+      "src/lib/server/router/shopifyRouter.ts",
+      "src/lib/server/utils/storeFrontClient.ts"
+    ]
+  },
+  "8ee0800": {
+    "author": "MahmoodKhalil57",
+    "subject": "Revert \"mk stuff\"",
+    "date": "1676677433",
+    "branches": "",
+    "parents": [
+      "12de0ef"
+    ],
+    "files": [
+      "src/lib/server/router/shopifyRouter.ts",
+      "src/lib/server/utils/storeFrontClient.ts"
+    ]
+  },
+  "12de0ef": {
+    "author": "MahmoodKhalil57",
+    "subject": "Revert \"different error\"",
+    "date": "1676677425",
+    "branches": "",
+    "parents": [
+      "c900b43"
+    ],
+    "files": [
+      "src/lib/server/utils/storeFrontClient.ts"
+    ]
+  },
+  "c900b43": {
+    "author": "MahmoodKhalil57",
+    "subject": "Revert \"cleanup\"",
+    "date": "1676677422",
+    "branches": "",
+    "parents": [
+      "c8667a1"
+    ],
+    "files": [
+      "src/lib/server/router/shopifyRouter.ts",
+      "src/lib/server/utils/storeFrontClient.ts"
+    ]
+  },
+  "c8667a1": {
+    "author": "MahmoodKhalil57",
+    "subject": "Revert \"cleanup again\"",
+    "date": "1676677417",
+    "branches": "",
+    "parents": [
+      "9722bcc"
+    ],
+    "files": [
+      "src/lib/server/router/shopifyRouter.ts",
+      "src/lib/server/utils/storeFrontClient.ts"
+    ]
+  },
+  "9722bcc": {
+    "author": "MahmoodKhalil57",
+    "subject": "cleanup again",
+    "date": "1676675074",
+    "branches": "",
+    "parents": [
+      "637a0da"
+    ],
+    "files": [
+      "src/lib/server/router/shopifyRouter.ts",
+      "src/lib/server/utils/storeFrontClient.ts"
+    ]
+  },
+  "637a0da": {
+    "author": "MahmoodKhalil57",
+    "subject": "cleanup",
+    "date": "1676674756",
+    "branches": "",
+    "parents": [
+      "e659f14"
+    ],
+    "files": [
+      "src/lib/server/router/shopifyRouter.ts",
+      "src/lib/server/utils/storeFrontClient.ts"
+    ]
+  },
+  "e659f14": {
+    "author": "MahmoodKhalil57",
+    "subject": "different error",
+    "date": "1676673831",
+    "branches": "",
+    "parents": [
+      "564d31a"
+    ],
+    "files": [
+      "src/lib/server/utils/storeFrontClient.ts"
+    ]
+  },
+  "564d31a": {
+    "author": "MahmoodKhalil57",
+    "subject": "mk stuff",
+    "date": "1676672445",
+    "branches": "",
+    "parents": [
+      "0ea76c9"
+    ],
+    "files": [
+      "src/lib/server/router/shopifyRouter.ts",
+      "src/lib/server/utils/storeFrontClient.ts"
+    ]
+  },
+  "0ea76c9": {
+    "author": "Omar Khorshid",
+    "subject": "close",
+    "date": "1676665816",
+    "branches": "",
+    "parents": [
+      "b49dd65"
+    ],
+    "files": [
+      "src/lib/server/utils/storeFrontClient.ts"
+    ]
+  },
+  "b49dd65": {
+    "author": "Omar Khorshid",
+    "subject": "deprecation playstation",
+    "date": "1676662785",
+    "branches": "",
+    "parents": [
+      "4b34b85"
+    ],
+    "files": [
+      "src/lib/server/router/shopifyRouter.ts",
+      "src/lib/server/utils/base-types.ts",
+      "src/lib/server/utils/storeFrontClient.ts"
+    ]
+  },
+  "4b34b85": {
+    "author": "Omar Khorshid",
+    "subject": "newdirection/ storeFrontClient",
+    "date": "1676661699",
+    "branches": "",
+    "parents": [
+      "ed4ba8f"
+    ],
+    "files": [
+      "package.json",
+      "pnpm-lock.yaml",
+      "src/lib/server/router/shopifyRouter.ts",
+      "src/lib/server/utils/base-types.ts",
+      "src/lib/server/utils/postToShopify.js",
+      "src/lib/server/utils/storeFrontClient.ts",
+      "src/store.js",
+      "tsconfig.json"
+    ]
+  },
+  "ed4ba8f": {
+    "author": "Omar Khorshid",
+    "subject": "reverted last commit",
+    "date": "1676656271",
+    "branches": "",
+    "parents": [
+      "0d89fb7"
+    ],
+    "files": [
+      "lib/shopify.js"
+    ]
+  },
+  "0d89fb7": {
+    "author": "Omar Khorshid",
+    "subject": "Revert \"Add Shopify fetch function  tryial#13\"",
+    "date": "1676656245",
+    "branches": "",
+    "parents": [
+      "b1a1c45"
+    ],
+    "files": [
+      "src/lib/server/utils/postToShopify.js",
+      "src/routes/(app)/(index)/+page.svelte",
+      "src/store.js"
+    ]
+  },
+  "b1a1c45": {
+    "author": "Omar Khorshid",
+    "subject": "Add Shopify fetch function  tryial#13",
+    "date": "1676595946",
+    "branches": "",
+    "parents": [
+      "d9dd14a"
+    ],
+    "files": [
+      "src/postToShopify.js",
+      "src/routes/(app)/(index)/+page.svelte",
+      "src/store.js"
+    ]
+  },
+  "5e3f63c": {
+    "author": "MahmoodKhalil57",
+    "subject": "add launch",
+    "date": "1676498767",
+    "branches": "",
+    "parents": [
+      "90ad4d0"
+    ],
+    "files": [
+      ".vscode/launch.json"
+    ]
+  },
+  "d9dd14a": {
+    "author": "Omar Khorshid",
+    "subject": "Add Shopify fetch function #13 in progress",
+    "date": "1676409966",
+    "branches": "",
+    "parents": [
+      "591f476"
+    ],
+    "files": [
+      "src/lib/server/router/shopifyRouter.ts",
+      "src/lib/server/utils/postToShopify.js",
+      "src/store.js"
+    ]
+  },
+  "591f476": {
+    "author": "Omar Khorshid",
+    "subject": "Merge remote-tracking branch 'origin/master' into OKhorshid/issue13",
+    "date": "1676409897",
+    "branches": "",
+    "parents": [
+      "786e562",
+      "90ad4d0"
+    ],
+    "files": []
+  },
+  "73b41a0": {
+    "author": "Omar Khorshid",
+    "subject": "Merge remote-tracking branch 'origin/master' into OKhorshid/issue11",
+    "date": "1676361741",
+    "branches": " (origin/OKhorshid/issue11)",
+    "parents": [
+      "ef208b4",
+      "90ad4d0"
+    ],
+    "files": []
+  },
+  "90ad4d0": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'MahmoodKhalil57/issue10'",
+    "date": "1676347858",
+    "branches": "",
+    "parents": [
+      "786e562",
+      "f4b136a"
+    ],
+    "files": []
+  },
+  "f4b136a": {
+    "author": "MahmoodKhalil57",
+    "subject": " (init migrate) MK pages finish migrating pages Fixes #10",
+    "date": "1676347798",
+    "branches": "",
+    "parents": [
+      "f47b360"
+    ],
+    "files": [
+      "src/lib/components/layout/DrawerContent.svelte",
+      "src/lib/server/router/shopifyRouter.ts",
+      "src/routes/(app)/products/(index)/+layout.svelte",
+      "src/routes/(app)/products/(index)/+page.svelte",
+      "src/routes/(app)/products/[slug]/+layout.svelte",
+      "src/routes/(app)/products/[slug]/+page.svelte",
+      "tailwind.config.cjs"
+    ]
+  },
+  "f47b360": {
+    "author": "MahmoodKhalil57",
+    "subject": "(init migrate) MK pages add default shop Fixes #10",
+    "date": "1676331491",
+    "branches": "",
+    "parents": [
+      "61c85c6"
+    ],
+    "files": [
+      "src/lib/components/layout/DrawerContent.svelte",
+      "src/lib/components/utils/DrawerContainer.svelte",
+      "src/lib/server/root.ts",
+      "src/lib/server/router/shopifyRouter.ts",
+      "src/routes/(app)/defaultShop/+layout.svelte",
+      "src/routes/(app)/defaultShop/+page.svelte",
+      "svelte.config.js",
+      "tailwind.config.cjs"
+    ]
+  },
+  "ef208b4": {
+    "author": "Omar Khorshid",
+    "subject": "parseShopifyResponse function added",
+    "date": "1676277307",
+    "branches": "",
+    "parents": [
+      "786e562"
+    ],
+    "files": [
+      "lib/shopify.js"
+    ]
+  },
+  "61c85c6": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'master' into MahmoodKhalil57/issue10",
+    "date": "1676180215",
+    "branches": "",
+    "parents": [
+      "3d88036",
+      "786e562"
+    ],
+    "files": []
+  },
+  "786e562": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'MahmoodKhalil57/issue9'",
+    "date": "1676179944",
+    "branches": "",
+    "parents": [
+      "fad1bd1",
+      "06522ac"
+    ],
+    "files": []
+  },
+  "06522ac": {
+    "author": "MahmoodKhalil57",
+    "subject": "(init migrate) MK & Ok components add innerClass Fixes #9",
+    "date": "1676179864",
+    "branches": "",
+    "parents": [
+      "f845d69"
+    ],
+    "files": [
+      "src/lib/components/ui/cartProduct.svelte",
+      "src/lib/components/ui/imageCarousel.svelte",
+      "src/lib/components/ui/radioButtons.svelte",
+      "src/routes/(app)/showcase/+page.svelte"
+    ]
+  },
+  "fad1bd1": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'MahmoodKhalil57/issue9'",
+    "date": "1676179557",
+    "branches": "",
+    "parents": [
+      "5d87d81",
+      "f845d69"
+    ],
+    "files": []
+  },
+  "f845d69": {
+    "author": "MahmoodKhalil57",
+    "subject": "(init migrate) MK & Ok components add product Fixes #9",
+    "date": "1676179522",
+    "branches": "",
+    "parents": [
+      "af9a397"
+    ],
+    "files": [
+      "src/lib/components/ui/product.svelte",
+      "src/routes/(app)/showcase/+page.svelte"
+    ]
+  },
+  "5d87d81": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'MahmoodKhalil57/issue9'",
+    "date": "1676130278",
+    "branches": "",
+    "parents": [
+      "f88c922",
+      "af9a397"
+    ],
+    "files": []
+  },
+  "af9a397": {
+    "author": "MahmoodKhalil57",
+    "subject": "(init migrate) MK & Ok components migrate tailwind an css Fixes #9",
+    "date": "1676130198",
+    "branches": "",
+    "parents": [
+      "75f5172"
+    ],
+    "files": [
+      "package.json",
+      "pnpm-lock.yaml",
+      "src/app.css",
+      "src/lib/styles/daisyMain.css",
+      "src/lib/styles/typography.css",
+      "src/lib/styles/utils.css",
+      "tailwind.config.cjs"
+    ]
+  },
+  "75f5172": {
+    "author": "MahmoodKhalil57",
+    "subject": "(init migrate) MK & Ok components add product carousel Fixes #9",
+    "date": "1676129466",
+    "branches": "",
+    "parents": [
+      "a19b6f8"
+    ],
+    "files": [
+      "src/lib/components/ui/imageCarousel.svelte",
+      "src/routes/(app)/showcase/+page.svelte",
+      "static/products/1.jpg",
+      "static/products/2.jpg",
+      "static/products/3.jpg",
+      "static/products/4.png",
+      "static/products/5.png",
+      "static/products/shoppingCart.jpg"
+    ]
+  },
+  "a19b6f8": {
+    "author": "MahmoodKhalil57",
+    "subject": "(init migrate) MK & Ok components add cart Product Fixes #9",
+    "date": "1676129418",
+    "branches": "",
+    "parents": [
+      "8aa2ff8"
+    ],
+    "files": [
+      "src/lib/components/ui/cartProduct.svelte",
+      "src/routes/(app)/showcase/+page.svelte"
+    ]
+  },
+  "8aa2ff8": {
+    "author": "MahmoodKhalil57",
+    "subject": "(init migrate) MK & Ok components hotfix Fixes #9",
+    "date": "1676126050",
+    "branches": "",
+    "parents": [
+      "c5327d7"
+    ],
+    "files": [
+      "src/lib/components/ui/buttonDefault.svelte",
+      "src/lib/components/ui/checkboxDefault.svelte",
+      "src/lib/components/ui/checkboxToggle.svelte",
+      "src/lib/components/ui/dropdownDefault.svelte",
+      "src/lib/components/ui/dropdownTwo.svelte"
+    ]
+  },
+  "f88c922": {
+    "author": "Omar Khorshid",
+    "subject": "shopify token and dependencies init",
+    "date": "1676125824",
+    "branches": "",
+    "parents": [
+      "3d88036"
+    ],
+    "files": [
+      "lib/shopify.js",
+      "package.json",
+      "pnpm-lock.yaml"
+    ]
+  },
+  "c5327d7": {
+    "author": "MahmoodKhalil57",
+    "subject": "(init migrate) MK & Ok components add radio buttons Fixes #9",
+    "date": "1676125618",
+    "branches": "",
+    "parents": [
+      "e34558e"
+    ],
+    "files": [
+      "src/lib/components/ui/radioButtons.svelte",
+      "src/routes/(app)/showcase/+page.svelte"
+    ]
+  },
+  "e34558e": {
+    "author": "MahmoodKhalil57",
+    "subject": "(init migrate) MK & Ok components sync drawer Fixes #9",
+    "date": "1676124251",
+    "branches": "",
+    "parents": [
+      "e5f3531"
+    ],
+    "files": [
+      "src/lib/components/utils/DrawerContainer.svelte",
+      "src/routes/(app)/+layout.svelte",
+      "tailwind.config.cjs"
+    ]
+  },
+  "e5f3531": {
+    "author": "MahmoodKhalil57",
+    "subject": "(init migrate) MK & Ok components add innerClass to components Fixes #9",
+    "date": "1676122985",
+    "branches": "",
+    "parents": [
+      "7ce802e"
+    ],
+    "files": [
+      "src/lib/components/ui/buttonDefault.svelte",
+      "src/lib/components/ui/checkboxDefault.svelte",
+      "src/lib/components/ui/checkboxToggle.svelte",
+      "src/lib/components/ui/dropdownDefault.svelte"
+    ]
+  },
+  "7ce802e": {
+    "author": "MahmoodKhalil57",
+    "subject": "(init migrate) MK & Ok components add dropdown two Fixes #9",
+    "date": "1676122864",
+    "branches": "",
+    "parents": [
+      "b2aba2e"
+    ],
+    "files": [
+      "src/lib/components/ui/dropdownTwo.svelte",
+      "src/routes/(app)/showcase/+page.svelte"
+    ]
+  },
+  "b2aba2e": {
+    "author": "MahmoodKhalil57",
+    "subject": "(init migrate) MK & Ok components add default dropdown Fixes #9",
+    "date": "1676122268",
+    "branches": "",
+    "parents": [
+      "1908f37"
+    ],
+    "files": [
+      "src/lib/components/ui/dropdownDefault.svelte",
+      "src/routes/(app)/showcase/+page.svelte"
+    ]
+  },
+  "1908f37": {
+    "author": "MahmoodKhalil57",
+    "subject": "(init migrate) MK & Ok components add checkboxes Fixes #9",
+    "date": "1676121596",
+    "branches": "",
+    "parents": [
+      "918647c"
+    ],
+    "files": [
+      "src/lib/components/ui/checkboxDefault.svelte",
+      "src/lib/components/ui/checkboxToggle.svelte",
+      "src/routes/(app)/showcase/+page.svelte"
+    ]
+  },
+  "918647c": {
+    "author": "MahmoodKhalil57",
+    "subject": "(init migrate) MK & Ok components add button and showcase Fixes #9",
+    "date": "1676117682",
+    "branches": "",
+    "parents": [
+      "3d88036"
+    ],
+    "files": [
+      "src/lib/components/layout/DrawerContent.svelte",
+      "src/lib/components/ui/buttonDefault.svelte",
+      "src/routes/(app)/+layout.svelte",
+      "src/routes/(app)/showcase/+layout.svelte",
+      "src/routes/(app)/showcase/+page.svelte",
+      "src/routes/(app)/testpage/+page.svelte"
+    ]
+  },
+  "3d88036": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'MahmoodKhalil57/issue8'",
+    "date": "1676097253",
+    "branches": "",
+    "parents": [
+      "488ae1e",
+      "a3e61ce"
+    ],
+    "files": []
+  },
+  "a3e61ce": {
+    "author": "MahmoodKhalil57",
+    "subject": "(init) add PWA Fixes #8",
+    "date": "1676097219",
+    "branches": "",
+    "parents": [
+      "488ae1e"
+    ],
+    "files": [
+      "127.0.0.1_2023-02-11_06-32-12.report.html",
+      "package.json",
+      "pnpm-lock.yaml",
+      "src/app.html",
+      "src/lib/server/router/example.ts",
+      "src/service-worker.ts",
+      "static/logo_512.png",
+      "static/manifest.json",
+      "static/robots.txt",
+      "svelte.config.js",
+      "tsconfig.json"
+    ]
+  },
+  "488ae1e": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'MahmoodKhalil57/issue4'",
+    "date": "1676095900",
+    "branches": "",
+    "parents": [
+      "24180d6",
+      "7ee211e"
+    ],
+    "files": []
+  },
+  "7ee211e": {
+    "author": "MahmoodKhalil57",
+    "subject": "(init) setup basic pages Fixes #4",
+    "date": "1676095876",
+    "branches": "",
+    "parents": [
+      "f16752d"
+    ],
+    "files": [
+      "src/app.html",
+      "src/lib/components/utils/DarkModeToggle.svelte"
+    ]
+  },
+  "f16752d": {
+    "author": "MahmoodKhalil57",
+    "subject": "(init) setup basic pages hotfix header Fixes #4",
+    "date": "1676095075",
+    "branches": "",
+    "parents": [
+      "bdb4ada"
+    ],
+    "files": [
+      "src/lib/components/layout/Header.svelte"
+    ]
+  },
+  "bdb4ada": {
+    "author": "MahmoodKhalil57",
+    "subject": "(init) setup basic pages hotfix Fixes #4",
+    "date": "1676094974",
+    "branches": "",
+    "parents": [
+      "82464b5"
+    ],
+    "files": [
+      "src/routes/(app)/(index)/+layout.svelte"
+    ]
+  },
+  "82464b5": {
+    "author": "MahmoodKhalil57",
+    "subject": "(init) setup basic pages add pages Fixes #4",
+    "date": "1676094906",
+    "branches": "",
+    "parents": [
+      "4783c7e"
+    ],
+    "files": [
+      "src/routes/(app)/(index)/+layout.svelte",
+      "src/routes/(app)/(index)/+page.svelte",
+      "src/routes/(app)/+layout.svelte",
+      "src/routes/(app)/testpage/+layout.svelte",
+      "src/routes/(app)/testpage/+page.svelte",
+      "src/routes/+error.svelte",
+      "src/routes/+layout.svelte"
+    ]
+  },
+  "4783c7e": {
+    "author": "MahmoodKhalil57",
+    "subject": "(init) setup basic pages add layout components Fixes #4",
+    "date": "1676094889",
+    "branches": "",
+    "parents": [
+      "b2d27ff"
+    ],
+    "files": [
+      "src/lib/components/layout/DrawerContent.svelte",
+      "src/lib/components/layout/Footer.svelte",
+      "src/lib/components/layout/Header.svelte",
+      "src/lib/components/utils/DrawerContainer.svelte"
+    ]
+  },
+  "b2d27ff": {
+    "author": "MahmoodKhalil57",
+    "subject": "(init) setup basic pages add dark Fixes #4",
+    "date": "1676094829",
+    "branches": "",
+    "parents": [
+      "901d09d"
+    ],
+    "files": [
+      "src/lib/components/utils/DarkModeToggle.svelte",
+      "tailwind.config.cjs"
+    ]
+  },
+  "901d09d": {
+    "author": "MahmoodKhalil57",
+    "subject": "(init) setup basic pages add Darktheme Fixes #4",
+    "date": "1676092026",
+    "branches": "",
+    "parents": [
+      "24180d6"
+    ],
+    "files": [
+      "src/app.html",
+      "src/lib/components/utils/DarkModeToggle.svelte",
+      "tailwind.config.cjs"
+    ]
+  },
+  "24180d6": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'MahmoodKhalil57/issue3'",
+    "date": "1676088314",
+    "branches": "",
+    "parents": [
+      "8ee80fa",
+      "983961c"
+    ],
+    "files": []
+  },
+  "983961c": {
+    "author": "MahmoodKhalil57",
+    "subject": "(init) add Trpc Fixes #3",
+    "date": "1676088296",
+    "branches": " (origin/MahmoodKhalil57/issue3, MahmoodKhalil57/issue3)",
+    "parents": [
+      "8ee80fa"
+    ],
+    "files": [
+      ".vscode/launch.json",
+      "package.json",
+      "pnpm-lock.yaml",
+      "src/hooks.server.ts",
+      "src/lib/client/client.ts",
+      "src/lib/server/context.ts",
+      "src/lib/server/root.ts",
+      "src/lib/server/router/example.ts",
+      "src/routes/+page.svelte",
+      "tsconfig.json"
+    ]
+  },
+  "8ee80fa": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'MahmoodKhalil57/issue6'",
+    "date": "1676085969",
+    "branches": "",
+    "parents": [
+      "6d3a851",
+      "738f6da"
+    ],
+    "files": []
+  },
+  "738f6da": {
+    "author": "MahmoodKhalil57",
+    "subject": "(init) pnpm format Fixes #6",
+    "date": "1676085951",
+    "branches": " (origin/MahmoodKhalil57/issue6)",
+    "parents": [
+      "6d3a851"
+    ],
+    "files": [
+      "package.json",
+      "postcss.config.cjs",
+      "src/app.html",
+      "src/routes/+layout.svelte",
+      "tailwind.config.cjs"
+    ]
+  },
+  "6d3a851": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'MahmoodKhalil57/issue5'",
+    "date": "1676085826",
+    "branches": "",
+    "parents": [
+      "9fc6cee",
+      "9c9ffa1"
+    ],
+    "files": []
+  },
+  "9c9ffa1": {
+    "author": "MahmoodKhalil57",
+    "subject": "(init) Fix ts error Fixes #5",
+    "date": "1676085806",
+    "branches": " (origin/MahmoodKhalil57/issue5)",
+    "parents": [
+      "9fc6cee"
+    ],
+    "files": [
+      "tsconfig.json"
+    ]
+  },
+  "9fc6cee": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'MahmoodKhalil57/issue2'",
+    "date": "1676085650",
+    "branches": "",
+    "parents": [
+      "a58069e",
+      "c38448a"
+    ],
+    "files": []
+  },
+  "c38448a": {
+    "author": "MahmoodKhalil57",
+    "subject": "(init) Add daisy Fixes #2",
+    "date": "1676085608",
+    "branches": " (origin/MahmoodKhalil57/issue2)",
+    "parents": [
+      "a58069e"
+    ],
+    "files": [
+      "package.json",
+      "pnpm-lock.yaml",
+      "tailwind.config.cjs"
+    ]
+  },
+  "a58069e": {
+    "author": "MahmoodKhalil57",
+    "subject": "Merge branch 'MahmoodKhalil57/issue1'",
+    "date": "1676085324",
+    "branches": "",
+    "parents": [
+      "f342a9f",
+      "3479311"
+    ],
+    "files": []
+  },
+  "f342a9f": {
+    "author": "MahmoodKhalil57",
+    "subject": "add pnpm lock",
+    "date": "1676084709",
+    "branches": "",
+    "parents": [
+      "4f2c376"
+    ],
+    "files": [
+      "pnpm-lock.yaml"
+    ]
+  },
+  "4f2c376": {
+    "author": "MahmoodKhalil57",
+    "subject": "command pnpm create svelte@latest .",
+    "date": "1676084548",
+    "branches": "",
+    "parents": [
+      ""
+    ],
+    "files": [
+      ".eslintignore",
+      ".eslintrc.cjs",
+      ".gitignore",
+      ".npmrc",
+      ".prettierignore",
+      ".prettierrc",
+      "README.md",
+      "package.json",
+      "src/app.d.ts",
+      "src/app.html",
+      "src/routes/+page.svelte",
+      "static/favicon.png",
+      "svelte.config.js",
+      "tsconfig.json"
+    ]
+  }
+}

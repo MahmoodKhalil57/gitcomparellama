@@ -1,0 +1,31 @@
+{
+  "name": "create-gitcomparellama",
+  "version": "0.0.1",
+  "description": "",
+  "main": "dist/index.js",
+  "bin": {
+    "git-compare": "dist/index.js"
+  },
+  "scripts": {
+    "start": "tsc && node dist/index.js",
+    "build": "tsc",
+    "watch": "tsc --watch",
+    "dev": "node dist/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "include": [
+    "./typings-custom/**/*.ts"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.15.5",
+    "typescript": "^5.0.2"
+  },
+  "map": {
+    "child_process": "@node/child_process"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  }
+}

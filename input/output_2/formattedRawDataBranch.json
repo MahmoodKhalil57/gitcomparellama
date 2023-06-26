@@ -1,0 +1,401 @@
+[
+  {
+    "branchName": "5edma",
+    "commitHash": "02b84ca",
+    "upstream": "",
+    "upstreamTrack": "",
+    "head": ""
+  },
+  {
+    "branchName": "DEPRECATED_DO_NOT_USE_OKhorshid/issue35",
+    "commitHash": "1dea917",
+    "upstream": "",
+    "upstreamTrack": "",
+    "head": ""
+  },
+  {
+    "branchName": "HEAD",
+    "commitHash": "cca27f3",
+    "upstream": "",
+    "upstreamTrack": "",
+    "head": ""
+  },
+  {
+    "branchName": "Hotfix/v1.0.1",
+    "commitHash": "4bf8e8c",
+    "upstream": "",
+    "upstreamTrack": "",
+    "head": ""
+  },
+  {
+    "branchName": "Hotfix_v0.0.1",
+    "commitHash": "796386f",
+    "upstream": "",
+    "upstreamTrack": "",
+    "head": ""
+  },
+  {
+    "branchName": "MahmoodKhalil57/issue1",
+    "commitHash": "3479311",
+    "upstream": "",
+    "upstreamTrack": "",
+    "head": ""
+  },
+  {
+    "branchName": "MahmoodKhalil57/issue10",
+    "commitHash": "e60aa16",
+    "upstream": "",
+    "upstreamTrack": "",
+    "head": ""
+  },
+  {
+    "branchName": "MahmoodKhalil57/issue12",
+    "commitHash": "acbd9cf",
+    "upstream": "",
+    "upstreamTrack": "",
+    "head": ""
+  },
+  {
+    "branchName": "MahmoodKhalil57/issue16",
+    "commitHash": "2623ddd",
+    "upstream": "",
+    "upstreamTrack": "",
+    "head": ""
+  },
+  {
+    "branchName": "MahmoodKhalil57/issue17",
+    "commitHash": "ba31fec",
+    "upstream": "",
+    "upstreamTrack": "",
+    "head": ""
+  },
+  {
+    "branchName": "MahmoodKhalil57/issue18",
+    "commitHash": "191ddc5",
+    "upstream": "",
+    "upstreamTrack": "",
+    "head": ""
+  },
+  {
+    "branchName": "MahmoodKhalil57/issue19",
+    "commitHash": "90f925f",
+    "upstream": "",
+    "upstreamTrack": "",
+    "head": ""
+  },
+  {
+    "branchName": "MahmoodKhalil57/issue2",
+    "commitHash": "c38448a",
+    "upstream": "",
+    "upstreamTrack": "",
+    "head": ""
+  },
+  {
+    "branchName": "MahmoodKhalil57/issue22",
+    "commitHash": "7b4156a",
+    "upstream": "",
+    "upstreamTrack": "",
+    "head": ""
+  },
+  {
+    "branchName": "MahmoodKhalil57/issue24",
+    "commitHash": "4f21ff8",
+    "upstream": "",
+    "upstreamTrack": "",
+    "head": ""
+  },
+  {
+    "branchName": "MahmoodKhalil57/issue27",
+    "commitHash": "667398a",
+    "upstream": "",
+    "upstreamTrack": "",
+    "head": ""
+  },
+  {
+    "branchName": "MahmoodKhalil57/issue29",
+    "commitHash": "26b8121",
+    "upstream": "",
+    "upstreamTrack": "",
+    "head": ""
+  },
+  {
+    "branchName": "MahmoodKhalil57/issue3",
+    "commitHash": "983961c",
+    "upstream": "",
+    "upstreamTrack": "",
+    "head": ""
+  },
+  {
+    "branchName": "MahmoodKhalil57/issue33",
+    "commitHash": "03b68b3",
+    "upstream": "",
+    "upstreamTrack": "",
+    "head": ""
+  },
+  {
+    "branchName": "MahmoodKhalil57/issue34",
+    "commitHash": "8a9cf06",
+    "upstream": "",
+    "upstreamTrack": "",
+    "head": ""
+  },
+  {
+    "branchName": "MahmoodKhalil57/issue36",
+    "commitHash": "178b99f",
+    "upstream": "",
+    "upstreamTrack": "",
+    "head": ""
+  },
+  {
+    "branchName": "MahmoodKhalil57/issue37",
+    "commitHash": "267aa9a",
+    "upstream": "",
+    "upstreamTrack": "",
+    "head": ""
+  },
+  {
+    "branchName": "MahmoodKhalil57/issue38",
+    "commitHash": "4f141db",
+    "upstream": "",
+    "upstreamTrack": "",
+    "head": ""
+  },
+  {
+    "branchName": "MahmoodKhalil57/issue38(DEPRECATED)",
+    "commitHash": "b5a3910",
+    "upstream": "",
+    "upstreamTrack": "",
+    "head": ""
+  },
+  {
+    "branchName": "MahmoodKhalil57/issue39",
+    "commitHash": "e7fec25",
+    "upstream": "",
+    "upstreamTrack": "",
+    "head": ""
+  },
+  {
+    "branchName": "MahmoodKhalil57/issue4",
+    "commitHash": "9b2cde9",
+    "upstream": "",
+    "upstreamTrack": "",
+    "head": ""
+  },
+  {
+    "branchName": "MahmoodKhalil57/issue40",
+    "commitHash": "948548e",
+    "upstream": "",
+    "upstreamTrack": "",
+    "head": ""
+  },
+  {
+    "branchName": "MahmoodKhalil57/issue41",
+    "commitHash": "044f7a4",
+    "upstream": "",
+    "upstreamTrack": "",
+    "head": ""
+  },
+  {
+    "branchName": "MahmoodKhalil57/issue5",
+    "commitHash": "9c9ffa1",
+    "upstream": "",
+    "upstreamTrack": "",
+    "head": ""
+  },
+  {
+    "branchName": "MahmoodKhalil57/issue55",
+    "commitHash": "b487eec",
+    "upstream": "",
+    "upstreamTrack": "",
+    "head": ""
+  },
+  {
+    "branchName": "MahmoodKhalil57/issue56",
+    "commitHash": "52f3c6f",
+    "upstream": "",
+    "upstreamTrack": "",
+    "head": ""
+  },
+  {
+    "branchName": "MahmoodKhalil57/issue6",
+    "commitHash": "738f6da",
+    "upstream": "",
+    "upstreamTrack": "",
+    "head": ""
+  },
+  {
+    "branchName": "MahmoodKhalil57/issue7",
+    "commitHash": "a776a5b",
+    "upstream": "",
+    "upstreamTrack": "",
+    "head": ""
+  },
+  {
+    "branchName": "MahmoodKhalil57/issue8",
+    "commitHash": "68bb7f6",
+    "upstream": "",
+    "upstreamTrack": "",
+    "head": ""
+  },
+  {
+    "branchName": "MahmoodKhalil57/issue9",
+    "commitHash": "90ff92a",
+    "upstream": "",
+    "upstreamTrack": "",
+    "head": ""
+  },
+  {
+    "branchName": "OKhorshid/issue11",
+    "commitHash": "73b41a0",
+    "upstream": "",
+    "upstreamTrack": "",
+    "head": ""
+  },
+  {
+    "branchName": "OKhorshid/issue13",
+    "commitHash": "6bbdf75",
+    "upstream": "",
+    "upstreamTrack": "",
+    "head": ""
+  },
+  {
+    "branchName": "OKhorshid/issue14",
+    "commitHash": "62fa135",
+    "upstream": "",
+    "upstreamTrack": "",
+    "head": ""
+  },
+  {
+    "branchName": "OKhorshid/issue15",
+    "commitHash": "d6b7d80",
+    "upstream": "",
+    "upstreamTrack": "",
+    "head": ""
+  },
+  {
+    "branchName": "OKhorshid/issue21",
+    "commitHash": "2bc241b",
+    "upstream": "",
+    "upstreamTrack": "",
+    "head": ""
+  },
+  {
+    "branchName": "OKhorshid/issue23",
+    "commitHash": "cc7ce45",
+    "upstream": "",
+    "upstreamTrack": "",
+    "head": ""
+  },
+  {
+    "branchName": "OKhorshid/issue25",
+    "commitHash": "20d16d3",
+    "upstream": "",
+    "upstreamTrack": "",
+    "head": ""
+  },
+  {
+    "branchName": "OKhorshid/issue28",
+    "commitHash": "cb1b8c4",
+    "upstream": "",
+    "upstreamTrack": "",
+    "head": ""
+  },
+  {
+    "branchName": "OKhorshid/issue31",
+    "commitHash": "18bd1b1",
+    "upstream": "",
+    "upstreamTrack": "",
+    "head": ""
+  },
+  {
+    "branchName": "OKhorshid/issue35",
+    "commitHash": "3316c1d",
+    "upstream": "",
+    "upstreamTrack": "",
+    "head": ""
+  },
+  {
+    "branchName": "OKhorshid/issue35(DEPRECATED)",
+    "commitHash": "3316c1d",
+    "upstream": "",
+    "upstreamTrack": "",
+    "head": ""
+  },
+  {
+    "branchName": "OKhorshid/issue50",
+    "commitHash": "f43d732",
+    "upstream": "",
+    "upstreamTrack": "",
+    "head": ""
+  },
+  {
+    "branchName": "OKhorshid/issue52",
+    "commitHash": "b9c372e",
+    "upstream": "",
+    "upstreamTrack": "",
+    "head": ""
+  },
+  {
+    "branchName": "addDocker",
+    "commitHash": "0877ba6",
+    "upstream": "",
+    "upstreamTrack": "",
+    "head": ""
+  },
+  {
+    "branchName": "bugfix-0.0.2",
+    "commitHash": "8b67ed8",
+    "upstream": "",
+    "upstreamTrack": "",
+    "head": ""
+  },
+  {
+    "branchName": "hotfix-pnpm-build",
+    "commitHash": "49a0395",
+    "upstream": "",
+    "upstreamTrack": "",
+    "head": ""
+  },
+  {
+    "branchName": "mahmoodKhalil/issue30",
+    "commitHash": "7ab64b2",
+    "upstream": "",
+    "upstreamTrack": "",
+    "head": ""
+  },
+  {
+    "branchName": "master",
+    "commitHash": "cca27f3",
+    "upstream": "",
+    "upstreamTrack": "",
+    "head": ""
+  },
+  {
+    "branchName": "pnpm_update",
+    "commitHash": "5a42ee6",
+    "upstream": "",
+    "upstreamTrack": "",
+    "head": ""
+  },
+  {
+    "branchName": "production_V1.0.0",
+    "commitHash": "debe67c",
+    "upstream": "",
+    "upstreamTrack": "",
+    "head": ""
+  },
+  {
+    "branchName": "production_V1.0.0_netlify",
+    "commitHash": "03c8731",
+    "upstream": "",
+    "upstreamTrack": "",
+    "head": ""
+  },
+  {
+    "branchName": "restTest",
+    "commitHash": "3c94a75",
+    "upstream": "",
+    "upstreamTrack": "",
+    "head": ""
+  }
+]
